@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Environment variables
+.env
+
+# Other project-specific files to ignore...
+*.pyc
+.idea/
+.vscode/
+
+# Special files
+old_file/
+test_py_file/
+Notes_and_Test_Files/
+Example Data/
+finder/
+First Round/
+old_clean/
+rank_star_data/
+star_data2/
+test_py_file/
+utils/
