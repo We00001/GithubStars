@@ -144,6 +144,8 @@ def extract_github(prompt1, prompt2, api_key, pdf_url = None): # find the github
             return None
     else:
         return None
+    
+    
 from tqdm import tqdm
 def githublink_extractor(input_file, output_file, gemini_api_key):
     prompt1 = "I will provide an article about AI. I need you to find out the GitHub link for the article's project. Do not provide any links that are cited or referenced. Provide the link with this form: 'The Github Link is: https://...' or I didn't find the project link"

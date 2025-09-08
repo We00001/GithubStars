@@ -31,7 +31,7 @@ def crawl_star(github_link, token):
             data = response.json()
             return data['stargazers_count']
         else:
-            logging.info(f"Error: {response.status_code} - {response.json().get('message', 'Unknown error')}")
+            logging.info(f"{url}Error: {response.status_code} - {response.json().get('message', 'Unknown error')}")
 
             return None
 
