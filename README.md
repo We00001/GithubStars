@@ -13,7 +13,7 @@ Before running any scripts, ensure you have all the necessary Python libraries i
 git clone https://github.com/We00001/GithubStars.git
 cd GithubStars
 python3 -m venv venv
-source venv/bin/activate    # 在 Linux/macOS
+source venv/bin/activate    # on Linux/macOS
 venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
