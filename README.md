@@ -44,8 +44,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Now you’re ready to run the project! 🎉
-
 ## Configuration  
 The `.env.example` file lists the environment variables that may need to be configured (such as the arXiv API key, GitHub token, etc.).
 Copy `.env.example` to `.env` and fill in the actual values.
