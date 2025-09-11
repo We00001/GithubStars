@@ -19,7 +19,7 @@ Run the `arxiv_scraper.py` script to download paper information. You can specify
 
 **Example Command:**
 ```bash
-python arxiv_scraper.py --query "computer science" --max_results 100 --start_date "2024-01-01" --end_date "2024-02-01"
+python arxiv_scraper.py
 ```
 This script will save the scraped data to a file named `arxiv_papers.json`.
 
