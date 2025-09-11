@@ -32,13 +32,13 @@ python arxiv_scraper.py
 This script will save the scraped data to a file named `arxiv_papers.json`.
 
 ### 2. Extract GitHub Links
-Run the `githublink_extractor.py` script to extract GitHub links from the `arxiv_papers.json` file generated in the previous step.
+Run the `githublink_extractor.py` script to extract GitHub links from the `arxiv_test.csv` file generated in the previous step.
 
 **Example Command:**
 ```bash
 python githublink_extractor.py
 ```
-This script will save the extracted GitHub repository links to a file named `github_repos.json`.
+This script will save the extracted GitHub repository links to a file named `githublink_test.csv`.
 
 ### 3. Scrape Star Counts
 Run the `star_scraper.py` script, which will read the links from `github_repos.json` and fetch the star count for each repository.
@@ -47,7 +47,7 @@ Run the `star_scraper.py` script, which will read the links from `github_repos.j
 ```bash
 python star_scraper.py
 ```
-This script will save the repository names and their corresponding star counts to a file named `repo_stars.json`.
+This script will save the repository names and their corresponding star counts to a file named `star_test.csv`.
 
 ### 4. Generate Visualization Webpage
 Run the `visualization.py` script to generate the final visualization webpage. This script will read the `repo_stars.json` file and create an interactive chart in a file named `visualization.html`.
