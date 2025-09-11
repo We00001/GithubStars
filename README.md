@@ -18,8 +18,8 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 ## Configuration  
-The .env.example file lists the environment variables that may need to be configured (such as the arXiv API key, GitHub token, etc., if required).
-Copy .env.example to .env and fill in the actual values.
+The ‘.env.example’ file lists the environment variables that may need to be configured (such as the arXiv API key, GitHub token, etc., if required).
+Copy ‘.env.example’ to ‘.env’ and fill in the actual values.
 
 ## Usage Guide
 ### 1. Scrape arXiv Papers
