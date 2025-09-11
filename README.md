@@ -7,16 +7,45 @@ This project aims to collect and visualize the star counts of GitHub repositorie
 3.  **Scrape Star Counts**: Use the `star_scraper.py` script to get the current star count for each GitHub repository.
 4.  **Generate a Visualization Webpage**: Use the `visualization.py` script to process the collected data and create an interactive webpage for visualization.
 
-## Prerequisites
-Before running any scripts, ensure you have all the necessary Python libraries installed.
+## 🚀 Prerequisites & Setup
+
+Before running the project, make sure you have **Python 3.8+** installed.  
+
+Clone the repository:
 ```bash
 git clone https://github.com/We00001/GithubStars.git
 cd GithubStars
+```
+
+Create a virtual environment:
+```bash
 python3 -m venv venv
-source venv/bin/activate    # on Linux/macOS
+```
+
+Activate the virtual environment (choose the command for your OS):
+
+Linux/macOS:
+```bash
+source venv/bin/activate
+```
+
+Windows (Command Prompt):
+```bash
 venv\Scripts\activate.bat
+```
+
+Windows (PowerShell):
+```bash
+venv\Scripts\Activate.ps1
+```
+
+Install dependencies:
+```bash
 pip install -r requirements.txt
 ```
+
+Now you’re ready to run the project! 🎉
+
 ## Configuration  
 The `.env.example` file lists the environment variables that may need to be configured (such as the arXiv API key, GitHub token, etc.).
 Copy `.env.example` to `.env` and fill in the actual values.
