@@ -178,35 +178,11 @@ if __name__ == "__main__":
     from dotenv import load_dotenv
     import os
     load_dotenv()
-    #url="https://arxiv.org/pdf/2508.20973"
-    url = "https://arxiv.org/pdf/2502.13170"
-    result, text = pre_analyze(url = url)
-    print(result)
-    print(text[0:100]) 
     gemini_api_key = os.getenv("GEMINI_API_KEY")
-    # prompt in front of the text
-    prompt1 = "I will provide an article about AI. I need you to find out the GitHub link for the article's project. Do not provide any links that are cited or referenced. Provide the link with this form: 'The Github Link is: https://...' or I didn't find the project link"
-    # prompt following the text
-    prompt2 = "The article ends. I need you to find out the GitHub link for the article's project. Do not provide any links that are cited or referenced."
-
-    response = analyze(text,prompt1,prompt2,gemini_api_key)
-    print(response)
-
-    github_link = analyze_response(response)
-    print(github_link)
-
-    # check if what links did the AI find if no correct link found
-    if github_link is None:
-        print("No Github link found")
-        logging.info(f"AI: No Github link found, |pdf_url: {url} |response: {response}")
-
-    print("test of extract_github")
-    github_link = extract_github(prompt1, prompt2, gemini_api_key, pdf_url = url)
-    print(github_link)
 
     if not os.path.exists("data/githublink_test.csv"):
         with open("data/githublink_test.csv", "w", encoding = "utf-8") as file:
             writer = csv.writer(file)
             writer.writerow(["Arxiv_ID","Title", "Pdf_Link", "Published_Date", "Github_Link"])
         
-    githublink_extractor("data/arxiv_test.csv", "data/githublink_test.csv", gemini_api_key)
+    githublink_extractor("data/arxiv_test.csv", "githublink_test.csv", gemini_api_key)
