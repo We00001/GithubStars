@@ -10,8 +10,16 @@ This project aims to collect and visualize the star counts of GitHub repositorie
 ## Prerequisites
 Before running any scripts, ensure you have all the necessary Python libraries installed.
 ```bash
+git clone https://github.com/We00001/GithubStars.git
+cd GithubStars
+python3 -m venv venv
+source venv/bin/activate    # 在 Linux/macOS
+venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
+## Configuration  
+The .env.example file lists the environment variables that may need to be configured (such as the arXiv API key, GitHub token, etc., if required).
+Copy .env.example to .env and fill in the actual values.
 
 ## Usage Guide
 ### 1. Scrape arXiv Papers
