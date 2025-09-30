@@ -1,0 +1,1084 @@
+Arxiv_ID,Title,Pdf_Link,Published_Date
+2509.15217,Generalizable Geometric Image Caption Synthesis,https://arxiv.org/pdf/2509.15217,2025-09-18T17:59:11Z
+2509.15210,"Explicit Context-Driven Neural Acoustic Modeling for High-Fidelity RIR
+  Generation",https://arxiv.org/pdf/2509.15210,2025-09-18T17:57:07Z
+2509.15207,FlowRL: Matching Reward Distributions for LLM Reasoning,https://arxiv.org/pdf/2509.15207,2025-09-18T17:56:36Z
+2509.15195,Orion: Fuzzing Workflow Automation,https://arxiv.org/pdf/2509.15195,2025-09-18T17:52:06Z
+2509.15193,"TITAN: A Trajectory-Informed Technique for Adaptive Parameter Freezing
+  in Large-Scale VQE",https://arxiv.org/pdf/2509.15193,2025-09-18T17:50:02Z
+2509.15188,"Fast and Fluent Diffusion Language Models via Convolutional Decoding and
+  Rejective Fine-tuning",https://arxiv.org/pdf/2509.15188,2025-09-18T17:48:21Z
+2509.15174,"SMARTER: A Data-efficient Framework to Improve Toxicity Detection with
+  Explanation via Self-augmenting Large Language Models",https://arxiv.org/pdf/2509.15174,2025-09-18T17:30:36Z
+2509.15172,"Internalizing Self-Consistency in Language Models: Multi-Agent Consensus
+  Alignment",https://arxiv.org/pdf/2509.15172,2025-09-18T17:27:28Z
+2509.15170,"Watermarking and Anomaly Detection in Machine Learning Models for LORA
+  RF Fingerprinting",https://arxiv.org/pdf/2509.15170,2025-09-18T17:21:33Z
+2509.15167,"Semi-Supervised 3D Medical Segmentation from 2D Natural Images
+  Pretrained Model",https://arxiv.org/pdf/2509.15167,2025-09-18T17:17:52Z
+2509.15156,"Leveraging Geometric Visual Illusions as Perceptual Inductive Biases for
+  Vision Models",https://arxiv.org/pdf/2509.15156,2025-09-18T17:00:42Z
+2509.15151,Exploring How Audio Effects Alter Emotion with Foundation Models,https://arxiv.org/pdf/2509.15151,2025-09-18T16:57:08Z
+2509.15130,"WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model
+  via Training-Free Guidance",https://arxiv.org/pdf/2509.15130,2025-09-18T16:40:47Z
+2509.15116,"The mechanization of science illustrated by the Lean formalization of
+  the multi-graded Proj construction",https://arxiv.org/pdf/2509.15116,2025-09-18T16:19:41Z
+2509.15103,"Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement
+  Learning",https://arxiv.org/pdf/2509.15103,2025-09-18T16:03:50Z
+2509.15098,TextMine: LLM-Powered Knowledge Extraction for Humanitarian Mine Action,https://arxiv.org/pdf/2509.15098,2025-09-18T15:55:19Z
+2509.15095,"Listening, Imagining \& Refining: A Heuristic Optimized ASR Correction
+  Framework with LLMs",https://arxiv.org/pdf/2509.15095,2025-09-18T15:50:54Z
+2509.15084,"From Sea to System: Exploring User-Centered Explainable AI for Maritime
+  Decision Support",https://arxiv.org/pdf/2509.15084,2025-09-18T15:42:54Z
+2509.15058,"Communication Efficient Split Learning of ViTs with Attention-based
+  Double Compression",https://arxiv.org/pdf/2509.15058,2025-09-18T15:22:24Z
+2509.15057,"Balancing Sparse RNNs with Hyperparameterization Benefiting
+  Meta-Learning",https://arxiv.org/pdf/2509.15057,2025-09-18T15:20:13Z
+2509.15044,Credit Card Fraud Detection,https://arxiv.org/pdf/2509.15044,2025-09-18T15:08:14Z
+2509.15042,Reinforcement Learning Agent for a 2D Shooter Game,https://arxiv.org/pdf/2509.15042,2025-09-18T15:07:41Z
+2509.15040,"From Patterns to Predictions: A Shapelet-Based Framework for Directional
+  Forecasting in Noisy Financial Markets",https://arxiv.org/pdf/2509.15040,2025-09-18T15:05:27Z
+2509.15035,"Calibrated Generative AI as Meta-Reviewer: A Systemic Functional
+  Linguistics Discourse Analysis of Reviews of Peer Reviews",https://arxiv.org/pdf/2509.15035,2025-09-18T15:00:44Z
+2509.15032,Sample Efficient Experience Replay in Non-stationary Environments,https://arxiv.org/pdf/2509.15032,2025-09-18T14:57:09Z
+2509.15027,"CLEAR: A Comprehensive Linguistic Evaluation of Argument Rewriting by
+  Large Language Models",https://arxiv.org/pdf/2509.15027,2025-09-18T14:53:41Z
+2509.15024,"Attention Beyond Neighborhoods: Reviving Transformer for Graph
+  Clustering",https://arxiv.org/pdf/2509.15024,2025-09-18T14:51:13Z
+2509.15011,"Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for
+  Realistic Underwater Image Generation",https://arxiv.org/pdf/2509.15011,2025-09-18T14:42:24Z
+2509.14998,"A Knowledge-driven Adaptive Collaboration of LLMs for Enhancing Medical
+  Decision-making",https://arxiv.org/pdf/2509.14998,2025-09-18T14:33:36Z
+2509.14987,Blockchain-Enabled Explainable AI for Trusted Healthcare Systems,https://arxiv.org/pdf/2509.14987,2025-09-18T14:17:19Z
+2509.14984,"The Role of Touch: Towards Optimal Tactile Sensing Distribution in
+  Anthropomorphic Hands for Dexterous In-Hand Manipulation",https://arxiv.org/pdf/2509.14984,2025-09-18T14:13:26Z
+2509.14980,"M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware
+  Control for Robust Mobile Manipulation",https://arxiv.org/pdf/2509.14980,2025-09-18T14:09:53Z
+2509.14966,"RoboEye: Enhancing 2D Robotic Object Identification with Selective 3D
+  Geometric Keypoint Matching",https://arxiv.org/pdf/2509.14966,2025-09-18T13:59:24Z
+2509.14963,"Set Contribution Functions for Quantitative Bipolar Argumentation and
+  their Principles",https://arxiv.org/pdf/2509.14963,2025-09-18T13:52:53Z
+2509.14959,Discrete optimal transport is a strong audio adversarial attack,https://arxiv.org/pdf/2509.14959,2025-09-18T13:46:16Z
+2509.14956,"Sentinel Agents for Secure and Trustworthy Agentic AI in Multi-Agent
+  Systems",https://arxiv.org/pdf/2509.14956,2025-09-18T13:39:59Z
+2509.14944,"Estimating Respiratory Effort from Nocturnal Breathing Sounds for
+  Obstructive Sleep Apnoea Screening",https://arxiv.org/pdf/2509.14944,2025-09-18T13:31:19Z
+2509.14942,"Explainable AI for Infection Prevention and Control: Modeling CPE
+  Acquisition and Patient Outcomes in an Irish Hospital with Transformers",https://arxiv.org/pdf/2509.14942,2025-09-18T13:29:11Z
+2509.14930,Cross-Modal Knowledge Distillation for Speech Large Language Models,https://arxiv.org/pdf/2509.14930,2025-09-18T13:07:53Z
+2509.14926,Patent Language Model Pretraining with ModernBERT,https://arxiv.org/pdf/2509.14926,2025-09-18T13:04:30Z
+2509.14912,Back to Ear: Perceptually Driven High Fidelity Music Reconstruction,https://arxiv.org/pdf/2509.14912,2025-09-18T12:41:34Z
+2509.14886,A Multi-To-One Interview Paradigm for Efficient MLLM Evaluation,https://arxiv.org/pdf/2509.14886,2025-09-18T12:07:40Z
+2509.14877,"AI-Driven Multi-Agent Vehicular Planning for Battery Efficiency and QoS
+  in 6G Smart Cities",https://arxiv.org/pdf/2509.14877,2025-09-18T11:46:22Z
+2509.14868,"DPANet: Dual Pyramid Attention Network for Multivariate Time Series
+  Forecasting",https://arxiv.org/pdf/2509.14868,2025-09-18T11:35:21Z
+2509.14863,"Exploring the Global-to-Local Attention Scheme in Graph Transformers: An
+  Empirical Study",https://arxiv.org/pdf/2509.14863,2025-09-18T11:30:50Z
+2509.14860,MARIC: Multi-Agent Reasoning for Image Classification,https://arxiv.org/pdf/2509.14860,2025-09-18T11:27:00Z
+2509.14858,"MeanFlowSE: one-step generative speech enhancement via conditional mean
+  flow",https://arxiv.org/pdf/2509.14858,2025-09-18T11:24:47Z
+2509.14851,"Empathy-R1: A Chain-of-Empathy and Reinforcement Learning Framework for
+  Long-Form Mental Health Support",https://arxiv.org/pdf/2509.14851,2025-09-18T11:16:09Z
+2509.14846,[Re] Improving Interpretation Faithfulness for Vision Transformers,https://arxiv.org/pdf/2509.14846,2025-09-18T11:11:27Z
+2509.14841,"Not All Degradations Are Equal: A Targeted Feature Denoising Framework
+  for Generalizable Image Super-Resolution",https://arxiv.org/pdf/2509.14841,2025-09-18T11:04:51Z
+2509.14832,"Diffusion-Based Scenario Tree Generation for Multivariate Time Series
+  Prediction and Multistage Stochastic Optimization",https://arxiv.org/pdf/2509.14832,2025-09-18T10:49:05Z
+2509.14830,"ProtoMedX: Towards Explainable Multi-Modal Prototype Learning for Bone
+  Health Classification",https://arxiv.org/pdf/2509.14830,2025-09-18T10:46:18Z
+2509.14827,"Template-Based Cortical Surface Reconstruction with Minimal Energy
+  Deformation",https://arxiv.org/pdf/2509.14827,2025-09-18T10:41:39Z
+2509.14803,"OnlineMate: An LLM-Based Multi-Agent Companion System for Cognitive
+  Support in Online Learning",https://arxiv.org/pdf/2509.14803,2025-09-18T09:56:45Z
+2509.14788,"Structure-Aware Contrastive Learning with Fine-Grained Binding
+  Representations for Drug Discovery",https://arxiv.org/pdf/2509.14788,2025-09-18T09:38:46Z
+2509.14778,OpenLens AI: Fully Autonomous Research Agent for Health Infomatics,https://arxiv.org/pdf/2509.14778,2025-09-18T09:25:57Z
+2509.14750,Enhancing Retrieval Augmentation via Adversarial Collaboration,https://arxiv.org/pdf/2509.14750,2025-09-18T08:54:20Z
+2509.14704,"The NazoNazo Benchmark: A Cost-Effective and Extensible Test of
+  Insight-Based Reasoning in LLMs",https://arxiv.org/pdf/2509.14704,2025-09-18T07:50:04Z
+2509.14693,"RationAnomaly: Log Anomaly Detection with Rationality via
+  Chain-of-Thought and Reinforcement Learning",https://arxiv.org/pdf/2509.14693,2025-09-18T07:35:58Z
+2509.14671,TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding,https://arxiv.org/pdf/2509.14671,2025-09-18T07:00:13Z
+2509.14666,Spatial Audio Motion Understanding and Reasoning,https://arxiv.org/pdf/2509.14666,2025-09-18T06:53:22Z
+2509.14662,"Understanding the Thinking Process of Reasoning Models: A Perspective
+  from Schoenfeld's Episode Theory",https://arxiv.org/pdf/2509.14662,2025-09-18T06:42:41Z
+2509.14657,"Threat Modeling for Enhancing Security of IoT Audio Classification
+  Devices under a Secure Protocols Framework",https://arxiv.org/pdf/2509.14657,2025-09-18T06:25:50Z
+2509.14651,"MUSE: MCTS-Driven Red Teaming Framework for Enhanced Multi-Turn Dialogue
+  Safety in Large Language Models",https://arxiv.org/pdf/2509.14651,2025-09-18T06:12:27Z
+2509.14647,"AgentCompass: Towards Reliable Evaluation of Agentic Workflows in
+  Production",https://arxiv.org/pdf/2509.14647,2025-09-18T05:59:04Z
+2509.14642,"DeCoP: Enhancing Self-Supervised Time Series Representation with
+  Dependency Controlled Pre-training",https://arxiv.org/pdf/2509.14642,2025-09-18T05:44:06Z
+2509.14632,"Mitigating Intra-Speaker Variability in Diarization with
+  Style-Controllable Speech Augmentation",https://arxiv.org/pdf/2509.14632,2025-09-18T05:21:20Z
+2509.14627,"Towards Human-like Multimodal Conversational Agent by Generating
+  Engaging Speech",https://arxiv.org/pdf/2509.14627,2025-09-18T05:14:10Z
+2509.14624,Reveal and Release: Iterative LLM Unlearning with Self-generated Data,https://arxiv.org/pdf/2509.14624,2025-09-18T05:07:27Z
+2509.14623,"Automating Modelica Module Generation Using Large Language Models: A
+  Case Study on Building Control Description Language",https://arxiv.org/pdf/2509.14623,2025-09-18T05:07:17Z
+2509.14622,"Adversarial Distilled Retrieval-Augmented Guarding Model for Online
+  Malicious Intent Detection",https://arxiv.org/pdf/2509.14622,2025-09-18T05:04:48Z
+2509.14619,"LSTC-MDA: A Unified Framework for Long-Short Term Temporal Convolution
+  and Mixed Data Augmentation in Skeleton-Based Action Recognition",https://arxiv.org/pdf/2509.14619,2025-09-18T04:48:32Z
+2509.14608,Enterprise AI Must Enforce Participant-Aware Access Control,https://arxiv.org/pdf/2509.14608,2025-09-18T04:30:49Z
+2509.14601,A Case for Computing on Unstructured Data,https://arxiv.org/pdf/2509.14601,2025-09-18T04:24:41Z
+2509.14594,SynBench: A Benchmark for Differentially Private Text Generation,https://arxiv.org/pdf/2509.14594,2025-09-18T03:57:50Z
+2509.14589,"ATLANTIS: AI-driven Threat Localization, Analysis, and Triage
+  Intelligence System",https://arxiv.org/pdf/2509.14589,2025-09-18T03:46:18Z
+2509.14581,"Can I Trust This Chatbot? Assessing User Privacy in AI-Healthcare
+  Chatbot Applications",https://arxiv.org/pdf/2509.14581,2025-09-18T03:29:43Z
+2509.14574,"Do Vision-Language Models See Urban Scenes as People Do? An Urban
+  Perception Benchmark",https://arxiv.org/pdf/2509.14574,2025-09-18T03:21:10Z
+2509.14571,"VisMoDAl: Visual Analytics for Evaluating and Improving Corruption
+  Robustness of Vision-Language Models",https://arxiv.org/pdf/2509.14571,2025-09-18T03:15:00Z
+2509.14558,LLM Jailbreak Detection for (Almost) Free!,https://arxiv.org/pdf/2509.14558,2025-09-18T02:42:52Z
+2509.14547,"(P)rior(D)yna(F)low: A Priori Dynamic Workflow Construction via
+  Multi-Agent Collaboration",https://arxiv.org/pdf/2509.14547,2025-09-18T02:24:14Z
+2509.14546,Rationality Check! Benchmarking the Rationality of Large Language Models,https://arxiv.org/pdf/2509.14546,2025-09-18T02:23:56Z
+2509.14543,"Catch Me If You Can? Not Yet: LLMs Still Struggle to Imitate the
+  Implicit Writing Styles of Everyday Authors",https://arxiv.org/pdf/2509.14543,2025-09-18T02:18:49Z
+2509.14537,"ClearFairy: Capturing Creative Workflows through Decision Structuring,
+  In-Situ Questioning, and Rationale Inference",https://arxiv.org/pdf/2509.14537,2025-09-18T02:11:34Z
+2509.14532,"Leveraging Artificial Intelligence as a Strategic Growth Catalyst for
+  Small and Medium-sized Enterprises",https://arxiv.org/pdf/2509.14532,2025-09-18T01:56:04Z
+2509.14526,Delta Knowledge Distillation for Large Language Models,https://arxiv.org/pdf/2509.14526,2025-09-18T01:42:24Z
+2509.14519,"BEACON: Behavioral Malware Classification with Large Language Model
+  Embeddings and Deep Learning",https://arxiv.org/pdf/2509.14519,2025-09-18T01:24:12Z
+2509.14507,"DeKeyNLU: Enhancing Natural Language to SQL Generation through Task
+  Decomposition and Keyword Extraction",https://arxiv.org/pdf/2509.14507,2025-09-18T00:47:56Z
+2509.14504,"Introducing OmniGEC: A Silver Multilingual Dataset for Grammatical Error
+  Correction",https://arxiv.org/pdf/2509.14504,2025-09-18T00:35:31Z
+2509.14485,"Beyond the high score: Prosocial ability profiles of multi-agent
+  populations",https://arxiv.org/pdf/2509.14485,2025-09-17T23:29:39Z
+2509.14480,"Process-Supervised Reinforcement Learning for Interactive Multimodal
+  Tool-Use Agents",https://arxiv.org/pdf/2509.14480,2025-09-17T23:25:00Z
+2509.14476,AToken: A Unified Tokenizer for Vision,https://arxiv.org/pdf/2509.14476,2025-09-17T23:11:18Z
+2509.14474,"From Mimicry to True Intelligence (TI) -- A New Paradigm for Artificial
+  General Intelligence",https://arxiv.org/pdf/2509.14474,2025-09-17T23:08:36Z
+2509.14456,"Correct-Detect: Balancing Performance and Ambiguity Through the Lens of
+  Coreference Resolution in LLMs",https://arxiv.org/pdf/2509.14456,2025-09-17T22:12:30Z
+2509.14448,VCBench: Benchmarking LLMs in Venture Capital,https://arxiv.org/pdf/2509.14448,2025-09-17T21:56:48Z
+2509.14438,Simulating a Bias Mitigation Scenario in Large Language Models,https://arxiv.org/pdf/2509.14438,2025-09-17T21:22:33Z
+2509.14436,"When Content is Goliath and Algorithm is David: The Style and Semantic
+  Effects of Generative Search Engine",https://arxiv.org/pdf/2509.14436,2025-09-17T21:19:13Z
+2509.14404,A Taxonomy of Prompt Defects in LLM Systems,https://arxiv.org/pdf/2509.14404,2025-09-17T20:11:22Z
+2509.14391,"Q-ROAR: Outlier-Aware Rescaling for RoPE Position Interpolation in
+  Quantized Long-Context LLMs",https://arxiv.org/pdf/2509.14391,2025-09-17T19:50:16Z
+2509.14388,"eIQ Neutron: Redefining Edge-AI Inference with Integrated NPU and
+  Compiler Innovations",https://arxiv.org/pdf/2509.14388,2025-09-17T19:45:51Z
+2509.14382,Detecting Pipeline Failures through Fine-Grained Analysis of Web Agents,https://arxiv.org/pdf/2509.14382,2025-09-17T19:34:49Z
+2509.14360,"Embodied sensorimotor control: computational modeling of the neural
+  control of movement",https://arxiv.org/pdf/2509.14360,2025-09-17T18:40:29Z
+2509.14353,"DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene
+  Interaction via Guided Diffusion",https://arxiv.org/pdf/2509.14353,2025-09-17T18:35:43Z
+2509.14343,"Near-Real-Time Resource Slicing for QoS Optimization in 5G O-RAN using
+  Deep Reinforcement Learning",https://arxiv.org/pdf/2509.14343,2025-09-17T18:20:04Z
+2509.14335,"Beyond Classification: Evaluating LLMs for Fine-Grained Automatic
+  Malware Behavior Auditing",https://arxiv.org/pdf/2509.14335,2025-09-17T18:05:21Z
+2509.14233,"Apertus: Democratizing Open and Compliant LLMs for Global Language
+  Environments",https://arxiv.org/pdf/2509.14233,2025-09-17T17:59:21Z
+2509.14223,Language models' activations linearly encode training-order recency,https://arxiv.org/pdf/2509.14223,2025-09-17T17:54:22Z
+2509.14216,"A Universal Banach--Bregman Framework for Stochastic Iterations:
+  Unifying Stochastic Mirror Descent, Learning and LLM Training",https://arxiv.org/pdf/2509.14216,2025-09-17T17:50:59Z
+2509.14199,Dense Video Understanding with Gated Residual Tokenization,https://arxiv.org/pdf/2509.14199,2025-09-17T17:34:40Z
+2509.14195,"Hierarchical Learning for Maze Navigation: Emergence of Mental
+  Representations via Second-Order Learning",https://arxiv.org/pdf/2509.14195,2025-09-17T17:30:58Z
+2509.14181,"Bridging Past and Future: Distribution-Aware Alignment for Time Series
+  Forecasting",https://arxiv.org/pdf/2509.14181,2025-09-17T17:12:39Z
+2509.14180,"Synthesizing Behaviorally-Grounded Reasoning Chains: A Data-Generation
+  Framework for Personal Finance LLMs",https://arxiv.org/pdf/2509.14180,2025-09-17T17:12:38Z
+2509.14172,"TGPO: Tree-Guided Preference Optimization for Robust Web Agent
+  Reinforcement Learning",https://arxiv.org/pdf/2509.14172,2025-09-17T16:58:44Z
+2509.14165,"Where Do Tokens Go? Understanding Pruning Behaviors in STEP at High
+  Resolutions",https://arxiv.org/pdf/2509.14165,2025-09-17T16:48:00Z
+2509.14093,"Reasoning Efficiently Through Adaptive Chain-of-Thought Compression: A
+  Self-Optimizing Framework",https://arxiv.org/pdf/2509.14093,2025-09-17T15:33:44Z
+2509.14061,"Queen Detection in Beehives via Environmental Sensor Fusion for
+  Low-Power Edge Computing",https://arxiv.org/pdf/2509.14061,2025-09-17T15:05:15Z
+2509.14057,"Machines are more productive than humans until they aren't, and vice
+  versa",https://arxiv.org/pdf/2509.14057,2025-09-17T15:03:39Z
+2509.14049,"Comprehensive Evaluation of CNN-Based Audio Tagging Models on
+  Resource-Constrained Devices",https://arxiv.org/pdf/2509.14049,2025-09-17T14:53:56Z
+2509.14040,"Prompt2Auto: From Motion Prompt to Automated Control via
+  Geometry-Invariant One-Shot Gaussian Process Learning",https://arxiv.org/pdf/2509.14040,2025-09-17T14:42:18Z
+2509.14037,"PhenoGnet: A Graph-Based Contrastive Learning Framework for Disease
+  Similarity Prediction",https://arxiv.org/pdf/2509.14037,2025-09-17T14:38:52Z
+2509.14036,"SSL-SSAW: Self-Supervised Learning with Sigmoid Self-Attention Weighting
+  for Question-Based Sign Language Translation",https://arxiv.org/pdf/2509.14036,2025-09-17T14:37:59Z
+2509.14031,"You Are What You Train: Effects of Data Composition on Training
+  Context-aware Machine Translation Models",https://arxiv.org/pdf/2509.14031,2025-09-17T14:33:17Z
+2509.14030,CrowdAgent: Multi-Agent Managed Multi-Source Annotation System,https://arxiv.org/pdf/2509.14030,2025-09-17T14:31:18Z
+2509.14304,"Deploying UDM Series in Real-Life Stuttered Speech Applications: A
+  Clinical Evaluation Framework",https://arxiv.org/pdf/2509.14304,2025-09-17T14:28:29Z
+2509.14008,"Hala Technical Report: Building Arabic-Centric Instruction & Translation
+  Models at Scale",https://arxiv.org/pdf/2509.14008,2025-09-17T14:19:28Z
+2509.14003,RFM-Editing: Rectified Flow Matching for Text-guided Audio Editing,https://arxiv.org/pdf/2509.14003,2025-09-17T14:13:40Z
+2509.14001,MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment,https://arxiv.org/pdf/2509.14001,2025-09-17T14:13:20Z
+2509.13990,Slim-SC: Thought Pruning for Efficient Scaling with Self-Consistency,https://arxiv.org/pdf/2509.13990,2025-09-17T14:00:51Z
+2509.13987,"Differential Privacy in Federated Learning: Mitigating Inference Attacks
+  with Randomized Response",https://arxiv.org/pdf/2509.13987,2025-09-17T13:59:38Z
+2509.14303,FlowDrive: Energy Flow Field for End-to-End Autonomous Driving,https://arxiv.org/pdf/2509.14303,2025-09-17T13:51:33Z
+2509.13978,"LLM Agents for Interactive Workflow Provenance: Reference Architecture
+  and Evaluation Methodology",https://arxiv.org/pdf/2509.13978,2025-09-17T13:51:29Z
+2509.13968,"Exploring Major Transitions in the Evolution of Biological Cognition
+  With Artificial Neural Networks",https://arxiv.org/pdf/2509.13968,2025-09-17T13:38:40Z
+2509.13941,An Empirical Study on Failures in Automated Issue Solving,https://arxiv.org/pdf/2509.13941,2025-09-17T13:07:52Z
+2509.13927,"DSpAST: Disentangled Representations for Spatial Audio Reasoning with
+  Large Language Models",https://arxiv.org/pdf/2509.13927,2025-09-17T12:51:51Z
+2509.13926,MAP: End-to-End Autonomous Driving with Map-Assisted Planning,https://arxiv.org/pdf/2509.13926,2025-09-17T11:40:46Z
+2509.13914,Ensemble of Pre-Trained Models for Long-Tailed Trajectory Prediction,https://arxiv.org/pdf/2509.13914,2025-09-17T11:18:16Z
+2509.13905,Do Large Language Models Understand Word Senses?,https://arxiv.org/pdf/2509.13905,2025-09-17T11:11:27Z
+2509.13895,"FedSSG: Expectation-Gated and History-Aware Drift Alignment for
+  Federated Learning",https://arxiv.org/pdf/2509.13895,2025-09-17T10:43:05Z
+2509.13892,Synthetic Data Generation for Screen Time and App Usage,https://arxiv.org/pdf/2509.13892,2025-09-17T10:42:06Z
+2509.13888,"Combating Biomedical Misinformation through Multi-modal Claim Detection
+  and Evidence-based Verification",https://arxiv.org/pdf/2509.13888,2025-09-17T10:31:09Z
+2509.13880,"An Exhaustive DPLL Approach to Model Counting over Integer Linear
+  Constraints with Simplification Techniques",https://arxiv.org/pdf/2509.13880,2025-09-17T10:19:06Z
+2509.13879,Combining Evidence and Reasoning for Biomedical Fact-Checking,https://arxiv.org/pdf/2509.13879,2025-09-17T10:14:56Z
+2509.13866,Masked Diffusion Models as Energy Minimization,https://arxiv.org/pdf/2509.13866,2025-09-17T09:57:31Z
+2509.13854,Understanding the Process of Human-AI Value Alignment,https://arxiv.org/pdf/2509.13854,2025-09-17T09:39:38Z
+2509.13805,Towards a Physics Foundation Model,https://arxiv.org/pdf/2509.13805,2025-09-17T08:19:57Z
+2509.13792,"Bridging the Synthetic-Real Gap: Supervised Domain Adaptation for Robust
+  Spacecraft 6-DoF Pose Estimation",https://arxiv.org/pdf/2509.13792,2025-09-17T08:03:05Z
+2509.13790,"Teaching According to Talents! Instruction Tuning LLMs with
+  Competence-Aware Curriculum Learning",https://arxiv.org/pdf/2509.13790,2025-09-17T07:58:59Z
+2509.13789,"BWCache: Accelerating Video Diffusion Transformers through Block-Wise
+  Caching",https://arxiv.org/pdf/2509.13789,2025-09-17T07:58:36Z
+2509.13782,"Who is Introducing the Failure? Automatically Attributing Failures of
+  Multi-Agent Systems via Spectrum Analysis",https://arxiv.org/pdf/2509.13782,2025-09-17T07:50:44Z
+2509.13775,"Exploring Data and Parameter Efficient Strategies for Arabic Dialect
+  Identifications",https://arxiv.org/pdf/2509.13775,2025-09-17T07:45:09Z
+2509.13773,"MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based
+  Instruction Recommendation",https://arxiv.org/pdf/2509.13773,2025-09-17T07:43:14Z
+2509.13761,"THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical
+  Reasoning",https://arxiv.org/pdf/2509.13761,2025-09-17T07:16:12Z
+2509.13755,"Scrub It Out! Erasing Sensitive Memorization in Code Language Models via
+  Machine Unlearning",https://arxiv.org/pdf/2509.13755,2025-09-17T07:12:35Z
+2509.13735,State Space Models over Directed Graphs,https://arxiv.org/pdf/2509.13735,2025-09-17T06:39:18Z
+2509.13722,Mitigating Query Selection Bias in Referring Video Object Segmentation,https://arxiv.org/pdf/2509.13722,2025-09-17T06:17:23Z
+2509.13706,"Automated Triaging and Transfer Learning of Incident Learning Safety
+  Reports Using Large Language Representational Models",https://arxiv.org/pdf/2509.13706,2025-09-17T05:29:23Z
+2509.13704,"InfraMind: A Novel Exploration-based GUI Agentic Framework for
+  Mission-critical Industrial Management",https://arxiv.org/pdf/2509.13704,2025-09-17T05:14:11Z
+2509.13702,"DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination
+  Suppression in Large Language Models",https://arxiv.org/pdf/2509.13702,2025-09-17T05:09:22Z
+2509.13688,"CraftMesh: High-Fidelity Generative Mesh Manipulation via Poisson
+  Seamless Fusion",https://arxiv.org/pdf/2509.13688,2025-09-17T04:35:48Z
+2509.13683,Improving Context Fidelity via Native Retrieval-Augmented Reasoning,https://arxiv.org/pdf/2509.13683,2025-09-17T04:28:07Z
+2509.13680,"Prompt Stability in Code LLMs: Measuring Sensitivity across Emotion- and
+  Personality-Driven Variations",https://arxiv.org/pdf/2509.13680,2025-09-17T04:17:42Z
+2509.13677,"AgentCTG: Harnessing Multi-Agent Collaboration for Fine-Grained Precise
+  Control in Text Generation",https://arxiv.org/pdf/2509.13677,2025-09-17T04:07:22Z
+2509.13676,"Re-purposing SAM into Efficient Visual Projectors for MLLM-Based
+  Referring Image Segmentation",https://arxiv.org/pdf/2509.13676,2025-09-17T04:04:08Z
+2509.13672,"CL$^2$GEC: A Multi-Discipline Benchmark for Continual Learning in
+  Chinese Literature Grammatical Error Correction",https://arxiv.org/pdf/2509.13672,2025-09-17T03:54:52Z
+2509.13666,"DREAM: Domain-aware Reasoning for Efficient Autonomous Underwater
+  Monitoring",https://arxiv.org/pdf/2509.13666,2025-09-17T03:35:52Z
+2509.13664,Sparse Neurons Carry Strong Signals of Question Ambiguity in LLMs,https://arxiv.org/pdf/2509.13664,2025-09-17T03:34:35Z
+2509.13662,Deep Lookup Network,https://arxiv.org/pdf/2509.13662,2025-09-17T03:31:41Z
+2509.13650,"GitHub's Copilot Code Review: Can AI Spot Security Flaws Before You
+  Commit?",https://arxiv.org/pdf/2509.13650,2025-09-17T02:56:21Z
+2509.13633,"DeepLogit: A sequentially constrained explainable deep learning modeling
+  approach for transport policy analysis",https://arxiv.org/pdf/2509.13633,2025-09-17T02:08:34Z
+2509.13627,"Secure, Scalable and Privacy Aware Data Strategy in Cloud",https://arxiv.org/pdf/2509.13627,2025-09-17T01:56:07Z
+2509.13626,"Mind the Gap: Aligning Knowledge Bases with User Needs to Enhance Mental
+  Health Retrieval",https://arxiv.org/pdf/2509.13626,2025-09-17T01:54:11Z
+2509.13620,"A reduced-order derivative-informed neural operator for subsurface
+  fluid-flow",https://arxiv.org/pdf/2509.13620,2025-09-17T01:30:44Z
+2509.13615,"See, Think, Act: Teaching Multimodal Agents to Effectively Interact with
+  GUI by Identifying Toggles",https://arxiv.org/pdf/2509.13615,2025-09-17T01:14:14Z
+2509.13603,"Modernizing Facebook Scoped Search: Keyword and Embedding Hybrid
+  Retrieval with LLM Evaluation",https://arxiv.org/pdf/2509.13603,2025-09-17T00:22:08Z
+2509.21319,"RLBFF: Binary Flexible Feedback to bridge between Human Feedback &
+  Verifiable Rewards",https://arxiv.org/pdf/2509.21319,2025-09-25T16:19:06Z
+2509.21318,SD3.5-Flash: Distribution-Guided Distillation of Generative Flows,https://arxiv.org/pdf/2509.21318,2025-09-25T16:07:38Z
+2509.21310,SAGE: A Realistic Benchmark for Semantic Understanding,https://arxiv.org/pdf/2509.21310,2025-09-25T15:27:15Z
+2509.21296,"No Prior, No Leakage: Revisiting Reconstruction Attacks in Trained
+  Neural Networks",https://arxiv.org/pdf/2509.21296,2025-09-25T15:14:08Z
+2509.21291,VC-Agent: An Interactive Agent for Customized Video Dataset Collection,https://arxiv.org/pdf/2509.21291,2025-09-25T15:08:28Z
+2509.21287,"DisCoCLIP: A Distributional Compositional Tensor Network Encoder for
+  Vision-Language Understanding",https://arxiv.org/pdf/2509.21287,2025-09-25T15:06:56Z
+2509.21282,"It's Not You, It's Clipping: A Soft Trust-Region via Probability
+  Smoothing for LLM RL",https://arxiv.org/pdf/2509.21282,2025-09-25T15:03:18Z
+2509.21278,"Does FLUX Already Know How to Perform Physically Plausible Image
+  Composition?",https://arxiv.org/pdf/2509.21278,2025-09-25T15:01:49Z
+2509.21275,"Data-Centric Elastic Pipeline Parallelism for Efficient Long-Context LLM
+  Training",https://arxiv.org/pdf/2509.21275,2025-09-25T15:01:25Z
+2509.21266,"Grounding AI Explanations in Experience: A Reflective Cognitive
+  Architecture for Clinical Decision Support",https://arxiv.org/pdf/2509.21266,2025-09-25T14:57:52Z
+2509.21265,"MedVSR: Medical Video Super-Resolution with Cross State-Space
+  Propagation",https://arxiv.org/pdf/2509.21265,2025-09-25T14:56:59Z
+2509.21260,"A Causality-Aware Spatiotemporal Model for Multi-Region and
+  Multi-Pollutant Air Quality Forecasting",https://arxiv.org/pdf/2509.21260,2025-09-25T14:54:23Z
+2509.21259,"Semantic Edge-Cloud Communication for Real-Time Urban Traffic
+  Surveillance with ViT and LLMs over Mobile Networks",https://arxiv.org/pdf/2509.21259,2025-09-25T14:53:36Z
+2509.21251,Instruction-tuned Self-Questioning Framework for Multimodal Reasoning,https://arxiv.org/pdf/2509.21251,2025-09-25T14:45:06Z
+2509.21249,"Decipher-MR: A Vision-Language Foundation Model for 3D MRI
+  Representations",https://arxiv.org/pdf/2509.21249,2025-09-25T14:43:33Z
+2509.21247,"Learning to Look: Cognitive Attention Alignment with Vision-Language
+  Models",https://arxiv.org/pdf/2509.21247,2025-09-25T14:40:48Z
+2509.21245,"Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D
+  Assets",https://arxiv.org/pdf/2509.21245,2025-09-25T14:39:17Z
+2509.21241,"Explaining Fine Tuned LLMs via Counterfactuals A Knowledge Graph Driven
+  Framework",https://arxiv.org/pdf/2509.21241,2025-09-25T14:37:40Z
+2509.21240,Tree Search for LLM Agent Reinforcement Learning,https://arxiv.org/pdf/2509.21240,2025-09-25T14:37:09Z
+2509.21224,"What Do LLM Agents Do When Left Alone? Evidence of Spontaneous
+  Meta-Cognitive Patterns",https://arxiv.org/pdf/2509.21224,2025-09-25T14:29:49Z
+2509.21211,Evading Overlapping Community Detection via Proxy Node Injection,https://arxiv.org/pdf/2509.21211,2025-09-25T14:21:16Z
+2509.21199,"A Fano-Style Accuracy Upper Bound for LLM Single-Pass Reasoning in
+  Multi-Hop QA",https://arxiv.org/pdf/2509.21199,2025-09-25T14:11:57Z
+2509.21193,"Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for
+  Scientific Reasoning",https://arxiv.org/pdf/2509.21193,2025-09-25T14:05:55Z
+2509.21190,"Towards Foundation Models for Zero-Shot Time Series Anomaly Detection:
+  Leveraging Synthetic Data and Relative Context Discrepancy",https://arxiv.org/pdf/2509.21190,2025-09-25T14:05:15Z
+2509.21189,Human-like Navigation in a World Built for Humans,https://arxiv.org/pdf/2509.21189,2025-09-25T14:04:17Z
+2509.21188,"Adoption, usability and perceived clinical value of a UK AI clinical
+  reference platform (iatroX): a mixed-methods formative evaluation of
+  real-world usage and a 1,223-respondent user survey",https://arxiv.org/pdf/2509.21188,2025-09-25T14:03:04Z
+2509.21173,"Can Less Precise Be More Reliable? A Systematic Evaluation of
+  Quantization's Impact on CLIP Beyond Accuracy",https://arxiv.org/pdf/2509.21173,2025-09-25T13:54:34Z
+2509.21170,"Fine-Tuning LLMs to Analyze Multiple Dimensions of Code Review: A
+  Maximum Entropy Regulated Long Chain-of-Thought Approach",https://arxiv.org/pdf/2509.21170,2025-09-25T13:51:56Z
+2509.21163,Distributed Specialization: Rare-Token Neurons in Large Language Models,https://arxiv.org/pdf/2509.21163,2025-09-25T13:49:38Z
+2509.21154,GRPO is Secretly a Process Reward Model,https://arxiv.org/pdf/2509.21154,2025-09-25T13:40:36Z
+2509.21153,WAVECLIP: Wavelet Tokenization for Adaptive-Resolution CLIP,https://arxiv.org/pdf/2509.21153,2025-09-25T13:39:16Z
+2509.21149,LAVA: Explainability for Unsupervised Latent Embeddings,https://arxiv.org/pdf/2509.21149,2025-09-25T13:38:17Z
+2509.21147,Emerging Paradigms for Securing Federated Learning Systems,https://arxiv.org/pdf/2509.21147,2025-09-25T13:34:44Z
+2509.21144,UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice,https://arxiv.org/pdf/2509.21144,2025-09-25T13:30:46Z
+2509.21136,Embodied Representation Alignment with Mirror Neurons,https://arxiv.org/pdf/2509.21136,2025-09-25T13:27:37Z
+2509.21134,"ToMPO: Training LLM Strategic Decision Making from a Multi-Agent
+  Perspective",https://arxiv.org/pdf/2509.21134,2025-09-25T13:25:15Z
+2509.21128,"RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs",https://arxiv.org/pdf/2509.21128,2025-09-25T13:18:57Z
+2509.21126,"Teaching RL Agents to Act Better: VLM as Action Advisor for Online
+  Reinforcement Learning",https://arxiv.org/pdf/2509.21126,2025-09-25T13:16:34Z
+2509.21124,"Expanding Reasoning Potential in Foundation Model by Learning Diverse
+  Chains of Thought Patterns",https://arxiv.org/pdf/2509.21124,2025-09-25T13:11:35Z
+2509.21117,TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them,https://arxiv.org/pdf/2509.21117,2025-09-25T13:04:29Z
+2509.21107,Cross-Modal Instructions for Robot Motion Generation,https://arxiv.org/pdf/2509.21107,2025-09-25T12:54:00Z
+2509.21097,"GraphUniverse: Enabling Systematic Evaluation of Inductive
+  Generalization",https://arxiv.org/pdf/2509.21097,2025-09-25T12:46:01Z
+2509.21091,Best-of-$\infty$ -- Asymptotic Performance of Test-Time Compute,https://arxiv.org/pdf/2509.21091,2025-09-25T12:41:05Z
+2509.21084,Vision Transformers: the threat of realistic adversarial patches,https://arxiv.org/pdf/2509.21084,2025-09-25T12:36:25Z
+2509.21081,TyphoonMLA: A Mixed Naive-Absorb MLA Kernel For Shared Prefix,https://arxiv.org/pdf/2509.21081,2025-09-25T12:32:02Z
+2509.21080,"Which Cultural Lens Do Models Adopt? On Cultural Positioning Bias and
+  Agentic Mitigation in LLMs",https://arxiv.org/pdf/2509.21080,2025-09-25T12:28:25Z
+2509.21075,Communication Bias in Large Language Models: A Regulatory Perspective,https://arxiv.org/pdf/2509.21075,2025-09-25T12:25:06Z
+2509.21072,"Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web
+  Reconnaissance, Tool Generation, and Task Execution",https://arxiv.org/pdf/2509.21072,2025-09-25T12:23:49Z
+2509.21070,"ScaleDiff: Scaling Difficult Problems for Advanced Mathematical
+  Reasoning",https://arxiv.org/pdf/2509.21070,2025-09-25T12:22:44Z
+2509.21061,"EnGraf-Net: Multiple Granularity Branch Network with Fine-Coarse Graft
+  Grained for Classification Task",https://arxiv.org/pdf/2509.21061,2025-09-25T12:11:42Z
+2509.21054,"Disagreements in Reasoning: How a Model's Thinking Process Dictates
+  Persuasion in Multi-Agent Systems",https://arxiv.org/pdf/2509.21054,2025-09-25T12:03:10Z
+2509.21050,"GeoRef: Referring Expressions in Geometry via Task Formulation,
+  Synthetic Supervision, and Reinforced MLLM-based Solutions",https://arxiv.org/pdf/2509.21050,2025-09-25T12:00:52Z
+2509.21044,"Reinforcement Learning Fine-Tuning Enhances Activation Intensity and
+  Diversity in the Internal Circuitry of LLMs",https://arxiv.org/pdf/2509.21044,2025-09-25T11:51:05Z
+2509.21043,Combinatorial Creativity: A New Frontier in Generalization Abilities,https://arxiv.org/pdf/2509.21043,2025-09-25T11:48:37Z
+2509.21040,Generative AI for FFRDCs,https://arxiv.org/pdf/2509.21040,2025-09-25T11:45:39Z
+2509.21035,"CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic
+  Learnable Context Engineering",https://arxiv.org/pdf/2509.21035,2025-09-25T11:43:08Z
+2509.21033,"SupCLAP: Controlling Optimization Trajectory Drift in Audio-Text
+  Contrastive Learning with Support Vector Regularization",https://arxiv.org/pdf/2509.21033,2025-09-25T11:40:20Z
+2509.21028,"Who Gets Cited Most? Benchmarking Long-Context Language Models on
+  Scientific Articles",https://arxiv.org/pdf/2509.21028,2025-09-25T11:36:09Z
+2509.21021,"Efficient Ensemble Conditional Independence Test Framework for Causal
+  Discovery",https://arxiv.org/pdf/2509.21021,2025-09-25T11:31:16Z
+2509.21014,"The Use of the Simplex Architecture to Enhance Safety in
+  Deep-Learning-Powered Autonomous Systems",https://arxiv.org/pdf/2509.21014,2025-09-25T11:20:47Z
+2509.21013,Predicting LLM Reasoning Performance with Small Proxy Model,https://arxiv.org/pdf/2509.21013,2025-09-25T11:20:38Z
+2509.21012,Mechanism of Task-oriented Information Removal in In-context Learning,https://arxiv.org/pdf/2509.21012,2025-09-25T11:18:09Z
+2509.21011,Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools,https://arxiv.org/pdf/2509.21011,2025-09-25T11:14:38Z
+2509.21010,"ExMolRL: Phenotype-Target Joint Generation of De Novo Molecules via
+  Multi-Objective Reinforcement Learning",https://arxiv.org/pdf/2509.21010,2025-09-25T11:13:24Z
+2509.21007,Marching Neurons: Accurate Surface Extraction for Neural Implicit Shapes,https://arxiv.org/pdf/2509.21007,2025-09-25T11:06:42Z
+2509.21006,AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation,https://arxiv.org/pdf/2509.21006,2025-09-25T11:04:44Z
+2509.21002,Lossless Compression: A New Benchmark for Time Series Model Evaluation,https://arxiv.org/pdf/2509.21002,2025-09-25T10:52:48Z
+2509.20998,CORE: Full-Path Evaluation of LLM Agents Beyond Final State,https://arxiv.org/pdf/2509.20998,2025-09-25T10:49:35Z
+2509.20997,"Binary Autoencoder for Mechanistic Interpretability of Large Language
+  Models",https://arxiv.org/pdf/2509.20997,2025-09-25T10:48:48Z
+2509.20991,"Fast-SEnSeI: Lightweight Sensor-Independent Cloud Masking for On-board
+  Multispectral Sensors",https://arxiv.org/pdf/2509.20991,2025-09-25T10:40:31Z
+2509.20989,"Rejuvenating Cross-Entropy Loss in Knowledge Distillation for
+  Recommender Systems",https://arxiv.org/pdf/2509.20989,2025-09-25T10:31:59Z
+2509.20988,AOT*: Efficient Synthesis Planning via LLM-Empowered AND-OR Tree Search,https://arxiv.org/pdf/2509.20988,2025-09-25T10:30:37Z
+2509.20986,SiNGER: A Clearer Voice Distills Vision Transformers Further,https://arxiv.org/pdf/2509.20986,2025-09-25T10:29:47Z
+2509.20982,"Analysis of instruction-based LLMs' capabilities to score and judge
+  text-input problems in an academic setting",https://arxiv.org/pdf/2509.20982,2025-09-25T10:26:23Z
+2509.20978,"FracAug: Fractional Augmentation boost Graph-level Anomaly Detection
+  under Limited Supervision",https://arxiv.org/pdf/2509.20978,2025-09-25T10:23:21Z
+2509.20975,"Knowledgeable Language Models as Black-Box Optimizers for Personalized
+  Medicine",https://arxiv.org/pdf/2509.20975,2025-09-25T10:19:52Z
+2509.20972,"Dual-Path Phishing Detection: Integrating Transformer-Based NLP with
+  Structural URL Analysis",https://arxiv.org/pdf/2509.20972,2025-09-25T10:17:12Z
+2509.20971,i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents,https://arxiv.org/pdf/2509.20971,2025-09-25T10:15:51Z
+2509.20961,"Unlocking Financial Insights: An advanced Multimodal Summarization with
+  Multimodal Output Framework for Financial Advisory Videos",https://arxiv.org/pdf/2509.20961,2025-09-25T09:54:19Z
+2509.20953,"Beyond Stars: Bridging the Gap Between Ratings and Review Sentiment with
+  LLM",https://arxiv.org/pdf/2509.20953,2025-09-25T09:39:12Z
+2509.20952,"Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive
+  Remedy",https://arxiv.org/pdf/2509.20952,2025-09-25T09:36:41Z
+2509.20943,CTI Dataset Construction from Telegram,https://arxiv.org/pdf/2509.20943,2025-09-25T09:27:10Z
+2509.20935,"GALAX: Graph-Augmented Language Model for Explainable
+  Reinforcement-Guided Subgraph Reasoning in Precision Medicine",https://arxiv.org/pdf/2509.20935,2025-09-25T09:20:58Z
+2509.20913,"Deep Learning for Crime Forecasting: The Role of Mobility at
+  Fine-grained Spatiotemporal Scales",https://arxiv.org/pdf/2509.20913,2025-09-25T08:58:56Z
+2509.20912,"DeFacto: Counterfactual Thinking with Images for Enforcing
+  Evidence-Grounded and Faithful Reasoning",https://arxiv.org/pdf/2509.20912,2025-09-25T08:58:10Z
+2509.20890,"FerretNet: Efficient Synthetic Image Detection via Local Pixel
+  Dependencies",https://arxiv.org/pdf/2509.20890,2025-09-25T08:28:32Z
+2509.20885,Improving Early Sepsis Onset Prediction Through Federated Learning,https://arxiv.org/pdf/2509.20885,2025-09-25T08:19:22Z
+2509.20884,"Integrating Object Interaction Self-Attention and GAN-Based Debiasing
+  for Visual Question Answering",https://arxiv.org/pdf/2509.20884,2025-09-25T08:13:19Z
+2509.20882,On Theoretical Interpretations of Concept-Based In-Context Learning,https://arxiv.org/pdf/2509.20882,2025-09-25T08:11:09Z
+2509.20871,"SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models
+  in Visual Question Answering",https://arxiv.org/pdf/2509.20871,2025-09-25T08:01:28Z
+2509.20869,Model-Based Reinforcement Learning under Random Observation Delays,https://arxiv.org/pdf/2509.20869,2025-09-25T08:01:13Z
+2509.20868,StyleBench: Evaluating thinking styles in Large Language Models,https://arxiv.org/pdf/2509.20868,2025-09-25T08:00:39Z
+2509.20867,"Federated Markov Imputation: Privacy-Preserving Temporal Imputation in
+  Multi-Centric ICU Environments",https://arxiv.org/pdf/2509.20867,2025-09-25T08:00:05Z
+2509.20857,"TasselNetV4: A vision foundation model for cross-scene, cross-scale, and
+  cross-species plant counting",https://arxiv.org/pdf/2509.20857,2025-09-25T07:48:29Z
+2509.20852,"FHRFormer: A Self-supervised Transformer Approach for Fetal Heart Rate
+  Inpainting and Forecasting",https://arxiv.org/pdf/2509.20852,2025-09-25T07:40:21Z
+2509.20842,"Robust Multi-Omics Integration from Incomplete Modalities Significantly
+  Improves Prediction of Alzheimer's Disease",https://arxiv.org/pdf/2509.20842,2025-09-25T07:29:46Z
+2509.20841,"ImaginationPolicy: Towards Generalizable, Precise and Reliable
+  End-to-End Policy for Robotic Manipulation",https://arxiv.org/pdf/2509.20841,2025-09-25T07:29:07Z
+2509.20837,Verification Limits Code LLM Training,https://arxiv.org/pdf/2509.20837,2025-09-25T07:23:30Z
+2509.20835,"Security-aware Semantic-driven ISAC via Paired Adversarial Residual
+  Networks",https://arxiv.org/pdf/2509.20835,2025-09-25T07:22:33Z
+2509.20830,"Trustworthy Semantic Communication for Vehicular Networks: Challenges
+  and Solutions",https://arxiv.org/pdf/2509.20830,2025-09-25T07:18:20Z
+2509.20823,CaTS-Bench: Can Language Models Describe Numeric Time Series?,https://arxiv.org/pdf/2509.20823,2025-09-25T07:10:03Z
+2509.20817,"Even More Kawaii than Real-Person-Driven VTubers? Understanding How
+  Viewers Perceive AI-Driven VTubers",https://arxiv.org/pdf/2509.20817,2025-09-25T06:58:13Z
+2509.20813,Revolutionizing Precise Low Back Pain Diagnosis via Contrastive Learning,https://arxiv.org/pdf/2509.20813,2025-09-25T06:52:25Z
+2509.20811,"Leveraging What's Overfixed: Post-Correction via LLM Grammatical Error
+  Overcorrection",https://arxiv.org/pdf/2509.20811,2025-09-25T06:49:26Z
+2509.20798,"LogReasoner: Empowering LLMs with Expert-like Coarse-to-Fine Reasoning
+  for Log Analysis Tasks",https://arxiv.org/pdf/2509.20798,2025-09-25T06:26:49Z
+2509.20792,"DAC-LoRA: Dynamic Adversarial Curriculum for Efficient and Robust
+  Few-Shot Adaptation",https://arxiv.org/pdf/2509.20792,2025-09-25T06:20:56Z
+2509.20784,Towards Atoms of Large Language Models,https://arxiv.org/pdf/2509.20784,2025-09-25T06:13:05Z
+2509.20783,"IConv: Focusing on Local Variation with Channel Independent Convolution
+  for Multivariate Time Series Forecasting",https://arxiv.org/pdf/2509.20783,2025-09-25T06:09:37Z
+2509.20775,"CusEnhancer: A Zero-Shot Scene and Controllability Enhancement Method
+  for Photo Customization via ResInversion",https://arxiv.org/pdf/2509.20775,2025-09-25T06:00:34Z
+2509.20769,"Provenance Analysis of Archaeological Artifacts via Multimodal RAG
+  Systems",https://arxiv.org/pdf/2509.20769,2025-09-25T05:52:13Z
+2509.20768,Measuring LLM Sensitivity in Transformer-based Tabular Data Synthesis,https://arxiv.org/pdf/2509.20768,2025-09-25T05:48:48Z
+2509.20754,"Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for
+  Robot Spatial Reasoning",https://arxiv.org/pdf/2509.20754,2025-09-25T05:22:52Z
+2509.20751,"Seeing Through Words, Speaking Through Pixels: Deep Representational
+  Alignment Between Vision and Language Models",https://arxiv.org/pdf/2509.20751,2025-09-25T05:16:28Z
+2509.20750,Confidence-guided Refinement Reasoning for Zero-shot Question Answering,https://arxiv.org/pdf/2509.20750,2025-09-25T05:15:12Z
+2509.20748,AI-Enabled Crater-Based Navigation for Lunar Mapping,https://arxiv.org/pdf/2509.20748,2025-09-25T05:09:41Z
+2509.20744,"Parallel Thinking, Sequential Answering: Bridging NAR and AR for
+  Efficient Reasoning",https://arxiv.org/pdf/2509.20744,2025-09-25T04:50:11Z
+2509.20731,Imagining Design Workflows in Agentic AI Futures,https://arxiv.org/pdf/2509.20731,2025-09-25T04:23:16Z
+2509.20729,"Fairy: Interactive Mobile Assistant to Real-world Tasks via LMM-based
+  Multi-agent",https://arxiv.org/pdf/2509.20729,2025-09-25T04:21:31Z
+2509.20717,"RobotDancing: Residual-Action Reinforcement Learning Enables Robust
+  Long-Horizon Humanoid Motion Tracking",https://arxiv.org/pdf/2509.20717,2025-09-25T03:30:34Z
+2509.20715,"Beyond the Individual: Introducing Group Intention Forecasting with SHOT
+  Dataset",https://arxiv.org/pdf/2509.20715,2025-09-25T03:28:01Z
+2509.20707,"An Automated Retrieval-Augmented Generation LLaMA-4 109B-based System
+  for Evaluating Radiotherapy Treatment Plans",https://arxiv.org/pdf/2509.20707,2025-09-25T03:18:31Z
+2509.20703,"Joint Flow Trajectory Optimization For Feasible Robot Motion Generation
+  from Video Demonstrations",https://arxiv.org/pdf/2509.20703,2025-09-25T03:11:07Z
+2509.20702,Incorporating LLM Embeddings for Variation Across the Human Genome,https://arxiv.org/pdf/2509.20702,2025-09-25T03:09:16Z
+2509.20693,"Learning to Align Molecules and Proteins: A Geometry-Aware Approach to
+  Binding Affinity",https://arxiv.org/pdf/2509.20693,2025-09-25T02:55:24Z
+2509.20682,"Addressing Gradient Misalignment in Data-Augmented Training for Robust
+  Speech Deepfake Detection",https://arxiv.org/pdf/2509.20682,2025-09-25T02:31:54Z
+2509.20681,"Efficient Construction of Implicit Surface Models From a Single Image
+  for Motion Generation",https://arxiv.org/pdf/2509.20681,2025-09-25T02:30:05Z
+2509.20679,"QAMO: Quality-aware Multi-centroid One-class Learning For Speech
+  Deepfake Detection",https://arxiv.org/pdf/2509.20679,2025-09-25T02:27:49Z
+2509.20678,Bispectral OT: Dataset Comparison using Symmetry-Aware Optimal Transport,https://arxiv.org/pdf/2509.20678,2025-09-25T02:25:24Z
+2509.20666,"Understanding Mode Switching in Human-AI Collaboration: Behavioral
+  Insights and Predictive Modeling",https://arxiv.org/pdf/2509.20666,2025-09-25T01:58:46Z
+2509.20652,Accelerate Creation of Product Claims Using Generative AI,https://arxiv.org/pdf/2509.20652,2025-09-25T01:17:13Z
+2509.20645,Look Before you Leap: Estimating LLM Benchmark Scores from Descriptions,https://arxiv.org/pdf/2509.20645,2025-09-25T01:02:27Z
+2509.20640,"Adaptive Cybersecurity Architecture for Digital Product Ecosystems Using
+  Agentic AI",https://arxiv.org/pdf/2509.20640,2025-09-25T00:43:53Z
+2509.20639,"A Framework for Rapidly Developing and Deploying Protection Against
+  Large Language Model Attacks",https://arxiv.org/pdf/2509.20639,2025-09-25T00:36:19Z
+2509.20635,"Learning Terrain-Specialized Policies for Adaptive Locomotion in
+  Challenging Environments",https://arxiv.org/pdf/2509.20635,2025-09-25T00:17:39Z
+2509.20634,"Recidivism and Peer Influence with LLM Text Embeddings in Low Security
+  Correctional Facilities",https://arxiv.org/pdf/2509.20634,2025-09-25T00:14:57Z
+2509.20627,"Personalized Federated Dictionary Learning for Modeling Heterogeneity in
+  Multi-site fMRI Data",https://arxiv.org/pdf/2509.20627,2025-09-25T00:01:02Z
+2509.25148,"UniAPL: A Unified Adversarial Preference Learning Framework for
+  Instruct-Following",https://arxiv.org/pdf/2509.25148,2025-09-29T17:53:09Z
+2509.25146,Fast Feature Field ($\text{F}^3$): A Predictive Representation of Events,https://arxiv.org/pdf/2509.25146,2025-09-29T17:52:31Z
+2509.25144,"Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs
+  for Low-Resource Text Generation",https://arxiv.org/pdf/2509.25144,2025-09-29T17:51:55Z
+2509.25142,"Visual serial processing deficits explain divergences in human and VLM
+  reasoning",https://arxiv.org/pdf/2509.25142,2025-09-29T17:51:20Z
+2509.25140,ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory,https://arxiv.org/pdf/2509.25140,2025-09-29T17:51:03Z
+2509.25139,"Vision-and-Language Navigation with Analogical Textual Descriptions in
+  LLMs",https://arxiv.org/pdf/2509.25139,2025-09-29T17:51:01Z
+2509.25137,The Era of Real-World Human Interaction: RL from User Conversations,https://arxiv.org/pdf/2509.25137,2025-09-29T17:50:31Z
+2509.25133,Rethinking Entropy Regularization in Large Reasoning Models,https://arxiv.org/pdf/2509.25133,2025-09-29T17:49:25Z
+2509.25131,MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech,https://arxiv.org/pdf/2509.25131,2025-09-29T17:48:28Z
+2509.25127,Score Distillation of Flow Matching Models,https://arxiv.org/pdf/2509.25127,2025-09-29T17:45:48Z
+2509.25123,"From $f(x)$ and $g(x)$ to $f(g(x))$: LLMs Learn New Skills in RL by
+  Composing Old Ones",https://arxiv.org/pdf/2509.25123,2025-09-29T17:44:27Z
+2509.25112,"HeDA: An Intelligent Agent System for Heatwave Risk Discovery through
+  Automated Knowledge Graph Construction and Multi-layer Risk Propagation
+  Analysis",https://arxiv.org/pdf/2509.25112,2025-09-29T17:40:29Z
+2509.25106,Towards Personalized Deep Research: Benchmarks and Evaluations,https://arxiv.org/pdf/2509.25106,2025-09-29T17:39:17Z
+2509.25100,"ORPO-Distill: Mixed-Policy Preference Optimization for
+  Cross-Architecture LLM Distillation",https://arxiv.org/pdf/2509.25100,2025-09-29T17:34:02Z
+2509.25087,"Scaling with Collapse: Efficient and Predictable Training of LLM
+  Families",https://arxiv.org/pdf/2509.25087,2025-09-29T17:26:11Z
+2509.25085,jina-reranker-v3: Last but Not Late Interaction for Document Reranking,https://arxiv.org/pdf/2509.25085,2025-09-29T17:23:54Z
+2509.25084,Scaling Generalist Data-Analytic Agents,https://arxiv.org/pdf/2509.25084,2025-09-29T17:23:08Z
+2509.25079,"UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D
+  Generation",https://arxiv.org/pdf/2509.25079,2025-09-29T17:21:23Z
+2509.25077,"BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation
+  Engine for Monocular Depth Estimation",https://arxiv.org/pdf/2509.25077,2025-09-29T17:19:45Z
+2509.25072,"Optimizing Privacy-Preserving Primitives to Support LLM-Scale
+  Applications",https://arxiv.org/pdf/2509.25072,2025-09-29T17:16:51Z
+2509.25052,"Cogito, Ergo Ludo: An Agent that Learns to Play by Reasoning and
+  Planning",https://arxiv.org/pdf/2509.25052,2025-09-29T17:02:31Z
+2509.25047,Scaling Synthetic Task Generation for Agents via Exploration,https://arxiv.org/pdf/2509.25047,2025-09-29T17:00:02Z
+2509.25045,"Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic
+  Architectures",https://arxiv.org/pdf/2509.25045,2025-09-29T16:59:07Z
+2509.25043,Large Language Models for Software Testing: A Research Roadmap,https://arxiv.org/pdf/2509.25043,2025-09-29T16:58:21Z
+2509.25042,Fast Real-Time Pipeline for Robust Arm Gesture Recognition,https://arxiv.org/pdf/2509.25042,2025-09-29T16:57:56Z
+2509.25035,"Ultra-Fast Language Generation via Discrete Diffusion Divergence
+  Instruct",https://arxiv.org/pdf/2509.25035,2025-09-29T16:55:44Z
+2509.25032,"AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile
+  Manipulation",https://arxiv.org/pdf/2509.25032,2025-09-29T16:51:47Z
+2509.25016,"CLASP: Adaptive Spectral Clustering for Unsupervised Per-Image
+  Segmentation",https://arxiv.org/pdf/2509.25016,2025-09-29T16:41:30Z
+2509.25004,CLPO: Curriculum Learning meets Policy Optimization for LLM Reasoning,https://arxiv.org/pdf/2509.25004,2025-09-29T16:29:04Z
+2509.24988,"Generalized Correctness Models: Learning Calibrated and Model-Agnostic
+  Correctness Predictors from Historical Patterns",https://arxiv.org/pdf/2509.24988,2025-09-29T16:19:01Z
+2509.24986,"Light-SQ: Structure-aware Shape Abstraction with Superquadrics for
+  Generated Meshes",https://arxiv.org/pdf/2509.24986,2025-09-29T16:18:32Z
+2509.24981,"Random Policy Valuation is Enough for LLM Reasoning with Verifiable
+  Rewards",https://arxiv.org/pdf/2509.24981,2025-09-29T16:09:07Z
+2509.24978,Agentic Exploration of Physics Models,https://arxiv.org/pdf/2509.24978,2025-09-29T16:07:05Z
+2509.24967,SecInfer: Preventing Prompt Injection via Inference-time Scaling,https://arxiv.org/pdf/2509.24967,2025-09-29T16:00:41Z
+2509.24956,"MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic
+  Manipulation",https://arxiv.org/pdf/2509.24956,2025-09-29T15:50:51Z
+2509.24947,"Learning Distinguishable Representations in Deep Q-Networks for Linear
+  Transfer",https://arxiv.org/pdf/2509.24947,2025-09-29T15:44:35Z
+2509.24945,"MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model
+  Reasoners with Open Training Recipes",https://arxiv.org/pdf/2509.24945,2025-09-29T15:43:59Z
+2509.24935,Scalable GANs with Transformers,https://arxiv.org/pdf/2509.24935,2025-09-29T15:36:15Z
+2509.24934,"KIRETT -- A wearable device to support rescue operations using
+  artificial intelligence to improve first aid",https://arxiv.org/pdf/2509.24934,2025-09-29T15:36:14Z
+2509.24927,"When Autonomous Vehicle Meets V2X Cooperative Perception: How Far Are
+  We?",https://arxiv.org/pdf/2509.24927,2025-09-29T15:28:27Z
+2509.24923,When Greedy Wins: Emergent Exploitation Bias in Meta-Bandit LLM Training,https://arxiv.org/pdf/2509.24923,2025-09-29T15:25:42Z
+2509.24922,"MASLegalBench: Benchmarking Multi-Agent Systems in Deductive Legal
+  Reasoning",https://arxiv.org/pdf/2509.24922,2025-09-29T15:24:40Z
+2509.24919,"Meta-Learning Theory-Informed Inductive Biases using Deep Kernel
+  Gaussian Processes",https://arxiv.org/pdf/2509.24919,2025-09-29T15:23:50Z
+2509.24913,Segmentor-Guided Counterfactual Fine-Tuning for Image Synthesis,https://arxiv.org/pdf/2509.24913,2025-09-29T15:19:09Z
+2509.24906,"Neural network embeddings recover value dimensions from psychometric
+  survey items on par with human data",https://arxiv.org/pdf/2509.24906,2025-09-29T15:14:54Z
+2509.24900,"OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation
+  and Editing",https://arxiv.org/pdf/2509.24900,2025-09-29T15:11:09Z
+2509.24897,"RealUnify: Do Unified Models Truly Benefit from Unification? A
+  Comprehensive Benchmark",https://arxiv.org/pdf/2509.24897,2025-09-29T15:07:28Z
+2509.24882,"Scaling Laws and Spectra of Shallow Neural Networks in the Feature
+  Learning Regime",https://arxiv.org/pdf/2509.24882,2025-09-29T14:58:13Z
+2509.24880,"Vehicle Classification under Extreme Imbalance: A Comparative Study of
+  Ensemble Learning and CNNs",https://arxiv.org/pdf/2509.24880,2025-09-29T14:56:56Z
+2509.24877,The Emergence of Social Science of Large Language Models,https://arxiv.org/pdf/2509.24877,2025-09-29T14:55:14Z
+2509.24873,"Uncertainty-Guided Expert-AI Collaboration for Efficient Soil Horizon
+  Annotation",https://arxiv.org/pdf/2509.24873,2025-09-29T14:54:23Z
+2509.24869,Retro*: Optimizing LLMs for Reasoning-Intensive Document Retrieval,https://arxiv.org/pdf/2509.24869,2025-09-29T14:53:05Z
+2509.24866,"Metaphor identification using large language models: A comparison of
+  RAG, prompt engineering, and fine-tuning",https://arxiv.org/pdf/2509.24866,2025-09-29T14:50:18Z
+2509.24855,"PhysicsMinions: Winning Gold Medals in the Latest Physics Olympiads with
+  a Coevolutionary Multimodal Multi-Agent System",https://arxiv.org/pdf/2509.24855,2025-09-29T14:40:53Z
+2509.24841,"Hierarchical Error Correction for Large Language Models: A Systematic
+  Framework for Domain-Specific AI Quality Enhancement",https://arxiv.org/pdf/2509.24841,2025-09-29T14:21:05Z
+2509.24836,"Pushing LLMs to Their Logical Reasoning Bound: The Role of Data
+  Reasoning Intensity",https://arxiv.org/pdf/2509.24836,2025-09-29T14:20:04Z
+2509.24832,"SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts
+  via Token-Level LSH Matching",https://arxiv.org/pdf/2509.24832,2025-09-29T14:16:13Z
+2509.24828,Evaluating SAP Joule for Code Generation,https://arxiv.org/pdf/2509.24828,2025-09-29T14:13:40Z
+2509.24827,"Putnam-like dataset summary: LLMs as mathematical competition
+  contestants",https://arxiv.org/pdf/2509.24827,2025-09-29T14:13:10Z
+2509.24823,"Of-SemWat: High-payload text embedding for semantic watermarking of
+  AI-generated images with arbitrary size",https://arxiv.org/pdf/2509.24823,2025-09-29T14:10:15Z
+2509.24819,"Intelligent Optimization of Wireless Access Point Deployment for
+  Communication-Based Train Control Systems Using Deep Reinforcement Learning",https://arxiv.org/pdf/2509.24819,2025-09-29T14:07:44Z
+2509.24808,Query Circuits: Explaining How Language Models Answer User Prompts,https://arxiv.org/pdf/2509.24808,2025-09-29T13:59:02Z
+2509.24805,RDD: Pareto Analysis of the Rate-Distortion-Distinguishability Trade-off,https://arxiv.org/pdf/2509.24805,2025-09-29T13:55:35Z
+2509.24803,"TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large
+  Language Models",https://arxiv.org/pdf/2509.24803,2025-09-29T13:54:34Z
+2509.24800,"DSAT-HD: Dual-Stream Adaptive Transformer with Hybrid Decomposition for
+  Multivariate Time Series Forecasting",https://arxiv.org/pdf/2509.24800,2025-09-29T13:50:56Z
+2509.24798,"Causal-Adapter: Taming Text-to-Image Diffusion for Faithful
+  Counterfactual Generation",https://arxiv.org/pdf/2509.24798,2025-09-29T13:49:28Z
+2509.24797,Fidelity-Aware Data Composition for Robust Robot Generalization,https://arxiv.org/pdf/2509.24797,2025-09-29T13:48:36Z
+2509.24793,Sparse Autoencoders Make Audio Foundation Models more Explainable,https://arxiv.org/pdf/2509.24793,2025-09-29T13:46:48Z
+2509.24784,Quantifying Generalisation in Imitation Learning,https://arxiv.org/pdf/2509.24784,2025-09-29T13:43:25Z
+2509.24776,"VTPerception-R1: Enhancing Multimodal Reasoning via Explicit Visual and
+  Textual Perceptual Grounding",https://arxiv.org/pdf/2509.24776,2025-09-29T13:40:34Z
+2509.24773,"VSSFlow: Unifying Video-conditioned Sound and Speech Generation via
+  Joint Learning",https://arxiv.org/pdf/2509.24773,2025-09-29T13:38:24Z
+2509.24765,"From Ambiguity to Verdict: A Semiotic-Grounded Multi-Perspective Agent
+  for LLM Logical Reasoning",https://arxiv.org/pdf/2509.24765,2025-09-29T13:31:22Z
+2509.24761,"Spatial-Functional awareness Transformer-based graph archetype
+  contrastive learning for Decoding Visual Neural Representations from EEG",https://arxiv.org/pdf/2509.24761,2025-09-29T13:27:55Z
+2509.24759,"Surjective Independence of Causal Influences for Local Bayesian Network
+  Structures",https://arxiv.org/pdf/2509.24759,2025-09-29T13:23:11Z
+2509.24748,"Robust Policy Expansion for Offline-to-Online RL under Diverse Data
+  Corruption",https://arxiv.org/pdf/2509.24748,2025-09-29T13:15:42Z
+2509.24734,A TRIANGLE Enables Multimodal Alignment Beyond Cosine Similarity,https://arxiv.org/pdf/2509.24734,2025-09-29T12:58:46Z
+2509.24725,"Q-Net: Transferable Queue Length Estimation via Kalman-based Neural
+  Networks",https://arxiv.org/pdf/2509.24725,2025-09-29T12:51:08Z
+2509.24716,Discrete Variational Autoencoding via Policy Search,https://arxiv.org/pdf/2509.24716,2025-09-29T12:44:05Z
+2509.24713,"Circuit-Aware Reward Training: A Mechanistic Framework for Longtail
+  Robustness in RLHF",https://arxiv.org/pdf/2509.24713,2025-09-29T12:42:14Z
+2509.24711,On the Self-awareness of Large Reasoning Models' Capability Boundaries,https://arxiv.org/pdf/2509.24711,2025-09-29T12:40:47Z
+2509.24701,FedPOB: Sample-Efficient Federated Prompt Optimization via Bandits,https://arxiv.org/pdf/2509.24701,2025-09-29T12:32:21Z
+2509.24696,T-POP: Test-Time Personalization with Online Preference Feedback,https://arxiv.org/pdf/2509.24696,2025-09-29T12:28:23Z
+2509.24695,"SANA-Video: Efficient Video Generation with Block Linear Diffusion
+  Transformer",https://arxiv.org/pdf/2509.24695,2025-09-29T12:28:09Z
+2509.24694,CoTune: Co-evolutionary Configuration Tuning,https://arxiv.org/pdf/2509.24694,2025-09-29T12:27:47Z
+2509.24679,Data-Driven Discrete Geofence Design Using Binary Quadratic Programming,https://arxiv.org/pdf/2509.24679,2025-09-29T12:15:59Z
+2509.24678,Reference-Free Rating of LLM Responses via Latent Information,https://arxiv.org/pdf/2509.24678,2025-09-29T12:15:52Z
+2509.24675,Understanding the Dilemma of Unlearning for Large Language Models,https://arxiv.org/pdf/2509.24675,2025-09-29T12:15:19Z
+2509.24663,"InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long
+  Adaptation",https://arxiv.org/pdf/2509.24663,2025-09-29T12:08:33Z
+2509.24662,Community detection robustness of graph neural networks,https://arxiv.org/pdf/2509.24662,2025-09-29T12:08:22Z
+2509.24660,"Successful Misunderstandings: Learning to Coordinate Without Being
+  Understood",https://arxiv.org/pdf/2509.24660,2025-09-29T12:08:00Z
+2509.24659,VNODE: A Piecewise Continuous Volterra Neural Network,https://arxiv.org/pdf/2509.24659,2025-09-29T12:05:57Z
+2509.24653,Identity Bridge: Enabling Implicit Reasoning via Shared Latent Memory,https://arxiv.org/pdf/2509.24653,2025-09-29T12:02:05Z
+2509.24651,"""Stop replacing salt with sugar!'': Towards Intuitive Human-Agent
+  Teaching",https://arxiv.org/pdf/2509.24651,2025-09-29T12:00:53Z
+2509.24640,"Can you SPLICE it together? A Human Curated Benchmark for Probing Visual
+  Reasoning in VLMs",https://arxiv.org/pdf/2509.24640,2025-09-29T11:50:18Z
+2509.24616,LTL$_f$ Learning Meets Boolean Set Cover,https://arxiv.org/pdf/2509.24616,2025-09-29T11:20:20Z
+2509.24607,"Algorithms and data structures for automatic precision estimation of
+  neural networks",https://arxiv.org/pdf/2509.24607,2025-09-29T11:13:29Z
+2509.24592,BPMN Assistant: An LLM-Based Approach to Business Process Modeling,https://arxiv.org/pdf/2509.24592,2025-09-29T10:56:08Z
+2509.24591,"PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and
+  Video-to-Action Control",https://arxiv.org/pdf/2509.24591,2025-09-29T10:55:48Z
+2509.24569,Bandits roaming Hilbert space,https://arxiv.org/pdf/2509.24569,2025-09-29T10:26:29Z
+2509.24560,"AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length
+  Calibration",https://arxiv.org/pdf/2509.24560,2025-09-29T10:13:55Z
+2509.24556,"Deep Reinforcement Learning in Action: Real-Time Control of
+  Vortex-Induced Vibrations",https://arxiv.org/pdf/2509.24556,2025-09-29T10:09:16Z
+2509.24552,Short window attention enables long-term memorization,https://arxiv.org/pdf/2509.24552,2025-09-29T10:04:12Z
+2509.24528,CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D,https://arxiv.org/pdf/2509.24528,2025-09-29T09:43:00Z
+2509.24527,Training Agents Inside of Scalable World Models,https://arxiv.org/pdf/2509.24527,2025-09-29T09:42:27Z
+2509.24526,"CMT: Mid-Training for Efficient Learning of Consistency, Mean Flow, and
+  Flow Map Models",https://arxiv.org/pdf/2509.24526,2025-09-29T09:42:08Z
+2509.24524,PhysiAgent: An Embodied Agent Framework in Physical World,https://arxiv.org/pdf/2509.24524,2025-09-29T09:39:32Z
+2509.24515,Agentic Specification Generator for Move Programs,https://arxiv.org/pdf/2509.24515,2025-09-29T09:34:31Z
+2509.24510,"Specialization after Generalization: Towards Understanding Test-Time
+  Training in Foundation Models",https://arxiv.org/pdf/2509.24510,2025-09-29T09:24:52Z
+2509.24509,"Experience-guided reflective co-evolution of prompts and heuristics for
+  automatic algorithm design",https://arxiv.org/pdf/2509.24509,2025-09-29T09:24:09Z
+2509.24496,LLM DNA: Tracing Model Evolution via Functional Representations,https://arxiv.org/pdf/2509.24496,2025-09-29T09:09:57Z
+2509.24495,Neuroplasticity-inspired dynamic ANNs for multi-task demand forecasting,https://arxiv.org/pdf/2509.24495,2025-09-29T09:08:08Z
+2509.24491,"Mitigating Visual Hallucinations via Semantic Curriculum Preference
+  Optimization in MLLMs",https://arxiv.org/pdf/2509.24491,2025-09-29T09:03:36Z
+2509.24489,"Overcoming Over-Fitting in Constraint Acquisition via Query-Driven
+  Interactive Refinement",https://arxiv.org/pdf/2509.24489,2025-09-29T09:02:16Z
+2509.24473,"Euclid's Gift: Enhancing Spatial Perception and Reasoning in
+  Vision-Language Models via Geometric Surrogate Tasks",https://arxiv.org/pdf/2509.24473,2025-09-29T08:49:21Z
+2509.24469,LaMoGen: Laban Movement-Guided Diffusion for Text-to-Motion Generation,https://arxiv.org/pdf/2509.24469,2025-09-29T08:48:49Z
+2509.24466,"Moravec's Paradox and Restrepo's Model: Limits of AGI Automation in
+  Growth",https://arxiv.org/pdf/2509.24466,2025-09-29T08:45:00Z
+2509.24463,An Agent-Based Framework for Automated Higher-Voice Harmony Generation,https://arxiv.org/pdf/2509.24463,2025-09-29T08:42:42Z
+2509.24460,"ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time
+  Scaling",https://arxiv.org/pdf/2509.24460,2025-09-29T08:40:46Z
+2509.24443,"A Systematic Review of Digital Twin-Driven Predictive Maintenance in
+  Industrial Engineering: Taxonomy, Architectural Elements, and Future Research
+  Directions",https://arxiv.org/pdf/2509.24443,2025-09-29T08:26:23Z
+2509.24436,EOE: Evolutionary Optimization of Experts for Training Language Models,https://arxiv.org/pdf/2509.24436,2025-09-29T08:18:26Z
+2509.24435,Alternatives To Next Token Prediction In Text Generation -- A Survey,https://arxiv.org/pdf/2509.24435,2025-09-29T08:18:16Z
+2509.24424,Multi-Item-Query Attention for Stable Sequential Recommendation,https://arxiv.org/pdf/2509.24424,2025-09-29T08:11:27Z
+2509.24420,"A Data-Centric Perspective on the Influence of Image Data Quality in
+  Machine Learning Models",https://arxiv.org/pdf/2509.24420,2025-09-29T08:09:21Z
+2509.24416,"CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion
+  Transformers",https://arxiv.org/pdf/2509.24416,2025-09-29T08:06:42Z
+2509.24414,"ScatterAD: Temporal-Topological Scattering Mechanism for Time Series
+  Anomaly Detection",https://arxiv.org/pdf/2509.24414,2025-09-29T08:03:03Z
+2509.24411,"Hybrid Layer-Wise ANN-SNN With Surrogate Spike Encoding-Decoding
+  Structure",https://arxiv.org/pdf/2509.24411,2025-09-29T07:57:58Z
+2509.24405,"Multilingual Text-to-SQL: Benchmarking the Limits of Language Models
+  with Collaborative Language Agents",https://arxiv.org/pdf/2509.24405,2025-09-29T07:50:39Z
+2509.24394,"The 2025 OpenAI Preparedness Framework does not guarantee any AI risk
+  mitigation practices: a proof-of-concept for affordance analyses of AI safety
+  policies",https://arxiv.org/pdf/2509.24394,2025-09-29T07:42:10Z
+2509.24393,"Towards Safe Reasoning in Large Reasoning Models via Corrective
+  Intervention",https://arxiv.org/pdf/2509.24393,2025-09-29T07:41:09Z
+2509.24389,LLaDA-MoE: A Sparse MoE Diffusion Language Model,https://arxiv.org/pdf/2509.24389,2025-09-29T07:38:59Z
+2509.24385,"Vid-LLM: A Compact Video-based 3D Multimodal LLM with
+  Reconstruction-Reasoning Synergy",https://arxiv.org/pdf/2509.24385,2025-09-29T07:34:18Z
+2509.24384,"HarmMetric Eval: Benchmarking Metrics and Judges for LLM Harmfulness
+  Assessment",https://arxiv.org/pdf/2509.24384,2025-09-29T07:34:01Z
+2509.24382,"REALIGN: Regularized Procedure Alignment with Matching Video Embeddings
+  via Partial Gromov-Wasserstein Optimal Transport",https://arxiv.org/pdf/2509.24382,2025-09-29T07:32:14Z
+2509.24377,"Plan before Solving: Problem-Aware Strategy Routing for Mathematical
+  Reasoning with LLMs",https://arxiv.org/pdf/2509.24377,2025-09-29T07:22:41Z
+2509.24372,"Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement
+  Learning",https://arxiv.org/pdf/2509.24372,2025-09-29T07:19:34Z
+2509.24369,"From Satellite to Street: A Hybrid Framework Integrating Stable
+  Diffusion and PanoGAN for Consistent Cross-View Synthesis",https://arxiv.org/pdf/2509.24369,2025-09-29T07:14:49Z
+2509.24368,Watermarking Diffusion Language Models,https://arxiv.org/pdf/2509.24368,2025-09-29T07:11:40Z
+2509.24365,"Uni-X: Mitigating Modality Conflict with a Two-End-Separated
+  Architecture for Unified Multimodal Models",https://arxiv.org/pdf/2509.24365,2025-09-29T07:05:10Z
+2509.24361,UI-UG: A Unified MLLM for UI Understanding and Generation,https://arxiv.org/pdf/2509.24361,2025-09-29T06:59:09Z
+2509.24358,"An Enhanced Pyramid Feature Network Based on Long-Range Dependencies for
+  Multi-Organ Medical Image Segmentation",https://arxiv.org/pdf/2509.24358,2025-09-29T06:57:11Z
+2509.24356,"Beyond Repetition: Text Simplification and Curriculum Learning for
+  Data-Constrained Pretraining",https://arxiv.org/pdf/2509.24356,2025-09-29T06:54:59Z
+2509.24351,"From Static to Dynamic: Adaptive Monte Carlo Search for Mathematical
+  Process Supervision",https://arxiv.org/pdf/2509.24351,2025-09-29T06:52:35Z
+2509.24350,"Dynamic Orchestration of Multi-Agent System for Real-World Multi-Image
+  Agricultural VQA",https://arxiv.org/pdf/2509.24350,2025-09-29T06:52:10Z
+2509.24342,"Fin-Ally: Pioneering the Development of an Advanced,
+  Commonsense-Embedded Conversational AI for Money Matters",https://arxiv.org/pdf/2509.24342,2025-09-29T06:44:47Z
+2509.24340,humancompatible.detect: a Python Toolkit for Detecting Bias in AI Models,https://arxiv.org/pdf/2509.24340,2025-09-29T06:43:24Z
+2509.24332,"Towards Generalizable PDE Dynamics Forecasting via Physics-Guided
+  Invariant Learning",https://arxiv.org/pdf/2509.24332,2025-09-29T06:30:01Z
+2509.24326,"TraitSpaces: Towards Interpretable Visual Creativity for Human-AI
+  Co-Creation",https://arxiv.org/pdf/2509.24326,2025-09-29T06:24:18Z
+2509.24319,"Dual Mechanisms of Value Expression: Intrinsic vs. Prompted Values in
+  LLMs",https://arxiv.org/pdf/2509.24319,2025-09-29T05:57:00Z
+2509.24314,"MedMMV: A Controllable Multimodal Multi-Agent Framework for Reliable and
+  Verifiable Clinical Reasoning",https://arxiv.org/pdf/2509.24314,2025-09-29T05:51:25Z
+2509.24306,A study of Universal ODE approaches to predicting soil organic carbon,https://arxiv.org/pdf/2509.24306,2025-09-29T05:42:28Z
+2509.24303,"Experience Paper: Adopting Activity Recognition in On-demand Food
+  Delivery Business",https://arxiv.org/pdf/2509.24303,2025-09-29T05:35:49Z
+2509.24298,"Bridging the behavior-neural gap: A multimodal AI reveals the brain's
+  geometry of emotion more accurately than human self-reports",https://arxiv.org/pdf/2509.24298,2025-09-29T05:22:33Z
+2509.24297,"Q-Mirror: Unlocking the Multi-Modal Potential of Scientific Text-Only QA
+  Pairs",https://arxiv.org/pdf/2509.24297,2025-09-29T05:22:10Z
+2509.24296,"DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large
+  Language Models",https://arxiv.org/pdf/2509.24296,2025-09-29T05:17:10Z
+2509.24291,"Let LLMs Speak Embedding Languages: Generative Text Embeddings via
+  Iterative Contrastive Refinement",https://arxiv.org/pdf/2509.24291,2025-09-29T05:09:08Z
+2509.24285,SCI-Verifier: Scientific Verifier with Thinking,https://arxiv.org/pdf/2509.24285,2025-09-29T04:58:43Z
+2509.24282,"SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM
+  Agents",https://arxiv.org/pdf/2509.24282,2025-09-29T04:54:20Z
+2509.24276,"G-reasoner: Foundation Models for Unified Reasoning over
+  Graph-structured Knowledge",https://arxiv.org/pdf/2509.24276,2025-09-29T04:38:12Z
+2509.24274,Adversarial Reinforcement Learning Framework for ESP Cheater Simulation,https://arxiv.org/pdf/2509.24274,2025-09-29T04:32:45Z
+2509.24269,"AdvChain: Adversarial Chain-of-Thought Tuning for Robust Safety
+  Alignment of Large Reasoning Models",https://arxiv.org/pdf/2509.24269,2025-09-29T04:27:23Z
+2509.24267,Cycle Diffusion Model for Counterfactual Image Generation,https://arxiv.org/pdf/2509.24267,2025-09-29T04:24:13Z
+2509.24263,PAME-AI: Patient Messaging Creation and Optimization using Agentic AI,https://arxiv.org/pdf/2509.24263,2025-09-29T04:14:46Z
+2509.24262,"LAMP-PRo: Label-aware Attention for Multi-label Prediction of DNA- and
+  RNA-binding Proteins using Protein Language Models",https://arxiv.org/pdf/2509.24262,2025-09-29T04:13:51Z
+2509.24261,"Risk-Sensitive RL for Alleviating Exploration Dilemmas in Large Language
+  Models",https://arxiv.org/pdf/2509.24261,2025-09-29T04:12:20Z
+2509.24260,Rethinking and Benchmarking Large Language Models for Graph Reasoning,https://arxiv.org/pdf/2509.24260,2025-09-29T04:10:12Z
+2509.24256,"Graph Foundation Models: Bridging Language Model Paradigms and Graph
+  Optimization",https://arxiv.org/pdf/2509.24256,2025-09-29T04:05:48Z
+2509.24250,"Interactive Program Synthesis for Modeling Collaborative Physical
+  Activities from Narrated Demonstrations",https://arxiv.org/pdf/2509.24250,2025-09-29T03:44:05Z
+2509.24248,SpecExit: Accelerating Large Reasoning Model via Speculative Exit,https://arxiv.org/pdf/2509.24248,2025-09-29T03:39:32Z
+2509.24245,Prompt and Parameter Co-Optimization for Large Language Models,https://arxiv.org/pdf/2509.24245,2025-09-29T03:38:25Z
+2509.24244,Model Merging Scaling Laws in Large Language Models,https://arxiv.org/pdf/2509.24244,2025-09-29T03:36:55Z
+2509.24243,"SafeFlowMatcher: Safe and Fast Planning using Flow Matching with Control
+  Barrier Functions",https://arxiv.org/pdf/2509.24243,2025-09-29T03:33:33Z
+2509.24239,"ChessArena: A Chess Testbed for Evaluating Strategic Reasoning
+  Capabilities of Large Language Models",https://arxiv.org/pdf/2509.24239,2025-09-29T03:24:48Z
+2509.24238,Learning to Ponder: Adaptive Reasoning in Latent Space,https://arxiv.org/pdf/2509.24238,2025-09-29T03:21:42Z
+2509.24230,"ELHPlan: Efficient Long-Horizon Task Planning for Multi-Agent
+  Collaboration",https://arxiv.org/pdf/2509.24230,2025-09-29T03:15:56Z
+2509.24222,"Uni-NTFM: A Unified Foundation Model for EEG Signal Representation
+  Learning",https://arxiv.org/pdf/2509.24222,2025-09-29T03:03:32Z
+2509.24219,"ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based
+  Planning in Lifelong Robot Learning",https://arxiv.org/pdf/2509.24219,2025-09-29T02:58:53Z
+2509.24218,Conda: Column-Normalized Adam for Training Large Language Models Faster,https://arxiv.org/pdf/2509.24218,2025-09-29T02:58:19Z
+2509.24215,Metamorphic Testing for Audio Content Moderation Software,https://arxiv.org/pdf/2509.24215,2025-09-29T02:55:07Z
+2509.24210,BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models,https://arxiv.org/pdf/2509.24210,2025-09-29T02:49:01Z
+2509.24207,Humanline: Online Alignment as Perceptual Loss,https://arxiv.org/pdf/2509.24207,2025-09-29T02:41:16Z
+2509.24204,"BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for
+  Resource-Efficient Medical Image Segmentation",https://arxiv.org/pdf/2509.24204,2025-09-29T02:36:09Z
+2509.24203,"Group-Relative REINFORCE Is Secretly an Off-Policy Algorithm:
+  Demystifying Some Myths About GRPO and Its Friends",https://arxiv.org/pdf/2509.24203,2025-09-29T02:34:54Z
+2509.24202,Can Large Language Models Express Uncertainty Like Human?,https://arxiv.org/pdf/2509.24202,2025-09-29T02:34:30Z
+2509.24196,"Chat to Chip: Large Language Model Based Design of Arbitrarily Shaped
+  Metasurfaces",https://arxiv.org/pdf/2509.24196,2025-09-29T02:24:57Z
+2509.24193,"AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced
+  Self-Play",https://arxiv.org/pdf/2509.24193,2025-09-29T02:14:30Z
+2509.24192,"Talk in Pieces, See in Whole: Disentangling and Hierarchical Aggregating
+  Representations for Language-based Object Detection",https://arxiv.org/pdf/2509.24192,2025-09-29T02:14:26Z
+2509.24186,"Beyond Overall Accuracy: A Psychometric Deep Dive into the
+  Topic-Specific Medical Capabilities of 80 Large Language Models",https://arxiv.org/pdf/2509.24186,2025-09-29T02:06:13Z
+2509.24183,Retrieval-augmented GUI Agents with Generative Guidelines,https://arxiv.org/pdf/2509.24183,2025-09-29T02:04:20Z
+2509.24166,Stable Forgetting: Bounded Parameter-Efficient Unlearning in LLMs,https://arxiv.org/pdf/2509.24166,2025-09-29T01:30:15Z
+2509.24165,"LatXGen: Towards Radiation-Free and Accurate Quantitative Analysis of
+  Sagittal Spinal Alignment Via Cross-Modal Radiographic View Synthesis",https://arxiv.org/pdf/2509.24165,2025-09-29T01:29:53Z
+2509.24160,"Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for
+  Robot Manipulation",https://arxiv.org/pdf/2509.24160,2025-09-29T01:18:59Z
+2509.24159,"Robust Preference Optimization: Aligning Language Models with Noisy
+  Preference Feedback",https://arxiv.org/pdf/2509.24159,2025-09-29T01:17:49Z
+2509.24156,"Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning
+  Models",https://arxiv.org/pdf/2509.24156,2025-09-29T01:13:33Z
+2509.24149,"Accelerating Cerebral Diagnostics with BrainFusion: A Comprehensive MRI
+  Tumor Framework",https://arxiv.org/pdf/2509.24149,2025-09-29T00:53:17Z
+2509.24148,TENET: Leveraging Tests Beyond Validation for Code Generation,https://arxiv.org/pdf/2509.24148,2025-09-29T00:53:16Z
+2509.24147,"Your thoughts tell who you are: Characterize the reasoning patterns of
+  LRMs",https://arxiv.org/pdf/2509.24147,2025-09-29T00:52:07Z
+2509.24136,EYE-DEX: Eye Disease Detection and EXplanation System,https://arxiv.org/pdf/2509.24136,2025-09-29T00:10:02Z
+2509.24134,"ASTROCO: Self-Supervised Conformer-Style Transformers for Light-Curve
+  Embeddings",https://arxiv.org/pdf/2509.24134,2025-09-29T00:09:23Z
+2509.24127,"Transparent, Evaluable, and Accessible Data Agents: A Proof-of-Concept
+  Framework",https://arxiv.org/pdf/2509.24127,2025-09-28T23:54:41Z
+2509.24126,"BOSfM: A View Planning Framework for Optimal 3D Reconstruction of
+  Agricultural Scenes",https://arxiv.org/pdf/2509.24126,2025-09-28T23:50:36Z
+2509.24125,The Impossibility of Inverse Permutation Learning in Transformer Models,https://arxiv.org/pdf/2509.24125,2025-09-28T23:48:11Z
+2509.24124,Ancestry Tree Clustering for Particle Filter Diversity Maintenance,https://arxiv.org/pdf/2509.24124,2025-09-28T23:45:03Z
+2509.24107,"Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and
+  Synthesis for SLMs",https://arxiv.org/pdf/2509.24107,2025-09-28T22:58:11Z
+2509.24096,GEAR: A General Evaluation Framework for Abductive Reasoning,https://arxiv.org/pdf/2509.24096,2025-09-28T22:22:28Z
+2509.24091,PerfBench: Can Agents Resolve Real-World Performance Bugs?,https://arxiv.org/pdf/2509.24091,2025-09-28T22:00:33Z
+2509.24090,"Large-Scale Constraint Generation -- Can LLMs Parse Hundreds of
+  Constraints?",https://arxiv.org/pdf/2509.24090,2025-09-28T21:55:53Z
+2509.24086,Do Repetitions Matter? Strengthening Reliability in LLM Evaluations,https://arxiv.org/pdf/2509.24086,2025-09-28T21:45:20Z
+2509.24085,PEARL: Peer-Enhanced Adaptive Radio via On-Device LLM,https://arxiv.org/pdf/2509.24085,2025-09-28T21:43:17Z
+2509.24072,Uncovering Grounding IDs: How External Cues Shape Multi-Modal Binding,https://arxiv.org/pdf/2509.24072,2025-09-28T21:15:07Z
+2509.24069,"AQUAIR: A High-Resolution Indoor Environmental Quality Dataset for Smart
+  Aquaculture Monitoring",https://arxiv.org/pdf/2509.24069,2025-09-28T21:07:10Z
+2509.24068,"A Small Math Model: Recasting Strategy Choice Theory in an LLM-Inspired
+  Architecture",https://arxiv.org/pdf/2509.24068,2025-09-28T20:58:48Z
+2509.24067,In-Context Compositional Q-Learning for Offline Reinforcement Learning,https://arxiv.org/pdf/2509.24067,2025-09-28T20:55:21Z
+2509.24066,"A Second-Order Perspective on Pruning at Initialization and Knowledge
+  Transfer",https://arxiv.org/pdf/2509.24066,2025-09-28T20:55:11Z
+2509.24046,"PartnerMAS: An LLM Hierarchical Multi-Agent Framework for Business
+  Partner Selection on High-Dimensional Features",https://arxiv.org/pdf/2509.24046,2025-09-28T19:39:03Z
+2509.24039,"End-to-end Topographic Auditory Models Replicate Signatures of Human
+  Auditory Cortex",https://arxiv.org/pdf/2509.24039,2025-09-28T19:20:30Z
+2509.24031,"GPS-MTM: Capturing Pattern of Normalcy in GPS-Trajectories with
+  self-supervised learning",https://arxiv.org/pdf/2509.24031,2025-09-28T19:00:50Z
+2509.24030,"From Edge to HPC: Investigating Cross-Facility Data Streaming
+  Architectures",https://arxiv.org/pdf/2509.24030,2025-09-28T18:54:38Z
+2509.24008,"FrameMind: Frame-Interleaved Chain-of-Thought for Video Reasoning via
+  Reinforcement Learning",https://arxiv.org/pdf/2509.24008,2025-09-28T17:59:43Z
+2509.24006,"SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable
+  Sparse-Linear Attention",https://arxiv.org/pdf/2509.24006,2025-09-28T17:58:59Z
+2509.24002,"MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP
+  Use",https://arxiv.org/pdf/2509.24002,2025-09-28T17:53:27Z
+2509.23996,"Future-Proofing Programmers: Optimal Knowledge Tracing for AI-Assisted
+  Personalized Education",https://arxiv.org/pdf/2509.23996,2025-09-28T17:40:39Z
+2509.23994,"The AI Agent Code of Conduct: Automated Guardrail Policy-as-Prompt
+  Synthesis",https://arxiv.org/pdf/2509.23994,2025-09-28T17:36:52Z
+2509.23992,Guide: Generalized-Prior and Data Encoders for DAG Estimation,https://arxiv.org/pdf/2509.23992,2025-09-28T17:35:21Z
+2509.23990,"The Hidden Costs of Translation Accuracy: Distillation, Quantization,
+  and Environmental Impact",https://arxiv.org/pdf/2509.23990,2025-09-28T17:32:52Z
+2509.23988,LLM/Agent-as-Data-Analyst: A Survey,https://arxiv.org/pdf/2509.23988,2025-09-28T17:31:38Z
+2509.23986,TusoAI: Agentic Optimization for Scientific Methods,https://arxiv.org/pdf/2509.23986,2025-09-28T17:30:44Z
+2509.23982,"Toward Preference-aligned Large Language Models via Residual-based Model
+  Steering",https://arxiv.org/pdf/2509.23982,2025-09-28T17:16:16Z
+2509.23981,"Automatic selection of primary studies in systematic reviews with
+  evolutionary rule-based classification",https://arxiv.org/pdf/2509.23981,2025-09-28T17:13:20Z
+2509.23962,"Conditional Advantage Estimation for Reinforcement Learning in Large
+  Reasoning Models",https://arxiv.org/pdf/2509.23962,2025-09-28T16:33:07Z
+2509.23960,"MAD-PINN: A Decentralized Physics-Informed Machine Learning Framework
+  for Safe and Optimal Multi-Agent Control",https://arxiv.org/pdf/2509.23960,2025-09-28T16:31:22Z
+2509.23957,"Vision-Grounded Machine Interpreting: Improving the Translation Process
+  through Visual Cues",https://arxiv.org/pdf/2509.23957,2025-09-28T16:25:33Z
+2509.23946,"Explore-Execute Chain: Towards an Efficient Structured Reasoning
+  Paradigm",https://arxiv.org/pdf/2509.23946,2025-09-28T15:48:40Z
+2509.23938,"Easy Turn: Integrating Acoustic and Linguistic Modalities for Robust
+  Turn-Taking in Full-Duplex Spoken Dialogue Systems",https://arxiv.org/pdf/2509.23938,2025-09-28T15:29:44Z
+2509.23937,Diffusion Models are Kelly Gamblers,https://arxiv.org/pdf/2509.23937,2025-09-28T15:27:25Z
+2509.23928,"HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in
+  Vision-Language Models",https://arxiv.org/pdf/2509.23928,2025-09-28T15:05:21Z
+2509.23924,"Taming Masked Diffusion Language Models via Consistency Trajectory
+  Reinforcement Learning with Fewer Decoding Step",https://arxiv.org/pdf/2509.23924,2025-09-28T15:01:15Z
+2509.23923,Graph Mixing Additive Networks,https://arxiv.org/pdf/2509.23923,2025-09-28T14:58:58Z
+2509.23913,"Continual Learning to Generalize Forwarding Strategies for Diverse
+  Mobile Wireless Networks",https://arxiv.org/pdf/2509.23913,2025-09-28T14:37:15Z
+2509.23912,"From Neural Networks to Logical Theories: The Correspondence between
+  Fibring Modal Logics and Fibring Neural Networks",https://arxiv.org/pdf/2509.23912,2025-09-28T14:32:42Z
+2509.23906,"EWC-Guided Diffusion Replay for Exemplar-Free Continual Learning in
+  Medical Imaging",https://arxiv.org/pdf/2509.23906,2025-09-28T14:23:46Z
+2509.23901,"Interpreting deep learning-based stellar mass estimation via causal
+  analysis and mutual information decomposition",https://arxiv.org/pdf/2509.23901,2025-09-28T14:17:25Z
+2509.23895,"Preserving Cross-Modal Stability for Visual Unlearning in Multimodal
+  Scenarios",https://arxiv.org/pdf/2509.23895,2025-09-28T14:03:37Z
+2509.23893,"Dynamic Orthogonal Continual Fine-tuning for Mitigating Catastrophic
+  Forgettings",https://arxiv.org/pdf/2509.23893,2025-09-28T13:55:05Z
+2509.23887,"Gradient Flow Convergence Guarantee for General Neural Network
+  Architectures",https://arxiv.org/pdf/2509.23887,2025-09-28T13:52:13Z
+2509.23886,"Towards Understanding Subliminal Learning: When and How Hidden Biases
+  Transfer",https://arxiv.org/pdf/2509.23886,2025-09-28T13:51:22Z
+2509.23885,"Tunable-Generalization Diffusion Powered by Self-Supervised Contextual
+  Sub-Data for Low-Dose CT Reconstruction",https://arxiv.org/pdf/2509.23885,2025-09-28T13:50:29Z
+2509.23882,"Quant Fever, Reasoning Blackholes, Schrodinger's Compliance, and More:
+  Probing GPT-OSS-20B",https://arxiv.org/pdf/2509.23882,2025-09-28T13:44:37Z
+2509.23879,"PCRI: Measuring Context Robustness in Multimodal Models for Enterprise
+  Applications",https://arxiv.org/pdf/2509.23879,2025-09-28T13:39:57Z
+2509.23878,"Disentangling Score Content and Performance Style for Joint Piano
+  Rendering and Transcription",https://arxiv.org/pdf/2509.23878,2025-09-28T13:36:33Z
+2509.23876,"Not All Tokens are Guided Equal: Improving Guidance in Visual
+  Autoregressive Models",https://arxiv.org/pdf/2509.23876,2025-09-28T13:33:49Z
+2509.23874,"Multi-Value-Product Retrieval-Augmented Generation for Industrial
+  Product Attribute Value Identification",https://arxiv.org/pdf/2509.23874,2025-09-28T13:29:20Z
+2509.23871,"Taught Well Learned Ill: Towards Distillation-conditional Backdoor
+  Attack",https://arxiv.org/pdf/2509.23871,2025-09-28T13:24:46Z
+2509.23870,Rethinking Reward Miscalibration of GRPO in Agentic RL,https://arxiv.org/pdf/2509.23870,2025-09-28T13:24:38Z
+2509.23866,"Efficient Multi-turn RL for GUI Agents via Decoupled Training and
+  Adaptive Data Curation",https://arxiv.org/pdf/2509.23866,2025-09-28T13:19:20Z
+2509.23864,AgentGuard: Runtime Verification of AI Agents,https://arxiv.org/pdf/2509.23864,2025-09-28T13:08:50Z
+2509.23860,GSID: Generative Semantic Indexing for E-Commerce Product Understanding,https://arxiv.org/pdf/2509.23860,2025-09-28T12:58:05Z
+2509.23846,Adversarial Diffusion for Robust Reinforcement Learning,https://arxiv.org/pdf/2509.23846,2025-09-28T12:34:35Z
+2509.23836,"Mix-Ecom: Towards Mixed-Type E-Commerce Dialogues with Complex Domain
+  Rules",https://arxiv.org/pdf/2509.23836,2025-09-28T12:19:27Z
+2509.23835,"HFuzzer: Testing Large Language Models for Package Hallucinations via
+  Phrase-based Fuzzing",https://arxiv.org/pdf/2509.23835,2025-09-28T12:16:43Z
+2509.23822,Space Group Conditional Flow Matching,https://arxiv.org/pdf/2509.23822,2025-09-28T11:51:29Z
+2509.23815,"A Multi-Camera Vision-Based Approach for Fine-Grained Assembly Quality
+  Control",https://arxiv.org/pdf/2509.23815,2025-09-28T11:37:48Z
+2509.23813,"IndexNet: Timestamp and Variable-Aware Modeling for Time Series
+  Forecasting",https://arxiv.org/pdf/2509.23813,2025-09-28T11:30:17Z
+2509.23812,"Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large
+  Language Models",https://arxiv.org/pdf/2509.23812,2025-09-28T11:29:57Z
+2509.23811,"AnveshanaAI: A Multimodal Platform for Adaptive AI/ML Education through
+  Automated Question Generation and Interactive Assessment",https://arxiv.org/pdf/2509.23811,2025-09-28T11:24:22Z
+2509.23809,Tequila: Trapping-free Ternary Quantization for Large Language Models,https://arxiv.org/pdf/2509.23809,2025-09-28T11:17:40Z
+2509.23803,"FedAgentBench: Towards Automating Real-world Federated Medical Image
+  Analysis with Server-Client LLM Agents",https://arxiv.org/pdf/2509.23803,2025-09-28T11:06:07Z
+2509.23799,"Enhancing LLM Steering through Sparse Autoencoder-Based Vector
+  Refinement",https://arxiv.org/pdf/2509.23799,2025-09-28T10:49:22Z
+2509.23796,"From Frustration to Fun: An Adaptive Problem-Solving Puzzle Game Powered
+  by Genetic Algorithm",https://arxiv.org/pdf/2509.23796,2025-09-28T10:40:14Z
+2509.23787,"From Unstable to Playable: Stabilizing Angry Birds Levels via Object
+  Segmentation",https://arxiv.org/pdf/2509.23787,2025-09-28T10:15:19Z
+2509.23783,"Falcon: A Cross-Modal Evaluation Dataset for Comprehensive Safety
+  Perception",https://arxiv.org/pdf/2509.23783,2025-09-28T10:00:37Z
+2509.23781,GroupCoOp: Group-robust Fine-tuning via Group Prompt Learning,https://arxiv.org/pdf/2509.23781,2025-09-28T09:54:30Z
+2509.23778,Sequence Pathfinder for Multi-Agent Pickup and Delivery in the Warehouse,https://arxiv.org/pdf/2509.23778,2025-09-28T09:48:13Z
+2509.23773,Knowledge Homophily in Large Language Models,https://arxiv.org/pdf/2509.23773,2025-09-28T09:40:27Z
+2509.23768,"From What to Why: A Multi-Agent System for Evidence-based Chemical
+  Reaction Condition Reasoning",https://arxiv.org/pdf/2509.23768,2025-09-28T09:34:35Z
+2509.23767,"From Personal to Collective: On the Role of Local and Global Memory in
+  LLM Personalization",https://arxiv.org/pdf/2509.23767,2025-09-28T09:32:18Z
+2509.23765,"Knowledge-Level Consistency Reinforcement Learning: Dual-Fact Alignment
+  for Long-Form Factuality",https://arxiv.org/pdf/2509.23765,2025-09-28T09:23:06Z
+2509.23762,"Accuracy-Robustness Trade Off via Spiking Neural Network Gradient
+  Sparsity Trail",https://arxiv.org/pdf/2509.23762,2025-09-28T09:15:33Z
+2509.23757,Transparent Visual Reasoning via Object-Centric Agent Collaboration,https://arxiv.org/pdf/2509.23757,2025-09-28T09:06:52Z
+2509.23756,"SHAPoint: Task-Agnostic, Efficient, and Interpretable Point-Based Risk
+  Scoring via Shapley Values",https://arxiv.org/pdf/2509.23756,2025-09-28T09:05:19Z
+2509.23755,"Understanding Textual Capability Degradation in Speech LLMs via
+  Parameter Importance Analysis",https://arxiv.org/pdf/2509.23755,2025-09-28T09:04:40Z
+2509.23751,"PVTAdpNet: Polyp Segmentation using Pyramid vision transformer with a
+  novel Adapter block",https://arxiv.org/pdf/2509.23751,2025-09-28T08:55:50Z
+2509.23746,Poivre: Self-Refining Visual Pointing with Reinforcement Learning,https://arxiv.org/pdf/2509.23746,2025-09-28T08:51:47Z
+2509.23745,LocoFormer: Generalist Locomotion via Long-context Adaptation,https://arxiv.org/pdf/2509.23745,2025-09-28T08:50:28Z
+2509.23744,"Compose and Fuse: Revisiting the Foundational Bottlenecks in Multimodal
+  Reasoning",https://arxiv.org/pdf/2509.23744,2025-09-28T08:46:11Z
+2509.23738,"GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence
+  GUI Tasks",https://arxiv.org/pdf/2509.23738,2025-09-28T08:35:16Z
+2509.23736,"HieraTok: Multi-Scale Visual Tokenizer Improves Image Reconstruction and
+  Generation",https://arxiv.org/pdf/2509.23736,2025-09-28T08:30:26Z
+2509.23735,"Diagnosing Failure Root Causes in Platform-Orchestrated Agentic Systems:
+  Dataset, Taxonomy, and Benchmark",https://arxiv.org/pdf/2509.23735,2025-09-28T08:30:03Z
+2509.23730,EAPO: Enhancing Policy Optimization with On-Demand Expert Assistance,https://arxiv.org/pdf/2509.23730,2025-09-28T08:20:22Z
+2509.23729,"LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language
+  Models",https://arxiv.org/pdf/2509.23729,2025-09-28T08:20:00Z
+2509.23728,"M3DLayout: A Multi-Source Dataset of 3D Indoor Layouts and Structured
+  Descriptions for 3D Generation",https://arxiv.org/pdf/2509.23728,2025-09-28T08:16:08Z
+2509.23727,AudioMoG: Guiding Audio Generation with Mixture-of-Guidance,https://arxiv.org/pdf/2509.23727,2025-09-28T08:12:43Z
+2509.23725,"MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical
+  Reasoning with Large Language Models",https://arxiv.org/pdf/2509.23725,2025-09-28T08:06:39Z
+2509.23724,Video Panels for Long Video Understanding,https://arxiv.org/pdf/2509.23724,2025-09-28T08:05:55Z
+2509.23722,"AdaPtis: Reducing Pipeline Bubbles with Adaptive Pipeline Parallelism on
+  Heterogeneous Models",https://arxiv.org/pdf/2509.23722,2025-09-28T08:05:13Z
+2509.23717,Measuring Sparse Autoencoder Feature Sensitivity,https://arxiv.org/pdf/2509.23717,2025-09-28T07:58:53Z
+2509.23711,"Bridging Discrete and Continuous RL: Stable Deterministic Policy
+  Gradient with Martingale Characterization",https://arxiv.org/pdf/2509.23711,2025-09-28T07:53:33Z
+2509.23708,"CrimEdit: Controllable Editing for Counterfactual Object Removal,
+  Insertion, and Movement",https://arxiv.org/pdf/2509.23708,2025-09-28T07:41:25Z
+2509.23695,"Estimating Time Series Foundation Model Transferability via In-Context
+  Learning",https://arxiv.org/pdf/2509.23695,2025-09-28T07:07:13Z
+2509.23694,"SafeSearch: Automated Red-Teaming for the Safety of LLM-Based Search
+  Agents",https://arxiv.org/pdf/2509.23694,2025-09-28T07:05:17Z
+2509.23687,"Joint Hybrid Beamforming and Artificial Noise Design for Secure
+  Multi-UAV ISAC Networks",https://arxiv.org/pdf/2509.23687,2025-09-28T06:58:04Z
+2509.23678,Towards a Comprehensive Scaling Law of Mixture-of-Experts,https://arxiv.org/pdf/2509.23678,2025-09-28T06:35:34Z
+2509.23676,"From Reasoning to Answer: Empirical, Attention-Based and Mechanistic
+  Insights into Distilled DeepSeek R1 Models",https://arxiv.org/pdf/2509.23676,2025-09-28T06:32:21Z
+2509.23673,"RCI: A Score for Evaluating Global and Local Reasoning in Multimodal
+  Benchmarks",https://arxiv.org/pdf/2509.23673,2025-09-28T06:26:11Z
+2509.23671,"Graph Neural Networks with Diversity-aware Neighbor Selection and
+  Dynamic Multi-scale Fusion for Multivariate Time Series Forecasting",https://arxiv.org/pdf/2509.23671,2025-09-28T06:23:43Z
+2509.23666,"Beyond Greedy Exits: Improved Early Exit Decisions for Risk Control and
+  Reliability",https://arxiv.org/pdf/2509.23666,2025-09-28T06:05:24Z
+2509.23665,"Calibration Meets Reality: Making Machine Learning Predictions
+  Trustworthy",https://arxiv.org/pdf/2509.23665,2025-09-28T06:04:56Z
+2509.23662,Pure Node Selection for Imbalanced Graph Node Classification,https://arxiv.org/pdf/2509.23662,2025-09-28T05:53:33Z
+2509.23659,Aligning LLMs for Multilingual Consistency in Enterprise Applications,https://arxiv.org/pdf/2509.23659,2025-09-28T05:51:22Z
+2509.23655,"Focusing on What Matters: Object-Agent-centric Tokenization for Vision
+  Language Action models",https://arxiv.org/pdf/2509.23655,2025-09-28T05:42:53Z
+2509.23652,"ReWatch-R1: Boosting Complex Video Reasoning in Large Vision-Language
+  Models through Agentic Data Synthesis",https://arxiv.org/pdf/2509.23652,2025-09-28T05:38:16Z
+2509.23639,"LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via
+  Debiasing Pre-trained Text Encoders",https://arxiv.org/pdf/2509.23639,2025-09-28T04:46:39Z
+2509.23630,Game-Oriented ASR Error Correction via RAG-Enhanced LLM,https://arxiv.org/pdf/2509.23630,2025-09-28T04:12:07Z
+2509.23629,How LLMs Learn to Reason: A Complex Network Perspective,https://arxiv.org/pdf/2509.23629,2025-09-28T04:10:37Z
+2509.23625,RIV: Recursive Introspection Mask Diffusion Vision Language Model,https://arxiv.org/pdf/2509.23625,2025-09-28T04:01:46Z
+2509.23619,Reasoning Scaffolding: Distilling the Flow of Thought from LLMs,https://arxiv.org/pdf/2509.23619,2025-09-28T03:49:32Z
+2509.23618,"Generalizable Speech Deepfake Detection via Information Bottleneck
+  Enhanced Adversarial Alignment",https://arxiv.org/pdf/2509.23618,2025-09-28T03:48:49Z
+2509.23617,"BioVessel-Net and RetinaMix: Unsupervised Retinal Vessel Segmentation
+  from OCTA Images",https://arxiv.org/pdf/2509.23617,2025-09-28T03:46:20Z
+2509.23616,"GraphIFE: Rethinking Graph Imbalance Node Classification via Invariant
+  Learning",https://arxiv.org/pdf/2509.23616,2025-09-28T03:41:16Z
+2509.23614,PSG-Agent: Personality-Aware Safety Guardrail for LLM-based Agents,https://arxiv.org/pdf/2509.23614,2025-09-28T03:31:59Z
+2509.23612,"InteractMove: Text-Controlled Human-Object Interaction Generation in 3D
+  Scenes with Movable Objects",https://arxiv.org/pdf/2509.23612,2025-09-28T03:29:15Z
+2509.23597,"Characteristic Root Analysis and Regularization for Linear Time Series
+  Forecasting",https://arxiv.org/pdf/2509.23597,2025-09-28T03:06:30Z
+2509.23596,"Multi-Level Heterogeneous Knowledge Transfer Network on Forward
+  Scattering Center Model for Limited Samples SAR ATR",https://arxiv.org/pdf/2509.23596,2025-09-28T03:04:04Z
+2509.23595,"Timber: Training-free Instruct Model Refining with Base via Effective
+  Rank",https://arxiv.org/pdf/2509.23595,2025-09-28T02:59:43Z
+2509.23592,Toward a Holistic Approach to Continual Model Merging,https://arxiv.org/pdf/2509.23592,2025-09-28T02:51:04Z
+2509.23589,"BridgeDrive: Diffusion Bridge Policy for Closed-Loop Trajectory Planning
+  in Autonomous Driving",https://arxiv.org/pdf/2509.23589,2025-09-28T02:47:12Z
+2509.23586,"Improving the Efficiency of LLM Agent Systems through Trajectory
+  Reduction",https://arxiv.org/pdf/2509.23586,2025-09-28T02:43:41Z
+2509.23577,"ML-Asset Management: Curation, Discovery, and Utilization",https://arxiv.org/pdf/2509.23577,2025-09-28T02:14:33Z
+2509.23574,"Towards Efficient CoT Distillation: Self-Guided Rationale Selector for
+  Better Performance with Fewer Rationales",https://arxiv.org/pdf/2509.23574,2025-09-28T02:09:07Z
+2509.23573,Uncovering Vulnerabilities of LLM-Assisted Cyber Threat Intelligence,https://arxiv.org/pdf/2509.23573,2025-09-28T02:08:27Z
+2509.23571,Benchmarking LLM-Assisted Blue Teaming via Standardized Threat Hunting,https://arxiv.org/pdf/2509.23571,2025-09-28T02:08:17Z
+2509.23568,"Node Classification via Simplicial Interaction with Augmented Maximal
+  Clique Selection",https://arxiv.org/pdf/2509.23568,2025-09-28T01:57:01Z
+2509.23564,"Clean First, Align Later: Benchmarking Preference Data Cleaning for
+  Reliable LLM Alignment",https://arxiv.org/pdf/2509.23564,2025-09-28T01:44:05Z
+2509.23563,"RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and
+  Behavior Adaptation",https://arxiv.org/pdf/2509.23563,2025-09-28T01:43:25Z
+2509.23562,Pancreas Part Segmentation under Federated Learning Paradigm,https://arxiv.org/pdf/2509.23562,2025-09-28T01:42:43Z
+2509.23560,"A Hierarchical Structure-Enhanced Personalized Recommendation Model for
+  Traditional Chinese Medicine Formulas Based on KG Diffusion Guidance",https://arxiv.org/pdf/2509.23560,2025-09-28T01:40:01Z
+2509.23558,Formalization Driven LLM Prompt Jailbreaking via Reinforcement Learning,https://arxiv.org/pdf/2509.23558,2025-09-28T01:38:00Z
+2509.23552,"Fusing Sequence Motifs and Pan-Genomic Features: Antimicrobial
+  Resistance Prediction using an Explainable Lightweight 1D CNN-XGBoost
+  Ensemble",https://arxiv.org/pdf/2509.23552,2025-09-28T01:19:11Z
+2509.23550,Automatic Speech Recognition for Greek Medical Dictation,https://arxiv.org/pdf/2509.23550,2025-09-28T01:15:47Z
+2509.23548,Disentanglement of Variations with Multimodal Generative Modeling,https://arxiv.org/pdf/2509.23548,2025-09-28T00:54:39Z
+2509.23544,End-to-End Deep Learning for Predicting Metric Space-Valued Outputs,https://arxiv.org/pdf/2509.23544,2025-09-28T00:46:12Z
+2509.23542,"On the Shelf Life of Fine-Tuned LLM Judges: Future Proofing, Backward
+  Compatibility, and Question Generalization",https://arxiv.org/pdf/2509.23542,2025-09-28T00:43:52Z
+2509.23537,"Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs.
+  Single LLMs on Benchmarks",https://arxiv.org/pdf/2509.23537,2025-09-28T00:15:21Z

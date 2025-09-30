@@ -74,7 +74,7 @@ def analyze(text, prompt1, prompt2, api_key):
                                                     top_p = 0.3,
                                                     top_k = 40)
             )
-            return response.text
+            return True, response.text
         
         except Exception as e:
             print(e)
@@ -84,7 +84,7 @@ def analyze(text, prompt1, prompt2, api_key):
                 time.sleep(delay)
             else:
                 logging.info(f"Analyze2: Failed to analyze text: {e}")
-                return None
+                return False, str(e)
 
 
 def analyze_response(response):
@@ -126,16 +126,18 @@ def extract_github(prompt1, prompt2, api_key, pdf_url = None): # find the github
 
 
         if url_exist:
-            output= analyze(text, prompt1, prompt2, api_key)   # using AI to get author's github link
+            sucess, output= analyze(text, prompt1, prompt2, api_key)   # using AI to get author's github link
             #extract the urls from AI's answer
-            url_correct, urls = analyze_response(output)# NEED IMPROVEMENT FOR STRUCTURED OUTPUT
+            if not sucess:
+                return output
+            else:
+                url_correct, urls = analyze_response(output)# NEED IMPROVEMENT FOR STRUCTURED OUTPUT
 
 
             if url_correct: # make sure the AI give correct urls format
-                print(urls)
                 return urls
             else: 
-                return None
+                return "github link uncorrect"
                 # NEED IMPROVEMENT TO HANDLE WRONG MESSAGE FROM GEMINI
                 # print(urls)
                 # return urls
@@ -145,13 +147,22 @@ def extract_github(prompt1, prompt2, api_key, pdf_url = None): # find the github
     else:
         return None
     
-    
+import shutil
+import pandas as pd
 from tqdm import tqdm
-def githublink_extractor(input_file, output_file, gemini_api_key):
+def githublink_extractor(data_path, gemini_api_key, input_file = "arxiv.csv", output_file = "githublink.csv"):
     prompt1 = "I will provide an article about AI. I need you to find out the GitHub link for the article's project. Do not provide any links that are cited or referenced. Provide the link with this form: 'The Github Link is: https://...' or I didn't find the project link"
     prompt2 = "The article ends. I need you to find out the GitHub link for the article's project. Do not provide any links that are cited or referenced."
-
-    with open (input_file, "r", encoding = "utf-8") as file:
+    csv_file_path = os.path.join(data_path, output_file)
+    if not os.path.exists(csv_file_path):
+        shutil.copyfile(os.path.join(data_path, input_file), csv_file_path)
+        df = pd.read_csv(csv_file_path)
+        df["Github_Link"] = ""
+    else:
+        df = pd.read_csv(csv_file_path)
+    
+    
+    with open (csv_file_path, "r", encoding = "utf-8") as file:
         reader = csv.reader(file)
         header = next(reader)
         all_row = list(reader)
@@ -169,20 +180,64 @@ def githublink_extractor(input_file, output_file, gemini_api_key):
 
     return None
 
+import os
+import shutil
+import pandas as pd
+from tqdm import tqdm
+
+def githublink_extractor(data_path, gemini_api_key, input_file="arxiv.csv", output_file="githublink.csv"):
+    prompt1 = (
+        "I will provide an article about AI. I need you to find out the GitHub link for the article's project. "
+        "Do not provide any links that are cited or referenced. "
+        "Provide the link with this form: 'The Github Link is: https://...' or I didn't find the project link"
+    )
+    prompt2 = (
+        "The article ends. I need you to find out the GitHub link for the article's project. "
+        "Do not provide any links that are cited or referenced."
+    )
+    
+    output_file_path = os.path.join(data_path, output_file)
+    input_file_path = os.path.join(data_path, input_file)
+
+    # If the output file does not exist, copy the input file and add a new column for GitHub links
+    if not os.path.exists(output_file_path):
+        shutil.copyfile(input_file_path, output_file_path)
+        df = pd.read_csv(output_file_path)
+        df["Github_Link"] = ""
+    else:
+        df = pd.read_csv(output_file_path)
+        # Ensure the Github_Link column exists
+        if "Github_Link" not in df.columns:
+            df["Github_Link"] = ""
+
+    # Iterate over rows and fill in missing GitHub links
+    for idx in tqdm(df.index, desc="Processing articles", unit="article"):
+        if pd.isna(df.at[idx, "Github_Link"]) or df.at[idx, "Github_Link"] == "":
+            # Assuming the 3rd column is "url". Replace "url" with the actual column name if different
+            url = df.at[idx, "Pdf_Link"]  
+            github_link = extract_github(prompt1, prompt2, gemini_api_key, pdf_url=url)
+            
+            if github_link is not None:
+                df.at[idx, "Github_Link"] = github_link
+            else:
+                df.at[idx, "Github_Link"] = "not_found"
 
 
+            # Save progress after each row to prevent data loss if interrupted
+            df.to_csv(output_file_path, index=False)
 
-    github_link = extract_github(prompt1, prompt2, gemini_api_key, pdf_url = url)
+    return None
+
+
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", "--path", type=str, default= "data", help="the path of folder you want to save the data")
+    args = parser.parse_args()
+
     from dotenv import load_dotenv
     import os
     load_dotenv()
-    gemini_api_key = os.getenv("GEMINI_API_KEY")
-
-    if not os.path.exists("data/githublink_test.csv"):
-        with open("data/githublink_test.csv", "w", encoding = "utf-8") as file:
-            writer = csv.writer(file)
-            writer.writerow(["Arxiv_ID","Title", "Pdf_Link", "Published_Date", "Github_Link"])
-        
-    githublink_extractor("data/arxiv_test.csv", "githublink_test.csv", gemini_api_key)
+       
+    githublink_extractor(data_path = args.path, gemini_api_key = os.getenv("GEMINI_API_KEY"))

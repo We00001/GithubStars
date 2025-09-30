@@ -3,23 +3,27 @@ from urllib.parse import urlparse
 import logging
 import os
 
+
 logging.basicConfig(level=logging.INFO,
                     filename='logs/star_scraper.log',
                     filemode='a',
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 def crawl_star(github_link, token):
-        
+    
+    if "/" not in github_link:
+        return ""
+    
     parsed_url = urlparse(github_link)
     parts = parsed_url.path.strip("/").split("/")
     
     if len(parts) >= 2:
         username, repo_name = parts[0], parts[1]
     else:
-        return False, "Error: Invalid GitHub URL"
+        return "Error: Invalid GitHub URL"
 
     if username is None or repo_name is None:
-        return False, "Error: Invalid GitHub URL"
+        return "Error: Invalid GitHub URL"
 
     else:
         url = f"https://api.github.com/repos/{username}/{repo_name}"
@@ -47,8 +51,26 @@ def star_scraper(input_file, output_file, token = os.getenv("GITHUB_API_KEY")):
     return None
         
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", "--path", type=str, default= "data", help="the path of folder you want to save the data")
+    args = parser.parse_args()
+
     from dotenv import load_dotenv
     import os
     load_dotenv()
     token = os.getenv("GITHUB_API_KEY")
-    star_scraper("data/star_test.csv", "data/star_test.csv", token)
+
+    file_path = os.path.join(args.path, "star.csv")
+    backup_path = os.path.join(args.path, "star_backup.csv")
+
+    import shutil
+    shutil.copyfile(file_path, backup_path)
+
+    if not os.path.exists(file_path):
+        shutil.copyfile(os.path.join(args.path, "githublink.csv"),file_path)
+        df = pd.read_csv(file_path)
+        df = df.drop_duplicates
+        df.to_csv(file_path, index=False)
+        
+    star_scraper(file_path, file_path, token)

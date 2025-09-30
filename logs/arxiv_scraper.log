@@ -1,0 +1,22 @@
+2025-09-19 15:39:00,869 - INFO - Starting crawl for category 'cs.AI' from 2024-01-28 to 2024-01-31.
+2025-09-19 15:39:01,347 - INFO - Querying month 20240128-20240131. Total results: 241
+2025-09-19 16:15:55,110 - INFO - Starting crawl for category 'cs.AI' from 2025-09-19 to 2025-09-19.
+2025-09-19 16:15:55,880 - INFO - Querying month 20250919-20250930. Total results: 0
+2025-09-19 16:17:33,045 - INFO - Starting crawl for category 'cs.AI' from 2025-09-18 to 2025-09-18.
+2025-09-19 16:17:33,501 - INFO - Querying month 20250918-20250930. Total results: 89
+2025-09-19 16:18:30,826 - INFO - Starting crawl for category 'cs.AI' from 2025-09-17 to 2025-09-17.
+2025-09-19 16:18:31,629 - INFO - Querying month 20250917-20250930. Total results: 174
+2025-09-27 08:27:06,936 - INFO - Starting crawl for category 'cs.AI' from 2023-01-01 to 2025-09-27.
+2025-09-27 08:27:10,713 - INFO - Starting crawl for category 'cs.AI' from 2023-01-01 to 2025-09-27.
+2025-09-27 08:28:22,812 - INFO - Starting crawl for category 'cs.AI' from 2023-01-01 to 2025-09-27.
+2025-09-27 09:32:48,327 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:33:02,612 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:34:32,055 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:34:53,482 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:35:09,744 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:35:36,913 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:35:43,860 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:36:08,564 - INFO - Starting crawl for category 'cs.AI' from 2025-09-25 to 2025-09-27.
+2025-09-27 09:36:09,109 - INFO - Querying month 20250925-20250930. Total results: 136
+2025-09-30 11:29:43,064 - INFO - Starting crawl for category 'cs.AI' from 2025-09-28 to 2025-09-30.
+2025-09-30 11:29:43,722 - INFO - Querying month 20250928-20250930. Total results: 342

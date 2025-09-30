@@ -5,7 +5,8 @@ import csv
 import os
 import time
 from datetime import datetime, timedelta
-
+import pandas as pd 
+import io
 # --- Configuration & Constants ---
 
 # BEST PRACTICE: Use constants for URLs and namespaces
@@ -88,7 +89,7 @@ def crawl_paper_api(search_query: str, max_results: int = 100, start: int = 0) -
     
     return papers
 
-def arxiv_scraper(csv_file_path, category="cs.AI", data_folder="data", start_date="2023-01-01", end_date=None):
+def arxiv_scraper(data_folder="data", category="cs.AI", start_date="2023-01-01", end_date=None, output_file="arxiv.csv"):
     """
     Main function to crawl arXiv by breaking down the query into monthly chunks
     to avoid the total results limit, then paginates through each chunk.
@@ -101,22 +102,36 @@ def arxiv_scraper(csv_file_path, category="cs.AI", data_folder="data", start_dat
     
     # Create data folder if it doesn't exist
     os.makedirs(data_folder, exist_ok=True)
-
-    # Write header to CSV file
-    with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        writer.writerow(['Arxiv_ID','Title', 'Pdf_Link', 'Published_Date'])
+    
+    csv_file_path = os.path.join(data_folder, output_file)
+    # check the exists of the csv_file
+    if os.path.exists(csv_file_path):
+        # find the max date in the dataset.
+        df = pd.read_csv(csv_file_path)
+        df['Published_Date'] = pd.to_datetime(df['Published_Date'])
+        # Find the maximum date in the column and return it as a date object
+        latest_date = df['Published_Date'].max().to_pydatetime()
+        latest_date = latest_date.date()
+        print(f"Latest date in the dataset: {latest_date}")
+        
+    else:
+        with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            writer.writerow(['Arxiv_ID','Title', 'Pdf_Link', 'Published_Date'])
+        logging.info(f"Dataset created: {csv_file_path}")
+        print(f"Dataset created: {csv_file_path}")
 
     logging.info(f"Starting crawl for category '{category}' from {start_date} to {end_date}.")
     print(f"Saving data to {csv_file_path}")
 
     # --- NEW: Date-chunking logic ---
-    current_date = datetime.strptime(start_date, '%Y-%m-%d')
-    end_datetime = datetime.strptime(end_date, '%Y-%m-%d')
+    current_date = datetime.strptime(start_date, '%Y-%m-%d').date()
+    current_date = max(current_date, latest_date)
+    end_datetime = datetime.strptime(end_date, '%Y-%m-%d').date()
     total_papers_crawled = 0
 
     while current_date <= end_datetime:
-        # Define the start and end of the current month
+        # Define the start and end of the current monthß
         month_start = current_date.strftime('%Y%m%d')
         next_month = (current_date.replace(day=28) + timedelta(days=4))
         month_end_date = next_month - timedelta(days=next_month.day)
@@ -165,7 +180,19 @@ def arxiv_scraper(csv_file_path, category="cs.AI", data_folder="data", start_dat
     return csv_file_path
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-c", "--category",type= str, default="cs.AI", help="the category you want to crawl")
+    parser.add_argument("-p", "--path", type=str, default= "data", help="the path of folder you want to save the data")
+    parser.add_argument("-s", "--start_date", type=str, default= None, help="The start time in yyyy-mm-dd format.")
+    parser.add_argument("-e", "--end_date", type=str, default= None, help="The start time in yyyy-mm-dd format.")
+    args = parser.parse_args()
 
-    arxiv_scraper(csv_file_path="data/arxiv_test.csv", 
-                  category="cs.AI",
-                  start_date="2024-01-28", end_date="2024-01-31")
+    if args.start_date is None:
+        start_date = "2023-01-01"
+    else:
+        start_date = args.start_date
+
+    arxiv_scraper(data_folder=args.path, 
+                  category=args.category,
+                  start_date=start_date, end_date=args.end_date)
