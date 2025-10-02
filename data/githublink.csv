@@ -769,8 +769,8 @@ Arxiv_ID,Title,Pdf_Link,Published_Date,Github_Link
   Tumor Framework",https://arxiv.org/pdf/2509.24149,2025-09-29T00:53:17Z,not_found
 2509.24156,"Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning
   Models",https://arxiv.org/pdf/2509.24156,2025-09-29T01:13:33Z,not_found
-2509.24159,"Robust Preference Optimization: Aligning Language Models with Noisy
-  Preference Feedback",https://arxiv.org/pdf/2509.24159,2025-09-29T01:17:49Z,github link uncorrect
+2509.24159,"Latent Collective Preference Optimization: A General Framework for
+  Robust LLM Alignment",https://arxiv.org/pdf/2509.24159,2025-09-29T01:17:49Z,github link uncorrect
 2509.2416,"Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for
   Robot Manipulation",https://arxiv.org/pdf/2509.24160,2025-09-29T01:18:59Z,github link uncorrect
 2509.24165,"LatXGen: Towards Radiation-Free and Accurate Quantitative Analysis of
@@ -909,8 +909,8 @@ Arxiv_ID,Title,Pdf_Link,Published_Date,Github_Link
   Optimization in MLLMs",https://arxiv.org/pdf/2509.24491,2025-09-29T09:03:36Z,not_found
 2509.24495,Neuroplasticity-inspired dynamic ANNs for multi-task demand forecasting,https://arxiv.org/pdf/2509.24495,2025-09-29T09:08:08Z,https://github.com/MatZar01/Multi_Forecasting
 2509.24496,LLM DNA: Tracing Model Evolution via Functional Representations,https://arxiv.org/pdf/2509.24496,2025-09-29T09:09:57Z,not_found
-2509.24509,"Experience-guided reflective co-evolution of prompts and heuristics for
-  automatic algorithm design",https://arxiv.org/pdf/2509.24509,2025-09-29T09:24:09Z,github link uncorrect
+2509.24509,"Experience-Guided Reflective Co-Evolution of Prompts and Heuristics for
+  Automatic Algorithm Design",https://arxiv.org/pdf/2509.24509,2025-09-29T09:24:09Z,github link uncorrect
 2509.2451,"Specialization after Generalization: Towards Understanding Test-Time
   Training in Foundation Models",https://arxiv.org/pdf/2509.24510,2025-09-29T09:24:52Z,https://github.com/patrikwolf/ttt_theory
 2509.24515,Agentic Specification Generator for Move Programs,https://arxiv.org/pdf/2509.24515,2025-09-29T09:34:31Z,https://github.com/sslab-gatech/MSG
@@ -1082,3 +1082,161 @@ Arxiv_ID,Title,Pdf_Link,Published_Date,Github_Link
 2509.25146,Fast Feature Field ($\text{F}^3$): A Predictive Representation of Events,https://arxiv.org/pdf/2509.25146,2025-09-29T17:52:31Z,not_found
 2509.25148,"UniAPL: A Unified Adversarial Preference Learning Framework for
   Instruct-Following",https://arxiv.org/pdf/2509.25148,2025-09-29T17:53:09Z,not_found
+2509.25149,Pretraining Large Language Models with NVFP4,https://arxiv.org/pdf/2509.25149,2025-09-29T17:53:17Z,https://github.com/NVIDIA/TransformerEngine
+2509.25154,Who's Your Judge? On the Detectability of LLM-Generated Judgments,https://arxiv.org/pdf/2509.25154,2025-09-29T17:54:57Z,https://github.com/David-Li0406/Judgment-Detection
+2509.25157,"Chance-constrained Flow Matching for High-Fidelity Constraint-aware
+  Generation",https://arxiv.org/pdf/2509.25157,2025-09-29T17:56:52Z,not_found
+2509.2516,"GSM8K-V: Can Vision Language Models Solve Grade School Math Word
+  Problems in Visual Contexts",https://arxiv.org/pdf/2509.25160,2025-09-29T17:57:05Z,https://github.com/ZJU-REAL/GSM8K-V
+2509.2517,"GLASS Flows: Transition Sampling for Alignment of Flow and Diffusion
+  Models",https://arxiv.org/pdf/2509.25170,2025-09-29T17:58:36Z,github link uncorrect
+2509.25174,"XQC: Well-conditioned Optimization Accelerates Deep Reinforcement
+  Learning",https://arxiv.org/pdf/2509.25174,2025-09-29T17:58:53Z,github link uncorrect
+2509.25175,"EasySteer: A Unified Framework for High-Performance and Extensible LLM
+  Steering",https://arxiv.org/pdf/2509.25175,2025-09-29T17:59:07Z,https://github.com/ZJU-REAL/EasySteer
+2509.25178,GHOST: Hallucination-Inducing Image Generation for Multimodal LLMs,https://arxiv.org/pdf/2509.25178,2025-09-29T17:59:23Z,github link uncorrect
+2509.25179,"NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality
+  Estimation",https://arxiv.org/pdf/2509.25179,2025-09-29T17:59:23Z,not_found
+2509.2518,"DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed
+  Latent Space",https://arxiv.org/pdf/2509.25180,2025-09-29T17:59:25Z,https://github.com/dc-ai-projects/DC-Gen
+2509.25182,"DC-VideoGen: Efficient Video Generation with Deep Compression Video
+  Autoencoder",https://arxiv.org/pdf/2509.25182,2025-09-29T17:59:31Z,https://github.com/dc-ai-projects/DC-VideoGen
+2509.25184,Incentive-Aligned Multi-Source LLM Summaries,https://arxiv.org/pdf/2509.25184,2025-09-29T17:59:42Z,not_found
+2509.25186,Guided Diffusion for the Discovery of New Superconductors,https://arxiv.org/pdf/2509.25186,2025-09-29T17:59:52Z,https://github.com/paprakash/GuidedMatDiffusion
+2509.25189,InfoAgent: Advancing Autonomous Information-Seeking Agents,https://arxiv.org/pdf/2509.25189,2025-09-29T17:59:57Z,github link uncorrect
+2509.25279,RL in the Wild: Characterizing RLVR Training in LLM Deployment,https://arxiv.org/pdf/2509.25279,2025-09-29T03:09:27Z,https://github.com/Zhou-jiecheng/PolyTrace
+2509.25282,"Toward Causal-Visual Programming: Enhancing Agentic Reasoning in
+  Low-Code Environments",https://arxiv.org/pdf/2509.25282,2025-09-29T08:01:31Z,not_found
+2509.25283,"Effectiveness of Large Language Models in Simulating Regional
+  Psychological Structures: An Empirical Examination of Personality and
+  Subjective Well-being",https://arxiv.org/pdf/2509.25283,2025-09-29T09:12:18Z,not_found
+2509.25286,"Artificial Authority: From Machine Minds to Political Alignments. An
+  Experimental Analysis of Democratic and Autocratic Biases in Large-Language
+  Models",https://arxiv.org/pdf/2509.25286,2025-09-29T11:26:58Z,not_found
+2509.25289,"ClustRecNet: A Novel End-to-End Deep Learning Framework for Clustering
+  Algorithm Recommendation",https://arxiv.org/pdf/2509.25289,2025-09-29T13:48:33Z,https://github.com/confanonymgit/clustrecnet
+2509.25292,A Measurement Study of Model Context Protocol,https://arxiv.org/pdf/2509.25292,2025-09-29T14:29:20Z,https://github.com/zhuaiballl/mcpc
+2509.25293,"AI in Pakistani Schools: Adoption, Usage, and Perceived Impact among
+  Educators",https://arxiv.org/pdf/2509.25293,2025-09-29T15:20:01Z,not_found
+2509.25296,"Learning Relationships Between Separate Audio Tracks for Creative
+  Applications",https://arxiv.org/pdf/2509.25296,2025-09-29T16:06:21Z,https://github.com/ircam-ismm/learning-from-paired-tracks
+2509.25297,"Automatically Generating Web Applications from Requirements Via
+  Multi-Agent Test-Driven Development",https://arxiv.org/pdf/2509.25297,2025-09-29T16:18:19Z,https://github.com/yxwan123/TDDev
+2509.25299,"ID-RAG: Identity Retrieval-Augmented Generation for Long-Horizon Persona
+  Coherence in Generative Agents",https://arxiv.org/pdf/2509.25299,2025-09-29T16:54:51Z,https://github.com/flybits/humanai-agents
+2509.253,"Scaling Behaviors of LLM Reinforcement Learning Post-Training: An
+  Empirical Study in Mathematical Reasoning",https://arxiv.org/pdf/2509.25300,2025-09-29T17:10:35Z,github link uncorrect
+2509.25301,"Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel
+  Execution",https://arxiv.org/pdf/2509.25301,2025-09-29T17:39:30Z,https://github.com/OPPO-PersonalAI/Flash-Searcher
+2509.25302,"Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication
+  Risk in LLM Agents",https://arxiv.org/pdf/2509.25302,2025-09-29T17:49:50Z,not_found
+2509.25334,"Uncertainty-Aware Generative Oversampling Using an Entropy-Guided
+  Conditional Variational Autoencoder",https://arxiv.org/pdf/2509.25334,2025-09-29T18:00:11Z,https://github.com/Amirhossein-Zare/LEO-CVAE
+2509.25339,"VisualOverload: Probing Visual Understanding of VLMs in Really Dense
+  Scenes",https://arxiv.org/pdf/2509.25339,2025-09-29T18:00:25Z,https://github.com/paulgavrikov/visualoverload
+2509.25343,Spontaneous High-Order Generalization in Neural Theory-of-Mind Networks,https://arxiv.org/pdf/2509.25343,2025-09-29T18:01:06Z,not_found
+2509.25346,"SynthPert: Enhancing LLM Biological Reasoning via Synthetic Reasoning
+  Traces for Cellular Perturbation Prediction",https://arxiv.org/pdf/2509.25346,2025-09-29T18:02:41Z,github link uncorrect
+2509.25359,"From Internal Representations to Text Quality: A Geometric Approach to
+  LLM Evaluation",https://arxiv.org/pdf/2509.25359,2025-09-29T18:08:47Z,not_found
+2509.25361,"Structural Reward Model: Enhancing Interpretability, Efficiency, and
+  Scalability in Reward Modeling",https://arxiv.org/pdf/2509.25361,2025-09-29T18:09:25Z,not_found
+2509.25369,Generative Value Conflicts Reveal LLM Priorities,https://arxiv.org/pdf/2509.25369,2025-09-29T18:19:43Z,https://github.com/andyjliu/conflictscope
+2509.2537,Where LLM Agents Fail and How They can Learn From Failures,https://arxiv.org/pdf/2509.25370,2025-09-29T18:20:27Z,https://github.com/ulab-uiuc/AgentDebug
+2509.25373,"From Perception to Cognition: A Survey of Vision-Language Interactive
+  Reasoning in Multimodal Large Language Models",https://arxiv.org/pdf/2509.25373,2025-09-29T18:25:40Z,github link uncorrect
+2509.25374,Saliency Guided Longitudinal Medical Visual Question Answering,https://arxiv.org/pdf/2509.25374,2025-09-29T18:26:17Z,github link uncorrect
+2509.25376,Cold-Start Active Correlation Clustering,https://arxiv.org/pdf/2509.25376,2025-09-29T18:29:21Z,not_found
+2509.25379,"Let Physics Guide Your Protein Flows: Topology-aware Unfolding and
+  Generation",https://arxiv.org/pdf/2509.25379,2025-09-29T18:31:22Z,github link uncorrect
+2509.2538,"Predicting Training Re-evaluation Curves Enables Effective Data
+  Curriculums for LLMs",https://arxiv.org/pdf/2509.25380,2025-09-29T18:31:35Z,github link uncorrect
+2509.2539,"SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in
+  VLMs",https://arxiv.org/pdf/2509.25390,2025-09-29T18:48:16Z,github link uncorrect
+2509.25393,"Multi-modal Spatio-Temporal Transformer for High-resolution Land
+  Subsidence Prediction",https://arxiv.org/pdf/2509.25393,2025-09-29T18:49:04Z,not_found
+2509.25397,"A Cartography of Open Collaboration in Open Source AI: Mapping
+  Practices, Motivations, and Governance in 14 Open Large Language Model
+  Projects",https://arxiv.org/pdf/2509.25397,2025-09-29T18:55:18Z,github link uncorrect
+2509.25401,FlashOmni: A Unified Sparse Attention Engine for Diffusion Transformers,https://arxiv.org/pdf/2509.25401,2025-09-29T18:57:14Z,https://github.com/qiaolian9/FlashOmni
+2509.25409,"From Faithfulness to Correctness: Generative Reward Models that Think
+  Critically",https://arxiv.org/pdf/2509.25409,2025-09-29T19:06:56Z,https://github.com/Martin-qyma/TRM
+2509.25411,Boolean Satisfiability via Imitation Learning,https://arxiv.org/pdf/2509.25411,2025-09-29T19:09:37Z,https://github.com/zewei-Zhang/ImitSAT
+2509.25414,Rethinking Parameter Sharing for LLM Fine-Tuning with Multiple LoRAs,https://arxiv.org/pdf/2509.25414,2025-09-29T19:16:14Z,https://github.com/OptMN-Lab/ALoRA
+2509.25416,"Emotion-Aligned Generation in Diffusion Text to Speech Models via
+  Preference-Guided Optimization",https://arxiv.org/pdf/2509.25416,2025-09-29T19:19:42Z,github link uncorrect
+2509.2542,Adaptive Test-Time Reasoning via Reward-Guided Dual-Phase Search,https://arxiv.org/pdf/2509.25420,2025-09-29T19:27:23Z,github link uncorrect
+2509.25424,Polychromic Objectives for Reinforcement Learning,https://arxiv.org/pdf/2509.25424,2025-09-29T19:32:11Z,github link uncorrect
+2509.25426,RADAR: Reasoning-Ability and Difficulty-Aware Routing for Reasoning LLMs,https://arxiv.org/pdf/2509.25426,2025-09-29T19:33:44Z,github link uncorrect
+2509.25434,The Open Syndrome Definition,https://arxiv.org/pdf/2509.25434,2025-09-29T19:41:54Z,https://github.com/OpenSyndrome/schema
+2509.25435,"GESA: Graph-Enhanced Semantic Allocation for Generalized, Fair, and
+  Explainable Candidate-Role Matching",https://arxiv.org/pdf/2509.25435,2025-09-29T19:41:55Z,not_found
+2509.25438,"Beyond Noisy-TVs: Noise-Robust Exploration Via Learning Progress
+  Monitoring",https://arxiv.org/pdf/2509.25438,2025-09-29T19:43:44Z,https://github.com/Akuna23Matata/LPM_exploration
+2509.25449,Joint Embeddings Go Temporal,https://arxiv.org/pdf/2509.25449,2025-09-29T19:57:37Z,https://github.com/Sennadir/TS_JEPA
+2509.2545,"Multi-patch isogeometric neural solver for partial differential
+  equations on computer-aided design domains",https://arxiv.org/pdf/2509.25450,2025-09-29T19:57:54Z,not_found
+2509.25454,"DeepSearch: Overcome the Bottleneck of Reinforcement Learning with
+  Verifiable Rewards via Monte Carlo Tree Search",https://arxiv.org/pdf/2509.25454,2025-09-29T20:00:29Z,github link uncorrect
+2509.25455,PIPer: On-Device Environment Setup via Online Reinforcement Learning,https://arxiv.org/pdf/2509.25455,2025-09-29T20:03:05Z,https://github.com/JetBrains-Research/PIPer
+2509.25458,"Plug-and-Play Emotion Graphs for Compositional Prompting in Zero-Shot
+  Speech Emotion Recognition",https://arxiv.org/pdf/2509.25458,2025-09-29T20:06:03Z,github link uncorrect
+2509.25466,Data-Efficient Multitask DAgger,https://arxiv.org/pdf/2509.25466,2025-09-29T20:17:35Z,not_found
+2509.25475,TDHook: A Lightweight Framework for Interpretability,https://arxiv.org/pdf/2509.25475,2025-09-29T20:28:43Z,https://github.com/Xmaster6y/tdhook
+2509.25479,"Discontinuous Epitope Fragments as Sufficient Target Templates for
+  Efficient Binder Design",https://arxiv.org/pdf/2509.25479,2025-09-29T20:33:32Z,not_found
+2509.2548,Translation from Wearable PPG to 12-Lead ECG,https://arxiv.org/pdf/2509.25480,2025-09-29T20:36:24Z,not_found
+2509.25482,"Message passing-based inference in an autoregressive active inference
+  agent",https://arxiv.org/pdf/2509.25482,2025-09-29T20:38:09Z,https://github.com/biaslab/IWAI2025-MARXEFE-MP
+2509.25495,"EMO-TTA: Improving Test-Time Adaptation of Audio-Language Models for
+  Speech Emotion Recognition",https://arxiv.org/pdf/2509.25495,2025-09-29T20:52:01Z,not_found
+2509.25498,"Not Wrong, But Untrue: LLM Overconfidence in Document-Based Queries",https://arxiv.org/pdf/2509.25498,2025-09-29T20:55:43Z,not_found
+2509.25503,DeepFake Detection in Dyadic Video Calls using Point of Gaze Tracking,https://arxiv.org/pdf/2509.25503,2025-09-29T20:59:31Z,https://github.com/0dink/pog_df_code_all
+2509.25504,XR Blocks: Accelerating Human-centered AI + XR Innovation,https://arxiv.org/pdf/2509.25504,2025-09-29T21:00:53Z,https://github.com/google/xrblocks
+2509.25522,"Understanding Generative Recommendation with Semantic IDs from a
+  Model-scaling View",https://arxiv.org/pdf/2509.25522,2025-09-29T21:24:17Z,not_found
+2509.25524,"Economic Competition, EU Regulation, and Executive Orders: A Framework
+  for Discussing AI Policy Implications in CS Courses",https://arxiv.org/pdf/2509.25524,2025-09-29T21:26:53Z,not_found
+2509.25528,"LLM-RG: Referential Grounding in Outdoor Scenarios using Large Language
+  Models",https://arxiv.org/pdf/2509.25528,2025-09-29T21:32:54Z,not_found
+2509.2553,"Beyond Static Retrieval: Opportunities and Pitfalls of Iterative
+  Retrieval in GraphRAG",https://arxiv.org/pdf/2509.25530,2025-09-29T21:38:28Z,not_found
+2509.25531,"MixtureVitae: Open Web-Scale Pretraining Dataset With High Quality
+  Instruction and Reasoning Data Built from Permissive-First Text Sources",https://arxiv.org/pdf/2509.25531,2025-09-29T21:40:10Z,https://github.com/ontocord/mixturevitae
+2509.25532,Calibrating Verbalized Confidence with Self-Generated Distractors,https://arxiv.org/pdf/2509.25532,2025-09-29T21:41:22Z,https://github.com/dubai03nsr/dinco
+2509.25533,"VISOR++: Universal Visual Inputs based Steering for Large Vision
+  Language Models",https://arxiv.org/pdf/2509.25533,2025-09-29T21:43:18Z,not_found
+2509.25538,"Steering an Active Learning Workflow Towards Novel Materials Discovery
+  via Queue Prioritization",https://arxiv.org/pdf/2509.25538,2025-09-29T21:51:13Z,not_found
+2509.25539,"Toxicity in Online Platforms and AI Systems: A Survey of Needs,
+  Challenges, Mitigations, and Future Directions",https://arxiv.org/pdf/2509.25539,2025-09-29T21:55:23Z,not_found
+2509.2554,"RadOnc-GPT: An Autonomous LLM Agent for Real-Time Patient Outcomes
+  Labeling at Scale",https://arxiv.org/pdf/2509.25540,2025-09-29T21:55:50Z,not_found
+2509.25541,"Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified
+  Self-Play",https://arxiv.org/pdf/2509.25541,2025-09-29T21:55:55Z,https://github.com/wangqinsi1/Vision-Zero
+2509.25543,"Aligning Multilingual Reasoning with Verifiable Semantics from a
+  High-Resource Expert Model",https://arxiv.org/pdf/2509.25543,2025-09-29T22:03:11Z,github link uncorrect
+2509.25549,Hybrid Approach for Enhancing Lesion Segmentation in Fundus Images,https://arxiv.org/pdf/2509.25549,2025-09-29T22:10:56Z,not_found
+2509.2555,Learning to Interact in World Latent for Team Coordination,https://arxiv.org/pdf/2509.25550,2025-09-29T22:13:39Z,github link uncorrect
+2509.25552,"Evaluating Foundation Models with Pathological Concept Learning for
+  Kidney Cancer",https://arxiv.org/pdf/2509.25552,2025-09-29T22:21:10Z,https://github.com/shangqigao/RadioPath
+2509.25558,"A(I)nimism: Re-enchanting the World Through AI-Mediated Object
+  Interaction",https://arxiv.org/pdf/2509.25558,2025-09-29T22:27:09Z,https://github.com/maishathasin/AInimism
+2509.25559,"Radiology's Last Exam (RadLE): Benchmarking Frontier Multimodal AI
+  Against Human Experts and a Taxonomy of Visual Reasoning Errors in Radiology",https://arxiv.org/pdf/2509.25559,2025-09-29T22:31:20Z,not_found
+2509.25562,IRIS: Intrinsic Reward Image Synthesis,https://arxiv.org/pdf/2509.25562,2025-09-29T22:38:25Z,github link uncorrect
+2509.25568,Probing the Limits of Stylistic Alignment in Vision-Language Models,https://arxiv.org/pdf/2509.25568,2025-09-29T22:46:51Z,not_found
+2509.2557,"AttentionViG: Cross-Attention-Based Dynamic Neighbor Aggregation in
+  Vision GNNs",https://arxiv.org/pdf/2509.25570,2025-09-29T22:47:48Z,not_found
+2509.25584,"Skip-It? Theoretical Conditions for Layer Skipping in Vision-Language
+  Models",https://arxiv.org/pdf/2509.25584,2025-09-29T23:16:44Z,github link uncorrect
+2509.25586,"ATLAS: Constraints-Aware Multi-Agent Collaboration for Real-World Travel
+  Planning",https://arxiv.org/pdf/2509.25586,2025-09-29T23:23:52Z,github link uncorrect
+2509.25591,Building the EHR Foundation Model via Next Event Prediction,https://arxiv.org/pdf/2509.25591,2025-09-29T23:27:51Z,not_found
+2509.25593,"Causal Autoencoder-like Generation of Feedback Fuzzy Cognitive Maps with
+  an LLM Agent",https://arxiv.org/pdf/2509.25593,2025-09-29T23:33:53Z,not_found
+2509.25594,"K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical
+  Image Segmentation Model",https://arxiv.org/pdf/2509.25594,2025-09-29T23:34:05Z,not_found
+2509.25598,"Hybrid Reward Normalization for Process-supervised Non-verifiable
+  Agentic Tasks",https://arxiv.org/pdf/2509.25598,2025-09-29T23:44:55Z,github link uncorrect
+2509.25601,Echoes of Humanity: Exploring the Perceived Humanness of AI Music,https://arxiv.org/pdf/2509.25601,2025-09-29T23:53:58Z,https://github.com/uai-ufmg/hp-study

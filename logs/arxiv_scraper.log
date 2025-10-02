@@ -20,3 +20,9 @@
 2025-09-27 09:36:09,109 - INFO - Querying month 20250925-20250930. Total results: 136
 2025-09-30 11:29:43,064 - INFO - Starting crawl for category 'cs.AI' from 2025-09-28 to 2025-09-30.
 2025-09-30 11:29:43,722 - INFO - Querying month 20250928-20250930. Total results: 342
+2025-10-01 21:30:08,811 - INFO - Starting crawl for category 'cs.AI' from 2025-09-29 to 2025-10-01.
+2025-10-01 21:30:09,384 - INFO - Querying month 20250929-20250930. Total results: 293
+2025-10-01 21:30:14,566 - INFO - Querying month 20251001-20251031. Total results: 0
+2025-10-02 11:27:39,360 - INFO - Starting crawl for category 'cs.AI' from 2025-09-30 to 2025-10-02.
+2025-10-02 11:27:39,823 - INFO - Querying month 20250930-20250930. Total results: 0
+2025-10-02 11:27:43,572 - INFO - Querying month 20251001-20251031. Total results: 0

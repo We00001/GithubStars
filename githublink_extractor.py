@@ -209,16 +209,10 @@ def githublink_extractor(data_path, gemini_api_key, input_file="arxiv.csv", outp
         shutil.copyfile(output_file_path, output_file_path_backup)
         df = pd.read_csv(output_file_path)
         df_new = pd.read_csv(input_file_path)
-        if "Github_Link" not in df_new.columns:
-            df_new["Github_Link"] = ""
         # Merge on 'ID' with outer join
         df = pd.merge(df_new, df, on=["Arxiv_ID","Title","Pdf_Link","Published_Date"], how="outer", suffixes=('_x', '_y'))
-        # If right value exists, use it; otherwise use left
-        df['Github_Link'] = df['Github_Link_y'].combine_first(df['Github_Link_x'])
-        # Ensure the Github_Link column exists
-        df = df.drop(columns=["Github_Link_x", "Github_Link_y"])
-
-
+        df.drop_duplicates(subset=["Arxiv_ID"], inplace=True)
+    
     # Iterate over rows and fill in missing GitHub links
     for idx in tqdm(df.index, desc="Processing articles", unit="article"):
         if pd.isna(df.at[idx, "Github_Link"]) or df.at[idx, "Github_Link"] == "":
