@@ -1,51 +1,71 @@
 # render.yaml
-# This file tells Render how to build and deploy your application.
-# It defines a web service for your Flask app and a cron job for daily data updates.
+# This blueprint defines your services on Render.
+# It includes a web service for your Flask app and a cron job for daily data updates.
 
 services:
-  # Web Service for the Flask App
+  # 1. Web Service for the Flask App
   - type: web
-    name: arxiv-star-tracker
+    name: arxiv-star-viewer
     env: python
-    plan: free # The free plan may spin down due to inactivity.
+    plan: free # Change to a paid plan for more resources if needed
     buildCommand: "pip install -r requirements.txt"
     startCommand: "gunicorn app:app"
+
+    # Environment variables for the web service.
+    # Set the actual values in the Render Dashboard during setup.
     envVars:
-      - key: PYTHON_VERSION
-        value: 3.11
-      # --- Environment Variables ---
-      # The values for these keys must be set in the Render Dashboard.
-      # This keeps your secrets out of your repository.
       - key: GITHUB_API_KEY
+        sync: false # 'sync: false' means it's a secret value you'll provide on Render.
       - key: GEMINI_API_KEY
+        sync: false
+      - key: BASE_URL
+        value: "https://arxiv.org/list/cs.AI/recent" # This is not secret, so we can set it here.
       - key: GOOGLE_MODEL
-      - key: BASE_URL # Even though this isn't a secret, setting it here keeps configuration consistent.
-        value: "https://arxiv.org/list/cs.AI/recent"
+        sync: false
+      - key: PYTHON_VERSION
+        value: 3.11 # It's good practice to specify a Python version.
+
+    # A persistent disk to store your SQLite database.
+    # This ensures your data is not lost on deploys.
     disks:
-      - name: data-storage
+      - name: data-disk
         mountPath: /app/data
         sizeGB: 1
 
-  # Cron Job for daily data updates
+  # 2. Cron Job for Daily Data Updates
   - type: cron
-    name: data-updater
+    name: daily-data-update
     env: python
     plan: free
-    schedule: "0 5 * * *" # Runs every day at 05:00 UTC
-    startCommand: "bash example.sh"
-    disks:
-      - name: data-storage
-        mountPath: /app/data
-    # The cron job inherits the environment variables from the web service.
-    # This means you only have to set them in one place (the web service dashboard).
+    schedule: "0 8 * * *" # Runs daily at 8:00 AM UTC. You can adjust this.
+    command: "python update_database.py"
+
+    # The cron job inherits the same environment variables from the web service.
+    # This keeps your secrets in one place.
     envVars:
       - key: GITHUB_API_KEY
-        fromService: { type: web, name: arxiv-star-tracker, envVarKey: GITHUB_API_KEY }
+        fromService:
+          type: web
+          name: arxiv-star-viewer
+          envVarKey: GITHUB_API_KEY
       - key: GEMINI_API_KEY
-        fromService: { type: web, name: arxiv-star-tracker, envVarKey: GEMINI_API_KEY }
-      - key: GOOGLE_MODEL
-        fromService: { type: web, name: arxiv-star-tracker, envVarKey: GOOGLE_MODEL }
+        fromService:
+          type: web
+          name: arxiv-star-viewer
+          envVarKey: GEMINI_API_KEY
       - key: BASE_URL
-        fromService: { type: web, name: arxiv-star-tracker, envVarKey: BASE_URL }
-
+        fromService:
+          type: web
+          name: arxiv-star-viewer
+          envVarKey: BASE_URL
+      - key: GOOGLE_MODEL
+        fromService:
+          type: web
+          name: arxiv-star-viewer
+          envVarKey: GOOGLE_MODEL
+    
+    # The cron job must also mount the same persistent disk to access and update the database.
+    disks:
+      - name: data-disk
+        mountPath: /app/data
 

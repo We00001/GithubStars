@@ -28,3 +28,5 @@ update.sh
 star_api_error.log
 star_api.log
 modify_data_set.py
+script_error.log
+script.log
