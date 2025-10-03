@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:  # Environment variables (from GitHub Secrets)
-      GITHUB_API_KEY: ${{ secrets.GITHUB_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       STAR_API_KEY: ${{ secrets.STAR_API_KEY }}
       GOOGLE_MODEL: ""
     steps:
