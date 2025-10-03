@@ -46,6 +46,9 @@ def star_scraper(input_file, output_file, token = os.getenv("GITHUB_API_KEY")):
     today = date.today()
     tqdm.pandas(desc="Crawling GitHub Stars")
     df = pd.read_csv(input_file)
+    # If today's column already exists, overwrite it
+    if today in df.columns:
+        df.drop(columns=[today], inplace=True)
     df[today] = df["Github_Link"].progress_apply(crawl_star, token = token)
     df.to_csv(output_file,index=False)
     return None
@@ -65,12 +68,19 @@ if __name__ == "__main__":
     backup_path = os.path.join(args.path, "star_backup.csv")
 
     import shutil
-    shutil.copyfile(file_path, backup_path)
 
     if not os.path.exists(file_path):
         shutil.copyfile(os.path.join(args.path, "githublink.csv"),file_path)
         df = pd.read_csv(file_path)
         df = df.drop_duplicates
         df.to_csv(file_path, index=False)
-        
+    else:
+        shutil.copyfile(file_path, backup_path)
+        df = pd.read_csv(file_path)
+        df_new = pd.read_csv(os.path.join(args.path, "githublink.csv"))
+        key = "Arxiv_ID"
+        df_filtered = df_new[~df_new[key].isin(df[key])]
+        df = pd.concat([df, df_filtered], ignore_index=True)
+        df.to_csv(file_path, index=False)
+
     star_scraper(file_path, file_path, token)

@@ -89,7 +89,7 @@ def crawl_paper_api(search_query: str, max_results: int = 100, start: int = 0) -
     
     return papers
 
-def arxiv_scraper(data_folder="data", category="cs.AI", start_date="2023-01-01", end_date=None, output_file="arxiv.csv"):
+def arxiv_scraper(data_folder="data", category="cs.AI", start_date="2023-01-01", end_date=None, output_file="arxiv.csv", output = True):
     """
     Main function to crawl arXiv by breaking down the query into monthly chunks
     to avoid the total results limit, then paginates through each chunk.
@@ -99,85 +99,106 @@ def arxiv_scraper(data_folder="data", category="cs.AI", start_date="2023-01-01",
         end_date = datetime.now().strftime('%Y-%m-%d')
     else:
         end_date = datetime.strptime(end_date, '%Y-%m-%d').strftime('%Y-%m-%d')
-    
-    # Create data folder if it doesn't exist
-    os.makedirs(data_folder, exist_ok=True)
-    
-    csv_file_path = os.path.join(data_folder, output_file)
-    # check the exists of the csv_file
-    if os.path.exists(csv_file_path):
-        # find the max date in the dataset.
-        df = pd.read_csv(csv_file_path)
-        df['Published_Date'] = pd.to_datetime(df['Published_Date'])
-        # Find the maximum date in the column and return it as a date object
-        latest_date = df['Published_Date'].max().to_pydatetime()
-        latest_date = latest_date.date()
-        print(f"Latest date in the dataset: {latest_date}")
+    if output:
+        # Create data folder if it doesn't exist
+        os.makedirs(data_folder, exist_ok=True)
         
-    else:
-        with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
-            writer = csv.writer(file)
-            writer.writerow(['Arxiv_ID','Title', 'Pdf_Link', 'Published_Date'])
-        logging.info(f"Dataset created: {csv_file_path}")
-        print(f"Dataset created: {csv_file_path}")
+        csv_file_path = os.path.join(data_folder, output_file)
+        # check the exists of the csv_file
+        if os.path.exists(csv_file_path):
+            # find the max date in the dataset.
+            df = pd.read_csv(csv_file_path)
+            df['Published_Date'] = pd.to_datetime(df['Published_Date'])
+            # Find the maximum date in the column and return it as a date object
+            latest_date = df['Published_Date'].max().to_pydatetime()
+            latest_date = latest_date.date()
+            print(f"Latest date in the dataset: {latest_date}")
+            
+        else:
+            with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
+                writer = csv.writer(file)
+                writer.writerow(['Arxiv_ID','Title', 'Pdf_Link', 'Published_Date'])
+            logging.info(f"Dataset created: {csv_file_path}")
+            print(f"Dataset created: {csv_file_path}")
 
     logging.info(f"Starting crawl for category '{category}' from {start_date} to {end_date}.")
-    print(f"Saving data to {csv_file_path}")
 
     # --- NEW: Date-chunking logic ---
     current_date = datetime.strptime(start_date, '%Y-%m-%d').date()
-    current_date = max(current_date, latest_date)
+    if output:
+        current_date = max(current_date, latest_date)
     end_datetime = datetime.strptime(end_date, '%Y-%m-%d').date()
     total_papers_crawled = 0
+    
+    if (end_datetime - current_date).days > 7:
+        while current_date <= end_datetime:
+            # Define the start and end of the current monthß
+            month_start = current_date.strftime('%Y%m%d')
+            next_month = (current_date.replace(day=28) + timedelta(days=4))
+            month_end_date = next_month - timedelta(days=next_month.day)
+            month_end = month_end_date.strftime('%Y%m%d')
 
-    while current_date <= end_datetime:
-        # Define the start and end of the current monthß
-        month_start = current_date.strftime('%Y%m%d')
-        next_month = (current_date.replace(day=28) + timedelta(days=4))
-        month_end_date = next_month - timedelta(days=next_month.day)
-        month_end = month_end_date.strftime('%Y%m%d')
+            # Construct the query for the current month
+            date_query = f"submittedDate:[{month_start} TO {month_end}]"
+            search_query = f'cat:{category} AND {date_query}'
 
-        # Construct the query for the current month
-        date_query = f"submittedDate:[{month_start} TO {month_end}]"
+            total_in_month = get_total_results(search_query)
+            print(f"\nFound {total_in_month} papers for {current_date.strftime('%B %Y')}. Starting crawl...")
+            logging.info(f"Querying month {current_date}-{end_datetime}. Total results: {total_in_month}")
+
+            # --- MODIFIED: Pagination loop is now inside the date loop ---
+            start_index = 0
+            max_results_per_req = 1000 # You can keep this high
+            papers_crawled = []
+            while True:
+                # BEST PRACTICE: Be a good citizen and don't spam the API
+                time.sleep(3) 
+                
+                papers = crawl_paper_api(search_query, max_results=max_results_per_req, start=start_index)
+                print(papers)
+                if not papers:
+                    break # No more papers in this month
+                if output:
+                # Append results to the CSV
+                    with open(csv_file_path, mode='a', newline='', encoding='utf-8') as file:
+                        writer = csv.writer(file)
+                        writer.writerows(papers)
+                papers_crawled.extend(papers)
+                
+                num_retrieved = len(papers)
+                total_papers_crawled += num_retrieved
+                print(f"  > Retrieved {num_retrieved} papers (total so far: {total_papers_crawled})")
+                
+                start_index += num_retrieved
+                
+                # This check is important if the API returns fewer than max_results
+                if num_retrieved < max_results_per_req:
+                    break
+
+            # Move to the first day of the next month
+            current_date = month_end_date + timedelta(days=1)
+            if not output:
+                return papers_crawled
+
+    else:
+        date_query = f"submittedDate:[{current_date.strftime('%Y%m%d')}2000 TO {end_datetime.strftime('%Y%m%d')}2000]"
         search_query = f'cat:{category} AND {date_query}'
-        
-        total_in_month = get_total_results(search_query)
-        print(f"\nFound {total_in_month} papers for {current_date.strftime('%B %Y')}. Starting crawl...")
-        logging.info(f"Querying month {month_start}-{month_end}. Total results: {total_in_month}")
+        total = get_total_results(search_query)
+        print(f"\nFound {total} papers for {current_date.strftime('%B %Y')}. Starting crawl...")
+        logging.info(f"Querying month {current_date}-{end_datetime}. Total results: {total}")
 
-        # --- MODIFIED: Pagination loop is now inside the date loop ---
-        start_index = 0
         max_results_per_req = 1000 # You can keep this high
-        
-        while True:
-            # BEST PRACTICE: Be a good citizen and don't spam the API
-            time.sleep(3) 
-            
-            papers = crawl_paper_api(search_query, max_results=max_results_per_req, start=start_index)
-            
-            if not papers:
-                break # No more papers in this month
-
-            # Append results to the CSV
+        papers = crawl_paper_api(search_query, max_results=max_results_per_req)
+        if output:
             with open(csv_file_path, mode='a', newline='', encoding='utf-8') as file:
-                writer = csv.writer(file)
-                writer.writerows(papers)
-            
-            num_retrieved = len(papers)
-            total_papers_crawled += num_retrieved
-            print(f"  > Retrieved {num_retrieved} papers (total so far: {total_papers_crawled})")
-            
-            start_index += num_retrieved
-            
-            # This check is important if the API returns fewer than max_results
-            if num_retrieved < max_results_per_req:
-                break
+                        writer = csv.writer(file)
+                        writer.writerows(papers)
 
-        # Move to the first day of the next month
-        current_date = month_end_date + timedelta(days=1)
-
-    print(f"\nCrawl finished. Total papers saved: {total_papers_crawled}")
-    return csv_file_path
+    if output:
+        print(f"\nCrawl finished. Total papers saved: {total_papers_crawled}")
+        return csv_file_path
+    if not output:
+        return papers
 
 if __name__ == "__main__":
     import argparse
