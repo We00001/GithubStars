@@ -71,15 +71,6 @@ def update_papers_from_arxiv():
     # new_papers_list = your_arxiv_scraper_function()
     
     # For demonstration, we'll use a sample of the data you provided.
-    new_papers_list = [
-        ['2509.25601', 'Echoes of Humanity: Exploring the Perceived Humanness of AI Music', 'https://arxiv.org/pdf/2509.25601', '2025-09-29T23:53:58Z'],
-        ['2509.25598', 'Hybrid Reward Normalization for Process-supervised Non-verifiable\n  Agentic Tasks', 'https://arxiv.org/pdf/2509.25598', '2025-09-29T23:44:55Z'],
-        ['2509.25594', 'K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical\n  Image Segmentation Model', 'https://arxiv.org/pdf/2509.25594', '2025-09-29T23:34:05Z']
-    ]
-    
-    # new_papers_list = arxiv_scraper( 
-    #               category=args.category,
-    #               start_date=args.start_date, end_date=args.end_date)
 
     new_papers_list = arxiv_scraper( 
                 category=category,
@@ -87,7 +78,7 @@ def update_papers_from_arxiv():
                 end_date=end_date,
                 output= False)
     # --- End of your scraping logic ---
-
+    
     print(f"Found {len(new_papers_list)} new papers. Processing and adding to database...")
     
     # Prepare data for insertion
@@ -108,7 +99,8 @@ def update_papers_from_arxiv():
         "The article ends. I need you to find out the GitHub link for the article's project. "
         "Do not provide any links that are cited or referenced."
     )
-        github_link = extract_github(prompt1, prompt2, GEMINI_API_KEY, pdf_url=pdf_link)
+        github_link = extract_github(prompt1, prompt2, api_key= GEMINI_API_KEY, pdf_url=pdf_link)
+        print(github_link)
         if github_link is None:
             github_link = "not_found"
 
@@ -142,6 +134,7 @@ def update_star_counts():
         papers_to_check = cursor.fetchall()
 
         today_str = date.today().isoformat()
+        print(today_str)
         star_updates = []
 
         print(f"Found {len(papers_to_check)} papers with GitHub links to update.")
