@@ -15,4 +15,4 @@ services:
       - key: GOOGLE_MODEL
         sync: false
       - key: PYTHON_VERSION
-        value: 3.11
+        value: 3.13.0
