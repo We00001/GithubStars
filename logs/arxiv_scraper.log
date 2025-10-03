@@ -1182,3 +1182,261 @@
 2025-10-03 15:34:23,659 - INFO - https://api.github.com/repos/biaslab/IWAI2025-MARXEFE-MPError: 401 - Bad credentials
 2025-10-03 15:34:23,672 - INFO - https://api.github.com/repos/Xmaster6y/tdhookError: 401 - Bad credentials
 2025-10-03 15:34:23,683 - INFO - https://api.github.com/repos/JetBrains-Research/PIPerError: 401 - Bad credentials
+2025-10-03 12:46:52,662 - INFO - Starting crawl for category 'cs.AI' from 2025-09-30 to 2025-10-01.
+2025-10-03 12:46:53,286 - INFO - Querying month 2025-09-30-2025-10-01. Total results: 200
+2025-10-03 12:46:58,219 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:47:10,588 - INFO - AFC remote call 1 is done.
+2025-10-03 12:47:12,116 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:47:17,553 - INFO - AFC remote call 1 is done.
+2025-10-03 12:47:18,559 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:47:23,595 - INFO - AFC remote call 1 is done.
+2025-10-03 12:47:25,721 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:47:31,785 - INFO - AFC remote call 1 is done.
+2025-10-03 12:47:32,951 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:47:38,964 - INFO - AFC remote call 1 is done.
+2025-10-03 12:47:39,452 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:47:44,974 - INFO - AFC remote call 1 is done.
+2025-10-03 12:47:47,927 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:47:56,980 - INFO - AFC remote call 1 is done.
+2025-10-03 12:47:58,201 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:48:05,019 - INFO - AFC remote call 1 is done.
+2025-10-03 12:48:06,021 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:48:15,074 - INFO - AFC remote call 1 is done.
+2025-10-03 12:48:15,806 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:48:20,868 - INFO - AFC remote call 1 is done.
+2025-10-03 12:48:21,096 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.01346, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 12:48:23,505 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:48:26,968 - INFO - AFC remote call 1 is done.
+2025-10-03 12:48:28,579 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:48:35,588 - INFO - AFC remote call 1 is done.
+2025-10-03 12:48:36,493 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:48:40,470 - INFO - AFC remote call 1 is done.
+2025-10-03 12:48:42,511 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:48:46,640 - INFO - AFC remote call 1 is done.
+2025-10-03 12:48:52,261 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:00,450 - INFO - AFC remote call 1 is done.
+2025-10-03 12:49:01,789 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:04,104 - INFO - Analyze1: Attempt 1: Got 503 error, retrying in 5 seconds...
+2025-10-03 12:49:09,110 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:14,417 - INFO - AFC remote call 1 is done.
+2025-10-03 12:49:15,158 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:19,121 - INFO - AFC remote call 1 is done.
+2025-10-03 12:49:19,866 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:21,900 - INFO - AFC remote call 1 is done.
+2025-10-03 12:49:23,009 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:26,076 - INFO - AFC remote call 1 is done.
+2025-10-03 12:49:26,872 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:29,956 - INFO - AFC remote call 1 is done.
+2025-10-03 12:49:40,360 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:49:56,993 - INFO - AFC remote call 1 is done.
+2025-10-03 12:49:57,757 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:50:16,138 - INFO - AFC remote call 1 is done.
+2025-10-03 12:50:20,726 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:50:22,887 - INFO - AFC remote call 1 is done.
+2025-10-03 12:50:23,773 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:50:28,838 - INFO - AFC remote call 1 is done.
+2025-10-03 12:50:30,583 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:50:34,182 - INFO - AFC remote call 1 is done.
+2025-10-03 12:50:35,571 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:50:42,105 - INFO - AFC remote call 1 is done.
+2025-10-03 12:50:42,451 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:50:51,459 - INFO - AFC remote call 1 is done.
+2025-10-03 12:50:55,700 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:51:05,792 - INFO - AFC remote call 1 is done.
+2025-10-03 12:51:06,297 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:51:14,120 - INFO - AFC remote call 1 is done.
+2025-10-03 12:51:15,905 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:51:20,448 - INFO - AFC remote call 1 is done.
+2025-10-03 12:51:22,489 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:51:30,380 - INFO - AFC remote call 1 is done.
+2025-10-03 12:51:41,183 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:51:50,791 - INFO - AFC remote call 1 is done.
+2025-10-03 12:51:54,511 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:52:03,444 - INFO - AFC remote call 1 is done.
+2025-10-03 12:52:12,006 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:52:16,692 - INFO - AFC remote call 1 is done.
+2025-10-03 12:52:42,648 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:52:50,201 - INFO - AFC remote call 1 is done.
+2025-10-03 12:52:51,482 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:52:56,705 - INFO - AFC remote call 1 is done.
+2025-10-03 12:52:58,042 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:04,646 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:05,033 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:16,593 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:16,980 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:21,180 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:23,742 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:26,619 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:27,443 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:30,396 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:31,041 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:35,781 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:37,530 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:41,050 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:43,147 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:53:54,540 - INFO - AFC remote call 1 is done.
+2025-10-03 12:53:56,847 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:54:02,144 - INFO - AFC remote call 1 is done.
+2025-10-03 12:54:05,267 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:54:08,806 - INFO - AFC remote call 1 is done.
+2025-10-03 12:54:09,541 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:54:24,974 - INFO - AFC remote call 1 is done.
+2025-10-03 12:54:26,547 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:54:29,992 - INFO - AFC remote call 1 is done.
+2025-10-03 12:54:32,048 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:54:35,427 - INFO - AFC remote call 1 is done.
+2025-10-03 12:54:35,958 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:54:39,284 - INFO - AFC remote call 1 is done.
+2025-10-03 12:54:41,803 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:54:49,249 - INFO - AFC remote call 1 is done.
+2025-10-03 12:54:59,563 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:55:07,151 - INFO - AFC remote call 1 is done.
+2025-10-03 12:55:10,139 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:55:31,840 - INFO - AFC remote call 1 is done.
+2025-10-03 12:55:32,887 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:55:36,757 - INFO - AFC remote call 1 is done.
+2025-10-03 12:55:39,159 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:55:42,647 - INFO - AFC remote call 1 is done.
+2025-10-03 12:55:43,596 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:55:50,798 - INFO - AFC remote call 1 is done.
+2025-10-03 12:55:51,924 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:00,369 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:01,857 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:07,117 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:07,683 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:11,105 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:11,769 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:15,186 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:17,140 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:21,364 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:27,547 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:29,608 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:30,441 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:47,722 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:50,476 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:56:54,181 - INFO - AFC remote call 1 is done.
+2025-10-03 12:56:57,728 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:05,741 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:07,103 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:09,403 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:10,701 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:17,316 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:18,427 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:20,898 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:21,583 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:27,183 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:32,074 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:42,919 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:44,143 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:48,038 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:48,401 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:50,909 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:51,801 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:57:56,535 - INFO - AFC remote call 1 is done.
+2025-10-03 12:57:58,350 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:58:02,226 - INFO - AFC remote call 1 is done.
+2025-10-03 12:58:07,754 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:58:22,267 - INFO - AFC remote call 1 is done.
+2025-10-03 12:58:24,015 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:58:26,441 - INFO - AFC remote call 1 is done.
+2025-10-03 12:58:54,358 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:58:58,124 - INFO - AFC remote call 1 is done.
+2025-10-03 12:59:00,181 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:59:05,437 - INFO - AFC remote call 1 is done.
+2025-10-03 12:59:06,132 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:59:11,903 - INFO - AFC remote call 1 is done.
+2025-10-03 12:59:15,731 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:59:20,164 - INFO - AFC remote call 1 is done.
+2025-10-03 12:59:21,158 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.00512, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 12:59:27,911 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:59:30,076 - INFO - AFC remote call 1 is done.
+2025-10-03 12:59:30,947 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:59:33,407 - INFO - AFC remote call 1 is done.
+2025-10-03 12:59:34,919 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 12:59:48,150 - INFO - AFC remote call 1 is done.
+2025-10-03 12:59:49,457 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:00:04,126 - INFO - AFC remote call 1 is done.
+2025-10-03 13:00:07,895 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:00:13,204 - INFO - AFC remote call 1 is done.
+2025-10-03 13:00:13,918 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:00:23,439 - INFO - AFC remote call 1 is done.
+2025-10-03 13:00:25,885 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:00:29,488 - INFO - AFC remote call 1 is done.
+2025-10-03 13:00:34,036 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:00:39,979 - INFO - AFC remote call 1 is done.
+2025-10-03 13:00:41,036 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:00:44,099 - INFO - AFC remote call 1 is done.
+2025-10-03 13:00:45,212 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:00:49,898 - INFO - AFC remote call 1 is done.
+2025-10-03 13:00:51,365 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:03,532 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:04,651 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:10,182 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:11,994 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:17,303 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:18,972 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:24,750 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:26,433 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:29,040 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:33,693 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:40,197 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:41,398 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:48,661 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:49,385 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:01:52,231 - INFO - AFC remote call 1 is done.
+2025-10-03 13:01:54,677 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:02:03,708 - INFO - AFC remote call 1 is done.
+2025-10-03 13:02:06,673 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:02:12,986 - INFO - AFC remote call 1 is done.
+2025-10-03 13:02:14,518 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:02:30,711 - INFO - AFC remote call 1 is done.
+2025-10-03 13:02:33,610 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:02:36,561 - INFO - AFC remote call 1 is done.
+2025-10-03 13:02:37,224 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:02:41,996 - INFO - AFC remote call 1 is done.
+2025-10-03 13:02:48,486 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:02:52,362 - INFO - AFC remote call 1 is done.
+2025-10-03 13:02:52,970 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:02:58,001 - INFO - AFC remote call 1 is done.
+2025-10-03 13:02:58,605 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:03:08,696 - INFO - AFC remote call 1 is done.
+2025-10-03 13:03:11,510 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:03:16,592 - INFO - AFC remote call 1 is done.
+2025-10-03 13:03:17,611 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:03:24,772 - INFO - AFC remote call 1 is done.
+2025-10-03 13:03:26,993 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:03:36,819 - INFO - AFC remote call 1 is done.
+2025-10-03 13:03:37,658 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:03:40,016 - INFO - AFC remote call 1 is done.
+2025-10-03 13:03:45,744 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:03:48,500 - INFO - AFC remote call 1 is done.
+2025-10-03 13:03:48,940 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:03:58,104 - INFO - AFC remote call 1 is done.
+2025-10-03 13:04:01,611 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:04:07,694 - INFO - AFC remote call 1 is done.
+2025-10-03 13:04:08,422 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:04:13,383 - INFO - AFC remote call 1 is done.
+2025-10-03 13:04:13,773 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:04:17,575 - INFO - AFC remote call 1 is done.
+2025-10-03 13:04:19,396 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:04:22,609 - INFO - AFC remote call 1 is done.
+2025-10-03 13:04:23,511 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:04:23,739 - INFO - Analyze2: Failed to analyze text: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250\nPlease retry in 36.272737378s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '250'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}
+2025-10-03 13:04:24,186 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:04:30,348 - INFO - AFC remote call 1 is done.
+2025-10-03 13:04:32,000 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 13:04:35,541 - INFO - AFC remote call 1 is done.
+2025-10-03 13:04:39,936 - INFO - https://api.github.com/repos/Mohamed-Imed-Eddine/QUARTZError: 404 - Not Found
+2025-10-03 13:04:41,623 - INFO - https://api.github.com/repos/NJU-RL/DIVERError: 404 - Not Found
+2025-10-03 13:04:41,966 - INFO - https://api.github.com/repos/hltcoe/auto-argueError: 404 - Not Found
+2025-10-03 13:04:43,128 - INFO - https://api.github.com/repos/lsliwko/masbError: 404 - Not Found
+2025-10-03 13:04:43,684 - INFO - https://api.github.com/repos/the-jb/cureError: 404 - Not Found
+2025-10-03 13:04:43,821 - INFO - https://api.github.com/repos/NuRisk/NuRiskError: 404 - Not Found
+2025-10-03 13:04:44,769 - INFO - https://api.github.com/repos/XPgogogo/scUnity-AIError: 404 - Not Found
+2025-10-03 13:04:45,778 - INFO - https://api.github.com/repos/zzhao71/Controlled-Generation-for-Private-Synthetic-Text.gitError: 404 - Not Found
+2025-10-03 13:04:46,897 - INFO - https://api.github.com/repos/FangjiW/BaB-probError: 404 - Not Found
+2025-10-03 13:04:47,710 - INFO - https://api.github.com/repos/maishathasin/AInimismError: 404 - Not Found
+2025-10-03 13:04:54,272 - INFO - https://api.github.com/repos/aialt/PhoPileError: 404 - Not Found
+2025-10-03 13:04:54,599 - INFO - https://api.github.com/repos/anonymized/GLAIError: 404 - Not Found
+2025-10-03 13:04:55,309 - INFO - https://api.github.com/repos/katha-ai/adqaError: 404 - Not Found
+2025-10-03 13:04:58,816 - INFO - https://api.github.com/repos/YurunChen/Graph2EvalError: 404 - Not Found

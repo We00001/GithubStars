@@ -57,6 +57,10 @@ def initialize_database():
                 UNIQUE(paper_id, check_date)
             )
         ''')
+            # Create indexes if they don't exist
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_star_counts_date ON star_counts(check_date);")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_star_counts_paper ON star_counts(paper_id);")
+        
         conn.commit()
 
 def update_papers_from_arxiv():
@@ -112,9 +116,15 @@ def update_papers_from_arxiv():
         cursor = conn.cursor()
         # Use executemany for efficient bulk insertion.
         # INSERT OR IGNORE prevents errors if a paper's arxiv_id already exists.
+
         cursor.executemany('''
-            INSERT OR IGNORE INTO papers (arxiv_id, title, pdf_link, published_date, github_link)
+            INSERT INTO papers (arxiv_id, title, pdf_link, published_date, github_link)
             VALUES (?, ?, ?, ?, ?)
+            ON CONFLICT(arxiv_id) DO UPDATE SET
+            title = excluded.title,
+            pdf_link = excluded.pdf_link,
+            published_date = excluded.published_date,
+            github_link = excluded.github_link
         ''', papers_to_insert)
         conn.commit()
         
