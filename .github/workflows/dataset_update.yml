@@ -5,7 +5,9 @@ on:
   schedule:
     - cron: "0 8 * * *"  # every day at 00:00 UTC
   workflow_dispatch:      # allows manual trigger
-
+permissions:
+  contents: write   # give write access
+  
 jobs:
   update-database:
     runs-on: ubuntu-latest
