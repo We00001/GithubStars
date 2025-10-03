@@ -552,3 +552,312 @@
 2025-10-03 14:07:57,348 - INFO - https://api.github.com/repos/biaslab/IWAI2025-MARXEFE-MPError: 401 - Bad credentials
 2025-10-03 14:07:57,478 - INFO - https://api.github.com/repos/Xmaster6y/tdhookError: 401 - Bad credentials
 2025-10-03 14:07:57,603 - INFO - https://api.github.com/repos/JetBrains-Research/PIPerError: 401 - Bad credentials
+2025-10-03 14:33:42,264 - INFO - Starting crawl for category 'cs.AI' from 2025-09-30 to 2025-10-01.
+2025-10-03 14:33:42,427 - INFO - Querying month 2025-09-30-2025-10-01. Total results: 200
+2025-10-03 14:33:51,295 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:33:51,295 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:33:54,173 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:33:54,173 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:33:55,059 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:33:55,060 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:33:58,301 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:33:58,302 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:00,808 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:00,808 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:01,529 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:01,529 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:05,548 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:05,548 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:07,501 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:07,501 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:08,570 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:08,570 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:09,734 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:09,734 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:09,775 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.01346, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 14:34:12,965 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:12,965 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:16,376 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:16,376 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:18,149 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:18,149 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:20,335 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:20,335 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:26,091 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:26,091 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:26,800 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:26,800 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:28,195 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:28,195 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:29,390 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:29,390 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:31,515 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:31,515 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:32,954 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:32,954 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:34:59,879 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:34:59,879 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:00,843 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:00,843 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:09,859 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:09,859 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:11,470 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:11,470 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:13,981 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:13,981 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:16,764 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:16,764 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:17,094 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:17,094 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:28,175 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:28,175 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:28,907 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:28,907 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:32,063 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:32,063 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:35:35,797 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:35:35,797 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:36:03,646 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:36:03,646 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:36:12,434 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:36:12,434 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:36:33,346 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:36:33,346 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:23,002 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:23,002 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:25,001 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:25,001 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:27,543 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:27,543 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:28,088 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:28,088 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:28,479 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:28,479 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:30,329 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:30,329 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:31,556 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:31,556 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:32,593 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:32,593 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:36,500 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:36,500 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:40,350 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:40,350 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:43,863 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:43,863 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:50,838 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:50,838 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:51,706 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:51,707 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:54,427 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:54,427 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:57,603 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:57,603 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:37:58,203 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:37:58,203 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:03,874 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:03,874 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:26,960 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:26,960 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:33,536 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:33,536 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:34,953 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:34,953 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:37,255 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:37,255 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:37,863 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:37,863 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:40,058 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:40,058 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:41,692 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:41,692 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:42,296 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:42,296 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:42,873 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:42,873 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:46,632 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:46,632 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:52,205 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:52,206 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:53,382 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:53,383 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:38:56,856 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:38:56,856 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:03,435 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:03,435 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:04,781 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:04,781 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:07,261 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:07,261 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:08,840 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:08,840 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:10,163 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:10,163 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:18,943 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:18,943 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:20,488 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:20,489 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:20,842 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:20,842 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:21,663 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:21,663 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:25,279 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:25,280 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:36,736 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:36,736 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:39:40,362 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:39:40,362 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:40:41,931 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:40:41,931 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:40:44,948 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:40:44,949 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:40:45,423 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:40:45,423 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:40:48,453 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:40:48,453 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:40:49,473 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.00512, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 14:41:06,067 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:06,067 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:07,440 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:07,440 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:08,751 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:08,751 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:09,662 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:09,662 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:16,487 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:16,487 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:17,607 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:17,607 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:22,604 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:22,604 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:27,389 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:27,389 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:28,388 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:28,388 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:29,409 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:29,409 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:31,580 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:31,580 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:33,260 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:33,260 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:34,522 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:34,522 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:38,473 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:38,473 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:39,693 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:39,694 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:44,151 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:44,152 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:45,886 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:45,886 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:46,266 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:46,266 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:49,629 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:49,629 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:55,750 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:55,750 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:41:58,509 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:41:58,509 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:03,998 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:03,998 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:05,236 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:05,236 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:07,743 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:07,743 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:08,557 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:08,557 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:08,991 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:08,991 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:13,883 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:13,883 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:15,945 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:15,945 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:19,537 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:19,537 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:20,740 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:20,740 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:31,817 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:31,817 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:32,342 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:32,342 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:35,695 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:35,695 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:37,158 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:37,158 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:37,489 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:37,489 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:39,712 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:39,712 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:40,864 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:40,864 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:41,132 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:41,132 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:43,539 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 14:42:43,539 - INFO - Analyze2: Failed to analyze text: model is required.
+2025-10-03 14:42:43,598 - INFO - https://api.github.com/repos/ExplainableML/StitchError: 401 - Bad credentials
+2025-10-03 14:42:43,655 - INFO - https://api.github.com/repos/pfriedric/bridgeError: 401 - Bad credentials
+2025-10-03 14:42:43,710 - INFO - https://api.github.com/repos/ETH-DISCO/PANAMAError: 401 - Bad credentials
+2025-10-03 14:42:43,767 - INFO - https://api.github.com/repos/hlt-mt/FBK-fairseqError: 401 - Bad credentials
+2025-10-03 14:42:43,823 - INFO - https://api.github.com/repos/OceanGPT/OceanGymError: 401 - Bad credentials
+2025-10-03 14:42:43,882 - INFO - https://api.github.com/repos/lee3296/TAPError: 401 - Bad credentials
+2025-10-03 14:42:43,939 - INFO - https://api.github.com/repos/BaptisteHi/MNExplainerError: 401 - Bad credentials
+2025-10-03 14:42:43,996 - INFO - https://api.github.com/repos/pathwaycom/bdhError: 401 - Bad credentials
+2025-10-03 14:42:44,052 - INFO - https://api.github.com/repos/declare-lab/OffTopicEvalError: 401 - Bad credentials
+2025-10-03 14:42:44,107 - INFO - https://api.github.com/repos/google-deepmind/regress-lmError: 401 - Bad credentials
+2025-10-03 14:42:44,163 - INFO - https://api.github.com/repos/perceivelab/ZeroDFLError: 401 - Bad credentials
+2025-10-03 14:42:44,218 - INFO - https://api.github.com/repos/tutuzeraa/ASGRAError: 401 - Bad credentials
+2025-10-03 14:42:44,276 - INFO - https://api.github.com/repos/naomifridman/BreastDCEDL_AMBLError: 401 - Bad credentials
+2025-10-03 14:42:44,332 - INFO - https://api.github.com/repos/sciknoworg/OntoAlignerError: 401 - Bad credentials
+2025-10-03 14:42:44,389 - INFO - https://api.github.com/repos/Jinyeop3110/KG-R1Error: 401 - Bad credentials
+2025-10-03 14:42:44,445 - INFO - https://api.github.com/repos/ToothlessOS/MC-GNNAS-DockError: 401 - Bad credentials
+2025-10-03 14:42:44,501 - INFO - https://api.github.com/repos/ShaoShuai0605/MisevolutionError: 401 - Bad credentials
+2025-10-03 14:42:44,558 - INFO - https://api.github.com/repos/linhh29/Interactive-Learning-for-LLM-ReasoningError: 401 - Bad credentials
+2025-10-03 14:42:44,614 - INFO - https://api.github.com/repos/rdnfn/feedback-forensicsError: 401 - Bad credentials
+2025-10-03 14:42:44,669 - INFO - https://api.github.com/repos/Mohamed-Imed-Eddine/QUARTZError: 401 - Bad credentials
+2025-10-03 14:42:44,725 - INFO - https://api.github.com/repos/lionelblonde/ngt-pytorchError: 401 - Bad credentials
+2025-10-03 14:42:44,781 - INFO - https://api.github.com/repos/VisionXLab/Point2RBox-v3Error: 401 - Bad credentials
+2025-10-03 14:42:44,839 - INFO - https://api.github.com/repos/BasisResearch/predicatorsError: 401 - Bad credentials
+2025-10-03 14:42:44,896 - INFO - https://api.github.com/repos/balamuruganthambiraja/3DiFACEError: 401 - Bad credentials
+2025-10-03 14:42:44,953 - INFO - https://api.github.com/repos/IDT-ITI/Text-XAI-Video-SummariesError: 401 - Bad credentials
+2025-10-03 14:42:45,015 - INFO - https://api.github.com/repos/sisinflab/tylerError: 401 - Bad credentials
+2025-10-03 14:42:45,071 - INFO - https://api.github.com/repos/j-cyoung/GSDatasetDistillationError: 401 - Bad credentials
+2025-10-03 14:42:45,131 - INFO - https://api.github.com/repos/NJU-RL/DIVERError: 401 - Bad credentials
+2025-10-03 14:42:45,186 - INFO - https://api.github.com/repos/HatimChergui/unbiased-collective-memoryError: 401 - Bad credentials
+2025-10-03 14:42:45,243 - INFO - https://api.github.com/repos/hltcoe/auto-argueError: 401 - Bad credentials
+2025-10-03 14:42:45,300 - INFO - https://api.github.com/repos/yxwan123/UniGenError: 401 - Bad credentials
+2025-10-03 14:42:45,355 - INFO - https://api.github.com/repos/gokyeongryeol/ATESError: 401 - Bad credentials
+2025-10-03 14:42:45,410 - INFO - https://api.github.com/repos/Sachithx/EntroPEError: 401 - Bad credentials
+2025-10-03 14:42:45,469 - INFO - https://api.github.com/repos/yangyukun2005/LMILAtt2Error: 401 - Bad credentials
+2025-10-03 14:42:45,525 - INFO - https://api.github.com/repos/medakakg/medakaError: 401 - Bad credentials
+2025-10-03 14:42:45,580 - INFO - https://api.github.com/repos/lsliwko/masbError: 401 - Bad credentials
+2025-10-03 14:42:45,636 - INFO - https://api.github.com/repos/HosseinEn/EEG-Artifact-DetectionError: 401 - Bad credentials
+2025-10-03 14:42:45,692 - INFO - https://api.github.com/repos/christti98/semobridgeError: 401 - Bad credentials
+2025-10-03 14:42:45,748 - INFO - https://api.github.com/repos/the-jb/cureError: 401 - Bad credentials
+2025-10-03 14:42:45,802 - INFO - https://api.github.com/repos/NuRisk/NuRiskError: 401 - Bad credentials
+2025-10-03 14:42:45,858 - INFO - https://api.github.com/repos/raphael-sch/mcqa_solvabilityError: 401 - Bad credentials
+2025-10-03 14:42:45,914 - INFO - https://api.github.com/repos/GTS-AI-Infra-Lab-SotaS/DeepJSONEvalError: 401 - Bad credentials
+2025-10-03 14:42:45,970 - INFO - https://api.github.com/repos/ddindidu/RoleConflictBenchError: 401 - Bad credentials
+2025-10-03 14:42:46,025 - INFO - https://api.github.com/repos/XPgogogo/scUnity-AIError: 401 - Bad credentials
+2025-10-03 14:42:46,081 - INFO - https://api.github.com/repos/OlgaKrestinskaya/CIMNASError: 401 - Bad credentials
+2025-10-03 14:42:46,137 - INFO - https://api.github.com/repos/dmis-lab/ASGuardError: 401 - Bad credentials
+2025-10-03 14:42:46,193 - INFO - https://api.github.com/repos/salar96/AutonomyAwareClusteringError: 401 - Bad credentials
+2025-10-03 14:42:46,248 - INFO - https://api.github.com/repos/DSL-Lab/T2I-Free-Lunch-AlignmentError: 401 - Bad credentials
+2025-10-03 14:42:46,308 - INFO - https://api.github.com/repos/zzhao71/Controlled-Generation-for-Private-Synthetic-Text.gitError: 401 - Bad credentials
+2025-10-03 14:42:46,364 - INFO - https://api.github.com/repos/HuikangSu/B2RError: 401 - Bad credentials
+2025-10-03 14:42:46,421 - INFO - https://api.github.com/repos/tingyushi/CPATTAError: 401 - Bad credentials
+2025-10-03 14:42:46,477 - INFO - https://api.github.com/repos/HasanAlpCaferoglu/SING-SQLError: 401 - Bad credentials
+2025-10-03 14:42:46,534 - INFO - https://api.github.com/repos/pnnl/autolabsError: 401 - Bad credentials
+2025-10-03 14:42:46,592 - INFO - https://api.github.com/repos/FangjiW/BaB-probError: 401 - Bad credentials
+2025-10-03 14:42:46,648 - INFO - https://api.github.com/repos/wwq5-code/SMSError: 401 - Bad credentials
+2025-10-03 14:42:46,708 - INFO - https://api.github.com/repos/PapayaResearch/abxlabError: 401 - Bad credentials
+2025-10-03 14:42:46,764 - INFO - https://api.github.com/repos/uai-ufmg/hp-studyError: 401 - Bad credentials
+2025-10-03 14:42:46,821 - INFO - https://api.github.com/repos/maishathasin/AInimismError: 401 - Bad credentials
+2025-10-03 14:42:46,877 - INFO - https://api.github.com/repos/shangqigao/RadioPathError: 401 - Bad credentials
+2025-10-03 14:42:46,934 - INFO - https://api.github.com/repos/wangqinsi1/Vision-ZeroError: 401 - Bad credentials
+2025-10-03 14:42:46,989 - INFO - https://api.github.com/repos/dubai03nsr/dincoError: 401 - Bad credentials
+2025-10-03 14:42:47,045 - INFO - https://api.github.com/repos/ontocord/mixturevitaeError: 401 - Bad credentials
+2025-10-03 14:42:47,102 - INFO - https://api.github.com/repos/google/xrblocksError: 401 - Bad credentials
+2025-10-03 14:42:47,157 - INFO - https://api.github.com/repos/0dink/pog_df_code_allError: 401 - Bad credentials
+2025-10-03 14:42:47,216 - INFO - https://api.github.com/repos/biaslab/IWAI2025-MARXEFE-MPError: 401 - Bad credentials
+2025-10-03 14:42:47,271 - INFO - https://api.github.com/repos/Xmaster6y/tdhookError: 401 - Bad credentials
+2025-10-03 14:42:47,328 - INFO - https://api.github.com/repos/JetBrains-Research/PIPerError: 401 - Bad credentials
