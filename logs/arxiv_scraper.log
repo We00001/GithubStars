@@ -861,3 +861,324 @@
 2025-10-03 14:42:47,216 - INFO - https://api.github.com/repos/biaslab/IWAI2025-MARXEFE-MPError: 401 - Bad credentials
 2025-10-03 14:42:47,271 - INFO - https://api.github.com/repos/Xmaster6y/tdhookError: 401 - Bad credentials
 2025-10-03 14:42:47,328 - INFO - https://api.github.com/repos/JetBrains-Research/PIPerError: 401 - Bad credentials
+2025-10-03 15:13:08,409 - INFO - Starting crawl for category 'cs.AI' from 2025-09-30 to 2025-10-01.
+2025-10-03 15:13:08,649 - INFO - Querying month 2025-09-30-2025-10-01. Total results: 200
+2025-10-03 15:13:17,652 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:13:21,827 - INFO - AFC remote call 1 is done.
+2025-10-03 15:13:24,605 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:13:30,569 - INFO - AFC remote call 1 is done.
+2025-10-03 15:13:31,406 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:13:35,659 - INFO - AFC remote call 1 is done.
+2025-10-03 15:13:38,873 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:13:44,155 - INFO - AFC remote call 1 is done.
+2025-10-03 15:13:46,845 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:13:49,005 - INFO - Analyze1: Attempt 1: Got 503 error, retrying in 5 seconds...
+2025-10-03 15:13:54,006 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:00,050 - INFO - AFC remote call 1 is done.
+2025-10-03 15:14:00,810 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:02,697 - INFO - Analyze1: Attempt 1: Got 503 error, retrying in 5 seconds...
+2025-10-03 15:14:07,698 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:12,560 - INFO - AFC remote call 1 is done.
+2025-10-03 15:14:16,631 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:21,238 - INFO - AFC remote call 1 is done.
+2025-10-03 15:14:23,338 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:31,806 - INFO - AFC remote call 1 is done.
+2025-10-03 15:14:32,665 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:34,838 - INFO - AFC remote call 1 is done.
+2025-10-03 15:14:36,034 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:43,397 - INFO - AFC remote call 1 is done.
+2025-10-03 15:14:43,440 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.01346, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 15:14:46,678 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:14:51,719 - INFO - AFC remote call 1 is done.
+2025-10-03 15:14:55,024 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:03,843 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:05,604 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:10,360 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:12,523 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:18,663 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:24,161 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:33,271 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:33,942 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:38,995 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:40,390 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:43,003 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:44,143 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:46,370 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:48,438 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:53,347 - INFO - AFC remote call 1 is done.
+2025-10-03 15:15:54,770 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:15:59,601 - INFO - AFC remote call 1 is done.
+2025-10-03 15:16:24,781 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:16:33,540 - INFO - AFC remote call 1 is done.
+2025-10-03 15:16:34,512 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:16:48,157 - INFO - AFC remote call 1 is done.
+2025-10-03 15:16:56,939 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:17:01,171 - INFO - AFC remote call 1 is done.
+2025-10-03 15:17:02,715 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:17:09,869 - INFO - AFC remote call 1 is done.
+2025-10-03 15:17:12,556 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:17:16,963 - INFO - AFC remote call 1 is done.
+2025-10-03 15:17:19,767 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:17:26,218 - INFO - AFC remote call 1 is done.
+2025-10-03 15:17:26,545 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:17:35,101 - INFO - AFC remote call 1 is done.
+2025-10-03 15:17:45,987 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:17:55,628 - INFO - AFC remote call 1 is done.
+2025-10-03 15:17:56,361 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:17:58,506 - INFO - Analyze1: Attempt 1: Got 503 error, retrying in 5 seconds...
+2025-10-03 15:18:03,506 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:18:10,418 - INFO - AFC remote call 1 is done.
+2025-10-03 15:18:13,602 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:18:17,104 - INFO - AFC remote call 1 is done.
+2025-10-03 15:18:20,788 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:18:26,566 - INFO - AFC remote call 1 is done.
+2025-10-03 15:18:54,784 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:18:58,407 - INFO - AFC remote call 1 is done.
+2025-10-03 15:19:07,125 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:19:15,121 - INFO - AFC remote call 1 is done.
+2025-10-03 15:19:35,760 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:19:40,089 - INFO - AFC remote call 1 is done.
+2025-10-03 15:20:30,291 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:20:37,329 - INFO - AFC remote call 1 is done.
+2025-10-03 15:20:39,350 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:20:44,128 - INFO - AFC remote call 1 is done.
+2025-10-03 15:20:46,755 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:20:57,942 - INFO - AFC remote call 1 is done.
+2025-10-03 15:20:58,552 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:21:04,668 - INFO - AFC remote call 1 is done.
+2025-10-03 15:21:05,059 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:21:08,057 - INFO - AFC remote call 1 is done.
+2025-10-03 15:21:09,461 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:21:13,243 - INFO - AFC remote call 1 is done.
+2025-10-03 15:21:14,497 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:21:20,485 - INFO - AFC remote call 1 is done.
+2025-10-03 15:21:21,594 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:21:26,258 - INFO - AFC remote call 1 is done.
+2025-10-03 15:21:29,997 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:21:31,482 - INFO - AFC remote call 1 is done.
+2025-10-03 15:21:35,229 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:21:52,994 - INFO - AFC remote call 1 is done.
+2025-10-03 15:21:56,522 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:22:00,250 - INFO - AFC remote call 1 is done.
+2025-10-03 15:22:07,253 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:22:10,320 - INFO - AFC remote call 1 is done.
+2025-10-03 15:22:11,126 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:22:14,103 - INFO - AFC remote call 1 is done.
+2025-10-03 15:22:16,350 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:22:21,316 - INFO - AFC remote call 1 is done.
+2025-10-03 15:22:24,552 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:22:26,807 - INFO - AFC remote call 1 is done.
+2025-10-03 15:22:27,472 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:22:29,333 - INFO - AFC remote call 1 is done.
+2025-10-03 15:22:34,935 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:22:43,185 - INFO - AFC remote call 1 is done.
+2025-10-03 15:23:06,105 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:23:11,851 - INFO - AFC remote call 1 is done.
+2025-10-03 15:23:18,320 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:23:36,620 - INFO - AFC remote call 1 is done.
+2025-10-03 15:23:38,069 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:23:43,307 - INFO - AFC remote call 1 is done.
+2025-10-03 15:23:45,597 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:23:50,117 - INFO - AFC remote call 1 is done.
+2025-10-03 15:23:50,747 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:23:59,999 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:02,414 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:24:06,628 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:08,199 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:24:11,448 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:12,039 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:24:14,846 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:15,390 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:24:18,193 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:21,958 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:24:29,573 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:34,928 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:24:37,645 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:38,782 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:24:54,502 - INFO - AFC remote call 1 is done.
+2025-10-03 15:24:57,937 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:25:02,015 - INFO - AFC remote call 1 is done.
+2025-10-03 15:25:08,279 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:25:12,881 - INFO - AFC remote call 1 is done.
+2025-10-03 15:25:14,202 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:25:17,278 - INFO - AFC remote call 1 is done.
+2025-10-03 15:25:19,758 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:25:25,210 - INFO - AFC remote call 1 is done.
+2025-10-03 15:25:26,782 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:25:28,738 - INFO - AFC remote call 1 is done.
+2025-10-03 15:25:30,034 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:25:37,938 - INFO - AFC remote call 1 is done.
+2025-10-03 15:25:46,479 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:25:59,176 - INFO - AFC remote call 1 is done.
+2025-10-03 15:26:01,042 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:26:07,331 - INFO - AFC remote call 1 is done.
+2025-10-03 15:26:07,680 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:26:12,572 - INFO - AFC remote call 1 is done.
+2025-10-03 15:26:13,352 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:26:16,242 - INFO - AFC remote call 1 is done.
+2025-10-03 15:26:19,640 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:26:22,668 - INFO - AFC remote call 1 is done.
+2025-10-03 15:26:34,013 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:26:49,091 - INFO - AFC remote call 1 is done.
+2025-10-03 15:26:52,747 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:26:56,489 - INFO - AFC remote call 1 is done.
+2025-10-03 15:27:57,697 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:28:02,602 - INFO - AFC remote call 1 is done.
+2025-10-03 15:28:05,638 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:28:10,720 - INFO - AFC remote call 1 is done.
+2025-10-03 15:28:11,206 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:28:17,183 - INFO - AFC remote call 1 is done.
+2025-10-03 15:28:19,189 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:28:24,081 - INFO - AFC remote call 1 is done.
+2025-10-03 15:28:25,066 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.00512, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 15:28:41,580 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:28:45,470 - INFO - AFC remote call 1 is done.
+2025-10-03 15:28:46,860 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:28:49,766 - INFO - AFC remote call 1 is done.
+2025-10-03 15:28:51,159 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:29:03,692 - INFO - AFC remote call 1 is done.
+2025-10-03 15:29:04,610 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:29:10,910 - INFO - AFC remote call 1 is done.
+2025-10-03 15:29:17,841 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:29:21,280 - INFO - AFC remote call 1 is done.
+2025-10-03 15:29:22,477 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:29:32,285 - INFO - AFC remote call 1 is done.
+2025-10-03 15:29:37,219 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:29:43,734 - INFO - AFC remote call 1 is done.
+2025-10-03 15:29:48,466 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:29:52,864 - INFO - AFC remote call 1 is done.
+2025-10-03 15:29:53,895 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:29:56,657 - INFO - AFC remote call 1 is done.
+2025-10-03 15:29:57,615 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:02,207 - INFO - AFC remote call 1 is done.
+2025-10-03 15:30:04,370 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:05,607 - INFO - Analyze1: Attempt 1: Got 503 error, retrying in 5 seconds...
+2025-10-03 15:30:10,608 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:16,684 - INFO - AFC remote call 1 is done.
+2025-10-03 15:30:18,377 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:24,310 - INFO - AFC remote call 1 is done.
+2025-10-03 15:30:25,636 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:28,812 - INFO - AFC remote call 1 is done.
+2025-10-03 15:30:32,652 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:37,705 - INFO - AFC remote call 1 is done.
+2025-10-03 15:30:38,920 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:40,524 - INFO - Analyze1: Attempt 1: Got 503 error, retrying in 5 seconds...
+2025-10-03 15:30:45,524 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:30:49,740 - INFO - AFC remote call 1 is done.
+2025-10-03 15:30:54,186 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:31:00,837 - INFO - AFC remote call 1 is done.
+2025-10-03 15:31:02,503 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:31:07,831 - INFO - AFC remote call 1 is done.
+2025-10-03 15:31:08,188 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:31:09,365 - INFO - Analyze1: Attempt 1: Got 503 error, retrying in 5 seconds...
+2025-10-03 15:31:14,365 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:31:15,854 - INFO - AFC remote call 1 is done.
+2025-10-03 15:31:19,141 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:31:25,562 - INFO - AFC remote call 1 is done.
+2025-10-03 15:31:31,543 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:31:39,312 - INFO - AFC remote call 1 is done.
+2025-10-03 15:31:42,007 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:31:53,354 - INFO - AFC remote call 1 is done.
+2025-10-03 15:31:58,725 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:32:01,725 - INFO - AFC remote call 1 is done.
+2025-10-03 15:32:02,910 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:32:07,472 - INFO - AFC remote call 1 is done.
+2025-10-03 15:32:10,093 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:32:13,506 - INFO - AFC remote call 1 is done.
+2025-10-03 15:32:14,250 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:32:16,780 - INFO - AFC remote call 1 is done.
+2025-10-03 15:32:17,149 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:32:24,610 - INFO - AFC remote call 1 is done.
+2025-10-03 15:32:28,990 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:32:34,520 - INFO - AFC remote call 1 is done.
+2025-10-03 15:32:36,258 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:32:58,203 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:01,637 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:33:06,153 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:07,262 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:33:10,586 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:21,148 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:33:23,211 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:23,668 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:33:36,000 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:39,077 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:33:45,108 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:46,399 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:33:51,060 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:51,393 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:33:53,244 - INFO - AFC remote call 1 is done.
+2025-10-03 15:33:55,282 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:34:01,104 - INFO - AFC remote call 1 is done.
+2025-10-03 15:34:02,139 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:34:10,968 - INFO - AFC remote call 1 is done.
+2025-10-03 15:34:11,268 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:34:16,304 - INFO - AFC remote call 1 is done.
+2025-10-03 15:34:18,435 - INFO - AFC is enabled with max remote calls: 10.
+2025-10-03 15:34:22,819 - INFO - AFC remote call 1 is done.
+2025-10-03 15:34:22,836 - INFO - https://api.github.com/repos/ExplainableML/StitchError: 401 - Bad credentials
+2025-10-03 15:34:22,849 - INFO - https://api.github.com/repos/pfriedric/bridgeError: 401 - Bad credentials
+2025-10-03 15:34:22,861 - INFO - https://api.github.com/repos/ETH-DISCO/PANAMAError: 401 - Bad credentials
+2025-10-03 15:34:22,873 - INFO - https://api.github.com/repos/hlt-mt/FBK-fairseqError: 401 - Bad credentials
+2025-10-03 15:34:22,885 - INFO - https://api.github.com/repos/OceanGPT/OceanGymError: 401 - Bad credentials
+2025-10-03 15:34:22,898 - INFO - https://api.github.com/repos/lee3296/TAPError: 401 - Bad credentials
+2025-10-03 15:34:22,912 - INFO - https://api.github.com/repos/BaptisteHi/MNExplainerError: 401 - Bad credentials
+2025-10-03 15:34:22,925 - INFO - https://api.github.com/repos/pathwaycom/bdhError: 401 - Bad credentials
+2025-10-03 15:34:22,938 - INFO - https://api.github.com/repos/declare-lab/OffTopicEvalError: 401 - Bad credentials
+2025-10-03 15:34:22,952 - INFO - https://api.github.com/repos/google-deepmind/regress-lmError: 401 - Bad credentials
+2025-10-03 15:34:22,966 - INFO - https://api.github.com/repos/perceivelab/ZeroDFLError: 401 - Bad credentials
+2025-10-03 15:34:22,978 - INFO - https://api.github.com/repos/tutuzeraa/ASGRAError: 401 - Bad credentials
+2025-10-03 15:34:22,991 - INFO - https://api.github.com/repos/naomifridman/BreastDCEDL_AMBLError: 401 - Bad credentials
+2025-10-03 15:34:23,005 - INFO - https://api.github.com/repos/sciknoworg/OntoAlignerError: 401 - Bad credentials
+2025-10-03 15:34:23,017 - INFO - https://api.github.com/repos/Jinyeop3110/KG-R1Error: 401 - Bad credentials
+2025-10-03 15:34:23,030 - INFO - https://api.github.com/repos/ToothlessOS/MC-GNNAS-DockError: 401 - Bad credentials
+2025-10-03 15:34:23,044 - INFO - https://api.github.com/repos/ShaoShuai0605/MisevolutionError: 401 - Bad credentials
+2025-10-03 15:34:23,062 - INFO - https://api.github.com/repos/linhh29/Interactive-Learning-for-LLM-ReasoningError: 401 - Bad credentials
+2025-10-03 15:34:23,073 - INFO - https://api.github.com/repos/rdnfn/feedback-forensicsError: 401 - Bad credentials
+2025-10-03 15:34:23,086 - INFO - https://api.github.com/repos/Mohamed-Imed-Eddine/QUARTZError: 401 - Bad credentials
+2025-10-03 15:34:23,098 - INFO - https://api.github.com/repos/lionelblonde/ngt-pytorchError: 401 - Bad credentials
+2025-10-03 15:34:23,109 - INFO - https://api.github.com/repos/VisionXLab/Point2RBox-v3Error: 401 - Bad credentials
+2025-10-03 15:34:23,120 - INFO - https://api.github.com/repos/BasisResearch/predicatorsError: 401 - Bad credentials
+2025-10-03 15:34:23,131 - INFO - https://api.github.com/repos/balamuruganthambiraja/3DiFACEError: 401 - Bad credentials
+2025-10-03 15:34:23,144 - INFO - https://api.github.com/repos/IDT-ITI/Text-XAI-Video-SummariesError: 401 - Bad credentials
+2025-10-03 15:34:23,157 - INFO - https://api.github.com/repos/sisinflab/tylerError: 401 - Bad credentials
+2025-10-03 15:34:23,185 - INFO - https://api.github.com/repos/j-cyoung/GSDatasetDistillationError: 401 - Bad credentials
+2025-10-03 15:34:23,201 - INFO - https://api.github.com/repos/NJU-RL/DIVERError: 401 - Bad credentials
+2025-10-03 15:34:23,212 - INFO - https://api.github.com/repos/HatimChergui/unbiased-collective-memoryError: 401 - Bad credentials
+2025-10-03 15:34:23,227 - INFO - https://api.github.com/repos/hltcoe/auto-argueError: 401 - Bad credentials
+2025-10-03 15:34:23,239 - INFO - https://api.github.com/repos/yxwan123/UniGenError: 401 - Bad credentials
+2025-10-03 15:34:23,250 - INFO - https://api.github.com/repos/gokyeongryeol/ATESError: 401 - Bad credentials
+2025-10-03 15:34:23,262 - INFO - https://api.github.com/repos/Sachithx/EntroPEError: 401 - Bad credentials
+2025-10-03 15:34:23,276 - INFO - https://api.github.com/repos/yangyukun2005/LMILAtt2Error: 401 - Bad credentials
+2025-10-03 15:34:23,288 - INFO - https://api.github.com/repos/medakakg/medakaError: 401 - Bad credentials
+2025-10-03 15:34:23,300 - INFO - https://api.github.com/repos/lsliwko/masbError: 401 - Bad credentials
+2025-10-03 15:34:23,311 - INFO - https://api.github.com/repos/HosseinEn/EEG-Artifact-DetectionError: 401 - Bad credentials
+2025-10-03 15:34:23,324 - INFO - https://api.github.com/repos/christti98/semobridgeError: 401 - Bad credentials
+2025-10-03 15:34:23,338 - INFO - https://api.github.com/repos/the-jb/cureError: 401 - Bad credentials
+2025-10-03 15:34:23,350 - INFO - https://api.github.com/repos/NuRisk/NuRiskError: 401 - Bad credentials
+2025-10-03 15:34:23,362 - INFO - https://api.github.com/repos/raphael-sch/mcqa_solvabilityError: 401 - Bad credentials
+2025-10-03 15:34:23,376 - INFO - https://api.github.com/repos/GTS-AI-Infra-Lab-SotaS/DeepJSONEvalError: 401 - Bad credentials
+2025-10-03 15:34:23,388 - INFO - https://api.github.com/repos/ddindidu/RoleConflictBenchError: 401 - Bad credentials
+2025-10-03 15:34:23,401 - INFO - https://api.github.com/repos/XPgogogo/scUnity-AIError: 401 - Bad credentials
+2025-10-03 15:34:23,413 - INFO - https://api.github.com/repos/OlgaKrestinskaya/CIMNASError: 401 - Bad credentials
+2025-10-03 15:34:23,424 - INFO - https://api.github.com/repos/dmis-lab/ASGuardError: 401 - Bad credentials
+2025-10-03 15:34:23,437 - INFO - https://api.github.com/repos/salar96/AutonomyAwareClusteringError: 401 - Bad credentials
+2025-10-03 15:34:23,449 - INFO - https://api.github.com/repos/DSL-Lab/T2I-Free-Lunch-AlignmentError: 401 - Bad credentials
+2025-10-03 15:34:23,463 - INFO - https://api.github.com/repos/zzhao71/Controlled-Generation-for-Private-Synthetic-Text.gitError: 401 - Bad credentials
+2025-10-03 15:34:23,475 - INFO - https://api.github.com/repos/HuikangSu/B2RError: 401 - Bad credentials
+2025-10-03 15:34:23,487 - INFO - https://api.github.com/repos/tingyushi/CPATTAError: 401 - Bad credentials
+2025-10-03 15:34:23,500 - INFO - https://api.github.com/repos/HasanAlpCaferoglu/SING-SQLError: 401 - Bad credentials
+2025-10-03 15:34:23,511 - INFO - https://api.github.com/repos/pnnl/autolabsError: 401 - Bad credentials
+2025-10-03 15:34:23,525 - INFO - https://api.github.com/repos/FangjiW/BaB-probError: 401 - Bad credentials
+2025-10-03 15:34:23,538 - INFO - https://api.github.com/repos/wwq5-code/SMSError: 401 - Bad credentials
+2025-10-03 15:34:23,549 - INFO - https://api.github.com/repos/PapayaResearch/abxlabError: 401 - Bad credentials
+2025-10-03 15:34:23,561 - INFO - https://api.github.com/repos/uai-ufmg/hp-studyError: 401 - Bad credentials
+2025-10-03 15:34:23,572 - INFO - https://api.github.com/repos/maishathasin/AInimismError: 401 - Bad credentials
+2025-10-03 15:34:23,583 - INFO - https://api.github.com/repos/shangqigao/RadioPathError: 401 - Bad credentials
+2025-10-03 15:34:23,597 - INFO - https://api.github.com/repos/wangqinsi1/Vision-ZeroError: 401 - Bad credentials
+2025-10-03 15:34:23,610 - INFO - https://api.github.com/repos/dubai03nsr/dincoError: 401 - Bad credentials
+2025-10-03 15:34:23,622 - INFO - https://api.github.com/repos/ontocord/mixturevitaeError: 401 - Bad credentials
+2025-10-03 15:34:23,634 - INFO - https://api.github.com/repos/google/xrblocksError: 401 - Bad credentials
+2025-10-03 15:34:23,647 - INFO - https://api.github.com/repos/0dink/pog_df_code_allError: 401 - Bad credentials
+2025-10-03 15:34:23,659 - INFO - https://api.github.com/repos/biaslab/IWAI2025-MARXEFE-MPError: 401 - Bad credentials
+2025-10-03 15:34:23,672 - INFO - https://api.github.com/repos/Xmaster6y/tdhookError: 401 - Bad credentials
+2025-10-03 15:34:23,683 - INFO - https://api.github.com/repos/JetBrains-Research/PIPerError: 401 - Bad credentials
