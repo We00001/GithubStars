@@ -362,3 +362,193 @@
 2025-10-02 21:41:27,130 - INFO - https://api.github.com/repos/maishathasin/AInimismError: 404 - Not Found
 2025-10-02 21:56:34,365 - INFO - Starting crawl for category 'cs.AI' from 2025-09-29 to 2025-09-30.
 2025-10-02 21:56:34,719 - INFO - Querying month 2025-09-29-2025-09-30. Total results: 231
+2025-10-03 13:57:40,425 - INFO - Starting crawl for category 'cs.AI' from 2025-09-30 to 2025-10-01.
+2025-10-03 13:57:40,734 - INFO - Querying month 2025-09-30-2025-10-01. Total results: 200
+2025-10-03 13:57:50,158 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:57:53,355 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:57:54,375 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:57:58,037 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:00,700 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:01,488 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:05,733 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:07,763 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:09,712 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:10,776 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:10,818 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.01346, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 13:58:14,308 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:17,865 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:20,032 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:23,094 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:32,553 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:34,747 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:36,281 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:37,596 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:39,875 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:58:41,721 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:13,219 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:14,232 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:23,588 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:25,251 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:28,428 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:31,397 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:31,756 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:42,965 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:43,815 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:47,102 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 13:59:51,114 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:00:19,337 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:00:28,177 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:00:49,986 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:41,983 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:44,491 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:47,128 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:47,672 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:48,061 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:52,572 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:53,796 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:54,824 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:01:58,629 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:02,634 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:06,677 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:13,675 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:14,761 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:17,093 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:20,819 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:21,502 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:27,173 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:50,723 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:57,270 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:02:58,928 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:02,723 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:03,593 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:06,007 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:08,613 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:09,518 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:10,817 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:15,012 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:24,035 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:25,430 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:29,252 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:36,061 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:38,225 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:40,790 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:42,570 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:43,947 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:53,857 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:55,753 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:56,117 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:03:57,353 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:04:01,331 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:04:14,833 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:04:18,672 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:21,178 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:24,485 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:25,809 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:28,629 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:29,927 - INFO - pre_analyze2: https://arxiv.org/pdf/2510.00512, Failed to extract URLs or PDF file: 'PDFObjRef' object is not iterable
+2025-10-03 14:05:47,351 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:48,921 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:51,400 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:05:53,026 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:00,146 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:01,297 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:06,494 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:11,965 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:13,936 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:16,090 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:18,851 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:20,745 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:23,406 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:27,495 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:30,443 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:36,261 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:38,075 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:38,934 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:42,952 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:49,502 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:52,353 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:06:58,490 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:00,043 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:08,494 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:09,619 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:10,198 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:15,369 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:17,562 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:21,216 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:22,655 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:34,409 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:34,902 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:39,641 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:41,077 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:41,482 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:44,294 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:45,670 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:46,277 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:48,650 - INFO - Analyze2: Failed to analyze text: Missing key inputs argument! To use the Google AI API,provide (`api_key`) arguments. To use the Google Cloud API, provide (`vertexai`, `project` & `location`) arguments.
+2025-10-03 14:07:48,794 - INFO - https://api.github.com/repos/ExplainableML/StitchError: 401 - Bad credentials
+2025-10-03 14:07:48,922 - INFO - https://api.github.com/repos/pfriedric/bridgeError: 401 - Bad credentials
+2025-10-03 14:07:49,057 - INFO - https://api.github.com/repos/ETH-DISCO/PANAMAError: 401 - Bad credentials
+2025-10-03 14:07:49,197 - INFO - https://api.github.com/repos/hlt-mt/FBK-fairseqError: 401 - Bad credentials
+2025-10-03 14:07:49,348 - INFO - https://api.github.com/repos/OceanGPT/OceanGymError: 401 - Bad credentials
+2025-10-03 14:07:49,488 - INFO - https://api.github.com/repos/lee3296/TAPError: 401 - Bad credentials
+2025-10-03 14:07:49,625 - INFO - https://api.github.com/repos/BaptisteHi/MNExplainerError: 401 - Bad credentials
+2025-10-03 14:07:49,751 - INFO - https://api.github.com/repos/pathwaycom/bdhError: 401 - Bad credentials
+2025-10-03 14:07:49,888 - INFO - https://api.github.com/repos/declare-lab/OffTopicEvalError: 401 - Bad credentials
+2025-10-03 14:07:50,017 - INFO - https://api.github.com/repos/google-deepmind/regress-lmError: 401 - Bad credentials
+2025-10-03 14:07:50,159 - INFO - https://api.github.com/repos/perceivelab/ZeroDFLError: 401 - Bad credentials
+2025-10-03 14:07:50,291 - INFO - https://api.github.com/repos/tutuzeraa/ASGRAError: 401 - Bad credentials
+2025-10-03 14:07:50,432 - INFO - https://api.github.com/repos/naomifridman/BreastDCEDL_AMBLError: 401 - Bad credentials
+2025-10-03 14:07:50,558 - INFO - https://api.github.com/repos/sciknoworg/OntoAlignerError: 401 - Bad credentials
+2025-10-03 14:07:50,688 - INFO - https://api.github.com/repos/Jinyeop3110/KG-R1Error: 401 - Bad credentials
+2025-10-03 14:07:50,816 - INFO - https://api.github.com/repos/ToothlessOS/MC-GNNAS-DockError: 401 - Bad credentials
+2025-10-03 14:07:50,944 - INFO - https://api.github.com/repos/ShaoShuai0605/MisevolutionError: 401 - Bad credentials
+2025-10-03 14:07:51,083 - INFO - https://api.github.com/repos/linhh29/Interactive-Learning-for-LLM-ReasoningError: 401 - Bad credentials
+2025-10-03 14:07:51,222 - INFO - https://api.github.com/repos/rdnfn/feedback-forensicsError: 401 - Bad credentials
+2025-10-03 14:07:51,348 - INFO - https://api.github.com/repos/Mohamed-Imed-Eddine/QUARTZError: 401 - Bad credentials
+2025-10-03 14:07:51,478 - INFO - https://api.github.com/repos/lionelblonde/ngt-pytorchError: 401 - Bad credentials
+2025-10-03 14:07:51,610 - INFO - https://api.github.com/repos/VisionXLab/Point2RBox-v3Error: 401 - Bad credentials
+2025-10-03 14:07:51,738 - INFO - https://api.github.com/repos/BasisResearch/predicatorsError: 401 - Bad credentials
+2025-10-03 14:07:51,881 - INFO - https://api.github.com/repos/balamuruganthambiraja/3DiFACEError: 401 - Bad credentials
+2025-10-03 14:07:52,036 - INFO - https://api.github.com/repos/IDT-ITI/Text-XAI-Video-SummariesError: 401 - Bad credentials
+2025-10-03 14:07:52,165 - INFO - https://api.github.com/repos/sisinflab/tylerError: 401 - Bad credentials
+2025-10-03 14:07:52,303 - INFO - https://api.github.com/repos/j-cyoung/GSDatasetDistillationError: 401 - Bad credentials
+2025-10-03 14:07:52,430 - INFO - https://api.github.com/repos/NJU-RL/DIVERError: 401 - Bad credentials
+2025-10-03 14:07:52,555 - INFO - https://api.github.com/repos/HatimChergui/unbiased-collective-memoryError: 401 - Bad credentials
+2025-10-03 14:07:52,691 - INFO - https://api.github.com/repos/hltcoe/auto-argueError: 401 - Bad credentials
+2025-10-03 14:07:52,832 - INFO - https://api.github.com/repos/yxwan123/UniGenError: 401 - Bad credentials
+2025-10-03 14:07:52,957 - INFO - https://api.github.com/repos/gokyeongryeol/ATESError: 401 - Bad credentials
+2025-10-03 14:07:53,096 - INFO - https://api.github.com/repos/Sachithx/EntroPEError: 401 - Bad credentials
+2025-10-03 14:07:53,225 - INFO - https://api.github.com/repos/yangyukun2005/LMILAtt2Error: 401 - Bad credentials
+2025-10-03 14:07:53,368 - INFO - https://api.github.com/repos/medakakg/medakaError: 401 - Bad credentials
+2025-10-03 14:07:53,494 - INFO - https://api.github.com/repos/lsliwko/masbError: 401 - Bad credentials
+2025-10-03 14:07:53,623 - INFO - https://api.github.com/repos/HosseinEn/EEG-Artifact-DetectionError: 401 - Bad credentials
+2025-10-03 14:07:53,762 - INFO - https://api.github.com/repos/christti98/semobridgeError: 401 - Bad credentials
+2025-10-03 14:07:53,888 - INFO - https://api.github.com/repos/the-jb/cureError: 401 - Bad credentials
+2025-10-03 14:07:54,014 - INFO - https://api.github.com/repos/NuRisk/NuRiskError: 401 - Bad credentials
+2025-10-03 14:07:54,143 - INFO - https://api.github.com/repos/raphael-sch/mcqa_solvabilityError: 401 - Bad credentials
+2025-10-03 14:07:54,269 - INFO - https://api.github.com/repos/GTS-AI-Infra-Lab-SotaS/DeepJSONEvalError: 401 - Bad credentials
+2025-10-03 14:07:54,393 - INFO - https://api.github.com/repos/ddindidu/RoleConflictBenchError: 401 - Bad credentials
+2025-10-03 14:07:54,526 - INFO - https://api.github.com/repos/XPgogogo/scUnity-AIError: 401 - Bad credentials
+2025-10-03 14:07:54,665 - INFO - https://api.github.com/repos/OlgaKrestinskaya/CIMNASError: 401 - Bad credentials
+2025-10-03 14:07:54,799 - INFO - https://api.github.com/repos/dmis-lab/ASGuardError: 401 - Bad credentials
+2025-10-03 14:07:54,939 - INFO - https://api.github.com/repos/salar96/AutonomyAwareClusteringError: 401 - Bad credentials
+2025-10-03 14:07:55,069 - INFO - https://api.github.com/repos/DSL-Lab/T2I-Free-Lunch-AlignmentError: 401 - Bad credentials
+2025-10-03 14:07:55,196 - INFO - https://api.github.com/repos/zzhao71/Controlled-Generation-for-Private-Synthetic-Text.gitError: 401 - Bad credentials
+2025-10-03 14:07:55,335 - INFO - https://api.github.com/repos/HuikangSu/B2RError: 401 - Bad credentials
+2025-10-03 14:07:55,479 - INFO - https://api.github.com/repos/tingyushi/CPATTAError: 401 - Bad credentials
+2025-10-03 14:07:55,604 - INFO - https://api.github.com/repos/HasanAlpCaferoglu/SING-SQLError: 401 - Bad credentials
+2025-10-03 14:07:55,746 - INFO - https://api.github.com/repos/pnnl/autolabsError: 401 - Bad credentials
+2025-10-03 14:07:55,901 - INFO - https://api.github.com/repos/FangjiW/BaB-probError: 401 - Bad credentials
+2025-10-03 14:07:56,035 - INFO - https://api.github.com/repos/wwq5-code/SMSError: 401 - Bad credentials
+2025-10-03 14:07:56,161 - INFO - https://api.github.com/repos/PapayaResearch/abxlabError: 401 - Bad credentials
+2025-10-03 14:07:56,288 - INFO - https://api.github.com/repos/uai-ufmg/hp-studyError: 401 - Bad credentials
+2025-10-03 14:07:56,417 - INFO - https://api.github.com/repos/maishathasin/AInimismError: 401 - Bad credentials
+2025-10-03 14:07:56,546 - INFO - https://api.github.com/repos/shangqigao/RadioPathError: 401 - Bad credentials
+2025-10-03 14:07:56,674 - INFO - https://api.github.com/repos/wangqinsi1/Vision-ZeroError: 401 - Bad credentials
+2025-10-03 14:07:56,803 - INFO - https://api.github.com/repos/dubai03nsr/dincoError: 401 - Bad credentials
+2025-10-03 14:07:56,929 - INFO - https://api.github.com/repos/ontocord/mixturevitaeError: 401 - Bad credentials
+2025-10-03 14:07:57,073 - INFO - https://api.github.com/repos/google/xrblocksError: 401 - Bad credentials
+2025-10-03 14:07:57,215 - INFO - https://api.github.com/repos/0dink/pog_df_code_allError: 401 - Bad credentials
+2025-10-03 14:07:57,348 - INFO - https://api.github.com/repos/biaslab/IWAI2025-MARXEFE-MPError: 401 - Bad credentials
+2025-10-03 14:07:57,478 - INFO - https://api.github.com/repos/Xmaster6y/tdhookError: 401 - Bad credentials
+2025-10-03 14:07:57,603 - INFO - https://api.github.com/repos/JetBrains-Research/PIPerError: 401 - Bad credentials
