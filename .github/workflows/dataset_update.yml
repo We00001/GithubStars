@@ -13,8 +13,7 @@ jobs:
     env:  # Environment variables (from GitHub Secrets)
       GITHUB_API_KEY: ${{ secrets.GITHUB_API_KEY }}
       STAR_API_KEY: ${{ secrets.STAR_API_KEY }}
-      GOOGLE_MODEL: ${{ secrets.GOOGLE_MODEL }}
-
+      GOOGLE_MODEL: ""
     steps:
       # 1. Checkout the repository
       - name: Checkout repo
