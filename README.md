@@ -7,6 +7,10 @@ This project aims to collect and visualize the star counts of GitHub repositorie
 3.  **Scrape Star Counts**: Use the `star_scraper.py` script to get the current star count for each GitHub repository.
 4.  **Generate a Visualization Webpage**: Use the `visualization.py` script to process the collected data and create an interactive webpage for visualization.
 
+## Web Server
+Run the `app.py` script to start the web server. Run the `dataset_update.py` script to update new articles. NOTE: the `dataset_update.py` script captures the article from 3 days before running day to 2 days before running day.
+
+
 ## Prerequisites & Setup
 
 Before running the project, make sure you have **Python 3.8+** installed.  
