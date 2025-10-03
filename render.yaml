@@ -1,74 +1,18 @@
-# render.yaml
-# This blueprint defines your services on Render.
-# It includes a web service for your Flask app and a cron job for daily data updates.
-
 services:
-  # 1. Web Service for the Flask App
   - type: web
     name: arxiv-star-viewer
     env: python
-    plan: free # Change to a paid plan for more resources if needed
+    plan: free
     buildCommand: "pip install -r requirements.txt"
     startCommand: "gunicorn app:app"
-
-    # Environment variables for the web service.
-    # Set the actual values in the Render Dashboard during setup.
     envVars:
       - key: GITHUB_API_KEY
-        sync: false # 'sync: false' means it's a secret value you'll provide on Render.
+        sync: false
       - key: GEMINI_API_KEY
         sync: false
       - key: BASE_URL
-        value: "https://arxiv.org/list/cs.AI/recent" # This is not secret, so we can set it here.
+        value: "https://arxiv.org/list/cs.AI/recent"
       - key: GOOGLE_MODEL
         sync: false
       - key: PYTHON_VERSION
-        value: 3.11 # It's good practice to specify a Python version.
-
-    # A persistent disk to store your SQLite database.
-    # This ensures your data is not lost on deploys.
-    disks:
-      - name: data-disk
-        mountPath: /app/data
-        sizeGB: 1
-
-  # 2. Cron Job for Daily Data Updates
-  - type: cron
-    name: daily-data-update
-    env: python
-    plan: free
-    schedule: "0 8 * * *" # Runs daily at 8:00 AM UTC. You can adjust this.
-    command: "python dataset_update.py"
-
-    # The cron job inherits the same environment variables from the web service.
-    # This keeps your secrets in one place.
-    envVars:
-      - key: GITHUB_API_KEY
-        fromService:
-          type: web
-          name: arxiv-star-viewer
-          envVarKey: GITHUB_API_KEY
-      - key: GEMINI_API_KEY
-        fromService:
-          type: web
-          name: arxiv-star-viewer
-          envVarKey: GEMINI_API_KEY
-      - key: BASE_URL
-        fromService:
-          type: web
-          name: arxiv-star-viewer
-          envVarKey: BASE_URL
-      - key: GOOGLE_MODEL
-        fromService:
-          type: web
-          name: arxiv-star-viewer
-          envVarKey: GOOGLE_MODEL
-    
-    # The cron job must also mount the same persistent disk to access and update the database.
-    disks:
-      - name: data-disk
-        mountPath: /app/data
-        fromService:
-          type: web
-          name: arxiv-star-viewer
-
+        value: 3.11
