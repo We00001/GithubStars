@@ -6,7 +6,7 @@ services:
     buildCommand: "pip install -r requirements.txt"
     startCommand: "gunicorn app:app"
     envVars:
-      - key: GITHUB_API_KEY
+      - key: STAR_API_KEY
         sync: false
       - key: GEMINI_API_KEY
         sync: false
