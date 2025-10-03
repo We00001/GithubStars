@@ -20,7 +20,7 @@ from tqdm import tqdm
 # --- Configuration & Setup ---
 load_dotenv()
 # Load environment variables (ensure they are set in .env or Render dashboard)
-GITHUB_API_KEY = os.getenv("GITHUB_API_KEY")
+GITHUB_API_KEY = os.getenv("STAR_API_KEY")
 # ... add other initializations for your scrapers here ...
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 category = "cs.AI"
