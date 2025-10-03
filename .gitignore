@@ -30,3 +30,5 @@ star_api.log
 modify_data_set.py
 script_error.log
 script.log
+arxiv_visualizer_website/
+visualizer_example/
