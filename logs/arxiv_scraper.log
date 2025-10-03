@@ -1440,3 +1440,5 @@
 2025-10-03 13:04:54,599 - INFO - https://api.github.com/repos/anonymized/GLAIError: 404 - Not Found
 2025-10-03 13:04:55,309 - INFO - https://api.github.com/repos/katha-ai/adqaError: 404 - Not Found
 2025-10-03 13:04:58,816 - INFO - https://api.github.com/repos/YurunChen/Graph2EvalError: 404 - Not Found
+2025-10-03 19:46:37,466 - INFO - Starting crawl for category 'cs.AI' from 2025-09-30 to 2025-10-01.
+2025-10-03 19:46:38,046 - INFO - Querying month 2025-09-30-2025-10-01. Total results: 200

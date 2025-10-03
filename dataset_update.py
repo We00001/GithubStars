@@ -3,14 +3,16 @@
 import os
 import sqlite3
 import pandas as pd
+from tqdm import tqdm
 from datetime import date
 from dotenv import load_dotenv
-# import argparse
-from githublink_extractor import extract_github
-from arxiv_scraper import arxiv_scraper
-from star_scraper import crawl_star
+
+from scripts.githublink_extractor import extract_github
+from scripts.arxiv_scraper import arxiv_scraper
+from scripts.star_scraper import crawl_star
 from datetime import datetime, timedelta
-from tqdm import tqdm
+
+# import argparse
 # parser = argparse.ArgumentParser()
 # parser.add_argument("-c", "--category",type= str, default="cs.AI", help="the category you want to crawl")
 # parser.add_argument("-p", "--path", type=str, default= "data", help="the path of folder you want to save the data")
