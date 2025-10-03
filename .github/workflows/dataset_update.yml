@@ -1,0 +1,46 @@
+name: Update Dataset
+
+# When to trigger
+on:
+  schedule:
+    - cron: "0 8 * * *"  # every day at 00:00 UTC
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+
+    env:  # Environment variables (from GitHub Secrets)
+      GITHUB_API_KEY: ${{ secrets.GITHUB_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GOOGLE_MODEL: ${{ secrets.GOOGLE_MODEL }}
+
+    steps:
+      # 1. Checkout the repository
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 2. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. Run dataset update
+      - name: Update dataset
+        run: python dataset_update.py
+
+      # 5. Commit updated database back to repo
+      - name: Commit database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/database.sqlite
+          git commit -m "Update database"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
