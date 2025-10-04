@@ -26,9 +26,12 @@ GITHUB_API_KEY = os.getenv("STAR_API_KEY")
 # ... add other initializations for your scrapers here ...
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 category = "cs.AI"
+
+
 start_date = (datetime.now()-timedelta(days=3)).strftime('%Y-%m-%d')
 end_date = (datetime.now()-timedelta(days=2)).strftime('%Y-%m-%d')
-
+print(start_date)
+print(end_date)
 # The database will be stored on Render's persistent disk.
 DB_PATH = "data/arxiv.db"
 
@@ -171,7 +174,7 @@ def update_star_counts():
 
 if __name__ == "__main__":
     initialize_database()
-    update_papers_from_arxiv()
+    # update_papers_from_arxiv()
     update_star_counts()
     print("Database update process finished.")
 

@@ -11,7 +11,6 @@ app.debug = True
 
 DATABASE = 'data/arxiv.db'
 
-# --- Translations (Copied from your version) ---
 TRANSLATIONS = {
     'en': {
         'page_title': 'Star History Viewer', 'main_header': 'Paper Star Rankings',
