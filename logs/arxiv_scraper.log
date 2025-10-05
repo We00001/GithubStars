@@ -1835,3 +1835,29 @@
 2025-10-04 16:24:53,466 - INFO - https://api.github.com/repos/metadriverse/PPLError: 404 - Not Found
 2025-10-04 16:24:54,088 - INFO - https://api.github.com/repos/yuxuanou623/AortaDiff.gitError: 404 - Not Found
 2025-10-04 16:24:54,668 - INFO - https://api.github.com/repos/anukritisingh/AFFORD2ACTError: 404 - Not Found
+2025-10-05 18:30:24,163 - INFO - Starting crawl for category 'cs.AI' from 2025-10-02 to 2025-10-03.
+2025-10-05 18:30:24,632 - INFO - Querying month 2025-10-02-2025-10-03. Total results: 0
+2025-10-05 18:30:29,527 - INFO - https://api.github.com/repos/Mohamed-Imed-Eddine/QUARTZError: 404 - Not Found
+2025-10-05 18:30:31,373 - INFO - https://api.github.com/repos/NJU-RL/DIVERError: 404 - Not Found
+2025-10-05 18:30:31,737 - INFO - https://api.github.com/repos/hltcoe/auto-argueError: 404 - Not Found
+2025-10-05 18:30:32,783 - INFO - https://api.github.com/repos/lsliwko/masbError: 404 - Not Found
+2025-10-05 18:30:33,287 - INFO - https://api.github.com/repos/the-jb/cureError: 404 - Not Found
+2025-10-05 18:30:33,416 - INFO - https://api.github.com/repos/NuRisk/NuRiskError: 404 - Not Found
+2025-10-05 18:30:34,124 - INFO - https://api.github.com/repos/XPgogogo/scUnity-AIError: 404 - Not Found
+2025-10-05 18:30:35,130 - INFO - https://api.github.com/repos/zzhao71/Controlled-Generation-for-Private-Synthetic-Text.gitError: 404 - Not Found
+2025-10-05 18:30:36,022 - INFO - https://api.github.com/repos/FangjiW/BaB-probError: 404 - Not Found
+2025-10-05 18:30:36,871 - INFO - https://api.github.com/repos/maishathasin/AInimismError: 404 - Not Found
+2025-10-05 18:30:43,552 - INFO - https://api.github.com/repos/aialt/PhoPileError: 404 - Not Found
+2025-10-05 18:30:43,904 - INFO - https://api.github.com/repos/anonymized/GLAIError: 404 - Not Found
+2025-10-05 18:30:45,058 - INFO - https://api.github.com/repos/katha-ai/adqaError: 404 - Not Found
+2025-10-05 18:30:55,418 - INFO - https://api.github.com/repos/binomial14/EvolveCaptionsError: 404 - Not Found
+2025-10-05 18:30:56,549 - INFO - https://api.github.com/repos/Day333/KairosError: 404 - Not Found
+2025-10-05 18:30:58,591 - INFO - https://api.github.com/repos/PCA-POSC-Caesar-Association/IDO_Use_Case_Valve_Ontology_PublicError: 404 - Not Found
+2025-10-05 18:30:59,501 - INFO - https://api.github.com/repos/motokinaru/LENOHA-medical-dialogueError: 404 - Not Found
+2025-10-05 18:30:59,664 - INFO - https://api.github.com/repos/microsoft/cua-blind-goal-directednessError: 404 - Not Found
+2025-10-05 18:31:00,398 - INFO - https://api.github.com/repos/log-postech/elsaError: 404 - Not Found
+2025-10-05 18:31:00,788 - INFO - https://api.github.com/repos/joey234/llm_traj_recError: 404 - Not Found
+2025-10-05 18:31:01,238 - INFO - https://api.github.com/repos/cloversjtu/PsychoBenchError: 404 - Not Found
+2025-10-05 18:31:01,801 - INFO - https://api.github.com/repos/metadriverse/PPLError: 404 - Not Found
+2025-10-05 18:31:02,517 - INFO - https://api.github.com/repos/yuxuanou623/AortaDiff.gitError: 404 - Not Found
+2025-10-05 18:31:03,595 - INFO - https://api.github.com/repos/anukritisingh/AFFORD2ACTError: 404 - Not Found
