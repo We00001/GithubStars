@@ -12,13 +12,6 @@ from scripts.arxiv_scraper import arxiv_scraper
 from scripts.star_scraper import crawl_star
 from datetime import datetime, timedelta
 
-# import argparse
-# parser = argparse.ArgumentParser()
-# parser.add_argument("-c", "--category",type= str, default="cs.AI", help="the category you want to crawl")
-# parser.add_argument("-p", "--path", type=str, default= "data", help="the path of folder you want to save the data")
-# parser.add_argument("-s", "--start_date", type=str, default= None, help="The start time in yyyy-mm-dd format.")
-# parser.add_argument("-e", "--end_date", type=str, default= None, help="The start time in yyyy-mm-dd format.")
-# args = parser.parse_args()
 # --- Configuration & Setup ---
 load_dotenv()
 # Load environment variables (ensure they are set in .env or Render dashboard)
@@ -174,7 +167,7 @@ def update_star_counts():
 
 if __name__ == "__main__":
     initialize_database()
-    # update_papers_from_arxiv()
+    update_papers_from_arxiv()
     update_star_counts()
     print("Database update process finished.")
 
