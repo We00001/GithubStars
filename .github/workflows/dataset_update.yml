@@ -1,47 +1,45 @@
 name: Update Dataset
 
-# When to trigger
 on:
   schedule:
-    - cron: "0 8 * * *"  # every day at 00:00 UTC
-  workflow_dispatch:      # allows manual trigger
+    - cron: "0 8 * * *"  # every day at 08:00 UTC
+  workflow_dispatch:
+
 permissions:
-  contents: write   # give write access
-  
+  contents: write  # allow push
+
 jobs:
   update-database:
     runs-on: ubuntu-latest
 
-    env:  # Environment variables (from GitHub Secrets)
+    env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       STAR_API_KEY: ${{ secrets.STAR_API_KEY }}
       GOOGLE_MODEL: "gemini-2.5-flash"
-    steps:
-      # 1. Checkout the repository
-      - name: Checkout repo
-        uses: actions/checkout@v3
 
-      # 2. Setup Python
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: "3.11"
 
-      # 3. Install dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # 4. Run dataset update
-      - name: Update dataset
+      - name: Run dataset update
         run: python dataset_update.py
 
-      # 5. Commit updated database back to repo
-      - name: Commit database
+      - name: Commit and push updated dataset
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update database"
-          git push origin main
+          git add -A
+          git commit -m "Update dataset $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
