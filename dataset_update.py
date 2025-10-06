@@ -26,7 +26,7 @@ end_date = (datetime.now()-timedelta(days=2)).strftime('%Y-%m-%d')
 print(start_date)
 print(end_date)
 # The database will be stored on Render's persistent disk.
-DB_PATH = "data/arxiv.db"
+db_path = os.path.join(os.path.dirname(__file__), "data", "arxiv.db")
 
 def initialize_database():
     """Create the database and tables if they don't exist."""
