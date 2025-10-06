@@ -162,6 +162,7 @@ def update_star_counts():
             VALUES (?, ?, ?)
         ''', star_updates)
         conn.commit()
+        conn.close()
     print("Star counts updated for today.")
 
 
