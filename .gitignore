@@ -36,3 +36,4 @@ run_daily.sh
 daily.log
 launchd_err.log
 launchd_out.log
+templates/
