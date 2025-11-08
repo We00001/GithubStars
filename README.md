@@ -9,10 +9,6 @@ This project aims to collect and visualize the star counts of GitHub repositorie
 3.  **Scrape Star Counts**: Use the `star_scraper.py` script to get the current star count for each GitHub repositories.
 4.  **Generate a Visualization Webpage**: Use the `app.py` script to host an interactive webpage for visualization.
 
-## Web Server
-Run the `app.py` script to start the web server. Run the `dataset_update.py` script to update new articles. NOTE: the `dataset_update.py` script captures the article from 3 days before running day to 2 days before running day.
-
-
 ## Prerequisites & Setup
 
 Before running the project, make sure you have **Python 3.8+** installed.  
@@ -53,3 +49,9 @@ pip install -r requirements.txt
 ## Configuration  
 The `.env.example` file lists the environment variables that may need to be configured (such as the arXiv API key, GitHub token, etc.).
 Copy `.env.example` to `.env` and fill in the actual values.
+
+## Basic Use 
+Run the `app.py` script to start the web server. Run the `dataset_update.py` script to update new articles. 
+
+*NOTE: the `dataset_update.py` script captures the article from 3 days before running day to 2 days before running day by default.*
+
