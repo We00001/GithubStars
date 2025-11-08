@@ -32,3 +32,7 @@ script_error.log
 script.log
 arxiv_visualizer_website/
 visualizer_example/
+run_daily.sh
+daily.log
+launchd_err.log
+launchd_out.log
