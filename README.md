@@ -7,7 +7,7 @@ This project aims to collect and visualize the star counts of GitHub repositorie
 1.  **Scrape arXiv Papers**: Use the `arxiv_scraper.py` script to fetch paper information from arXiv within a specified category and time range.
 2.  **Extract GitHub Links**: Use the `githublink_extractor.py` script to identify and extract GitHub repository links from the scraped papers with LLM model: Gemini 2.5 pro.
 3.  **Scrape Star Counts**: Use the `star_scraper.py` script to get the current star count for each GitHub repositories.
-4.  **Generate a Visualization Webpage**: Use the `visualization.py` script to process the collected data and create an interactive webpage for visualization.
+4.  **Generate a Visualization Webpage**: Use the `app.py` script to host an interactive webpage for visualization.
 
 ## Web Server
 Run the `app.py` script to start the web server. Run the `dataset_update.py` script to update new articles. NOTE: the `dataset_update.py` script captures the article from 3 days before running day to 2 days before running day.
