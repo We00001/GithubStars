@@ -50,7 +50,7 @@ pip install -r requirements.txt
 The `.env.example` file lists the environment variables that may need to be configured (such as the arXiv API key, GitHub token, etc.).
 Copy `.env.example` to `.env` and fill in the actual values.
 
-## Basic Use 
+## Basic Usage
 Run the `app.py` script to start the web server. Run the `dataset_update.py` script to update new articles. 
 
 *NOTE: the `dataset_update.py` script captures the article from 3 days before running day to 2 days before running day by default.*
