@@ -12,6 +12,12 @@ from scripts.arxiv_scraper import arxiv_scraper
 from scripts.star_scraper import crawl_star
 from datetime import datetime, timedelta
 
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("-s", "--start_date", type=str, default= None, help="The start time in yyyy-mm-dd format.")
+parser.add_argument("-e", "--end_date", type=str, default= None, help="The start time in yyyy-mm-dd format.")
+args = parser.parse_args()
+
 # --- Configuration & Setup ---
 load_dotenv()
 # Load environment variables (ensure they are set in .env or Render dashboard)
@@ -20,9 +26,16 @@ GITHUB_API_KEY = os.getenv("STAR_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 category = "cs.AI"
 
+if args.start_date is None:
+    start_date = (datetime.now()-timedelta(days=3)).strftime('%Y-%m-%d')
+else:
+    start_date = args.start_date
 
-start_date = (datetime.now()-timedelta(days=3)).strftime('%Y-%m-%d')
-end_date = (datetime.now()-timedelta(days=2)).strftime('%Y-%m-%d')
+if args.end_date is None:
+    end_date = (datetime.now()-timedelta(days=2)).strftime('%Y-%m-%d')
+else:
+    end_date = args.end_date
+
 print(start_date)
 print(end_date)
 # The database will be stored on Render's persistent disk.
@@ -82,7 +95,7 @@ def update_papers_from_arxiv():
     # --- End of your scraping logic ---
     
     print(f"Found {len(new_papers_list)} new papers. Processing and adding to database...")
-    
+    i =0
     # Prepare data for insertion
     papers_to_insert = []
     for paper_data in tqdm(new_papers_list, desc="Processing papers"):
@@ -109,7 +122,28 @@ def update_papers_from_arxiv():
         # --- End of your GitHub link logic ---
         
         papers_to_insert.append((arxiv_id, title, pdf_link, published_date, github_link))
+        if i > 9:
+            with sqlite3.connect(DB_PATH) as conn:
+                cursor = conn.cursor()
+                # Use executemany for efficient bulk insertion.
+                # INSERT OR IGNORE prevents errors if a paper's arxiv_id already exists.
 
+                cursor.executemany('''
+                    INSERT INTO papers (arxiv_id, title, pdf_link, published_date, github_link)
+                    VALUES (?, ?, ?, ?, ?)
+                    ON CONFLICT(arxiv_id) DO UPDATE SET
+                    title = excluded.title,
+                    pdf_link = excluded.pdf_link,
+                    published_date = excluded.published_date,
+                    github_link = excluded.github_link
+                ''', papers_to_insert)
+                conn.commit()
+            print(f"Database update complete. {cursor.rowcount} new papers were added.")
+            papers_to_insert = []
+            i = 0
+        i += 1
+
+        
     with sqlite3.connect(DB_PATH) as conn:
         cursor = conn.cursor()
         # Use executemany for efficient bulk insertion.
@@ -162,7 +196,6 @@ def update_star_counts():
             VALUES (?, ?, ?)
         ''', star_updates)
         conn.commit()
-    conn.close()
     print("Star counts updated for today.")
 
 

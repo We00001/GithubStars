@@ -81,7 +81,7 @@ def index():
 
     # --- 1. Get Parameters ---
     selected_date = request.args.get("date", available_dates[0])
-    growth_days = int(request.args.get("growth_days", 7))
+    growth_days = int(request.args.get("growth_days", 1))
     sort_by = request.args.get("sort_by", "stars")
     order = request.args.get("order", "desc")
     page = int(request.args.get("page", 1))

@@ -171,6 +171,7 @@ def githublink_extractor(data_path, gemini_api_key, input_file = "arxiv.csv", ou
             url = row[2]
             # print(url)
             github_link = extract_github(prompt1, prompt2, gemini_api_key, pdf_url = url)
+            time.sleep(3)
             if github_link is not None:
                 row_new = row + [github_link]
                 # print(row_new)
